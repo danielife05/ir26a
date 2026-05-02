@@ -1,0 +1,8548 @@
+the project gutenberg ebook of oedipus king of thebes by sophocles
+
+
+
+this ebook is for the use of anyone anywhere at no cost and with
+
+almost no restrictions whatsoever  you may copy it give it away or
+
+reuse it under the terms of the project gutenberg license included
+
+with this ebook or online at wwwgutenbergorg
+
+
+
+
+
+title oedipus king of thebes
+
+       translated into english rhyming verse with explanatory notes
+
+
+
+author sophocles
+
+
+
+translator gilbert murray
+
+
+
+release date december 31 2008 ebook 27673
+
+
+
+language english
+
+
+
+character set encoding iso88591
+
+
+
+ start of this project gutenberg ebook oedipus king of thebes 
+
+
+
+
+
+
+
+
+
+produced by sigal alon turgut dincer r cedron and the
+
+online distributed proofreading team at httpswwwpgdpnet
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+oedipus
+
+
+
+king of thebes
+
+
+
+by
+
+
+
+sophocles
+
+
+
+
+
+translated into english rhyming verse
+
+
+
+ with explanatory notes by
+
+
+
+gilbert murray
+
+
+
+lld dlitt fba
+
+
+
+regius professor of greek in the university of oxford
+
+
+
+
+
+fourteenth thousand
+
+
+
+
+
+ london george allen  unwin ltd
+
+ ruskin house 40 museum street wc1
+
+
+
+
+
+
+
+ first published      february 1911
+
+ reprinted            january  1912
+
+                               1912
+
+                       february 1912
+
+                       july     1917
+
+
+
+
+
+
+
+
+
+preface
+
+
+
+
+
+if i have turned aside from euripides for a moment and attempted a
+
+translation of the great stage masterpiece of sophocles my excuse must
+
+be the fascination of this play which has thrown its spell on me as on
+
+many other translators yet i may plead also that as a rule every
+
+diligent student of these great works can add something to the
+
+discoveries of his predecessors and i think i have been able to bring
+
+out a few new points in the old and muchstudied oedipus chiefly
+
+points connected with the dramatic technique and the religious
+
+atmosphere
+
+
+
+mythologists tell us that oedipus was originally a daemon haunting mount
+
+kithairon and jocasta a form of that earthmother who as aeschylus
+
+puts it bringeth all things to being and when she hath reared them
+
+receiveth again their seed into her body choephori 127 cf
+
+crusius beiträge z gr myth 21 that stage of the story lies very
+
+far behind the consciousness of sophocles but there does cling about
+
+both his hero and his heroine a great deal of very primitive atmosphere
+
+there are traces in oedipus of the prehellenic medicine king the
+
+basileus who is also a theos and can make rain or blue sky
+
+pestilence or fertility this explains many things in the priests first
+
+speech in the attitude of the chorus and in oedipus own language
+
+after the discovery it partly explains the hostility of apollo who is
+
+not a mere motiveless destroyer but a true olympian crushing his
+
+earthborn rival and in the same way the peculiar royalty of jocasta
+
+which makes oedipus at times seem not the king but the consort of the
+
+queen brings her near to that class of consecrated queens described in
+
+dr frazers lectures on the kingship who are honoured as no woman
+
+now living on the earth
+
+
+
+the story itself and the whole spirit in which sophocles has treated
+
+it belong not to the fifth century but to that terrible and romantic
+
+past from which the fifth century poets usually drew their material the
+
+atmosphere of brooding dread the pollution the curses the insane and
+
+beastlike cruelty as an ancient greek commentator calls it of
+
+piercing the exposed childs feet in order to ensure its death and yet
+
+avoid having actually murdered it schol eur phoen 26 the whole
+
+treatment of the parricide and incest not as moral offences capable of
+
+being rationally judged or even excused as unintentional but as
+
+monstrous and inhuman pollutions the last limit of imaginable horror
+
+all these things take us back to dark regions of preclassical and even
+
+prehomeric belief we have no right to suppose that sophocles thought
+
+of the involuntary parricide and metrogamy as the people in his play do
+
+indeed considering the general tone of his contemporaries and friends
+
+we may safely assume that he did not but at any rate he has allowed no
+
+breath of later enlightenment to disturb the primaeval gloom of his
+
+atmosphere
+
+
+
+does this in any way make the tragedy insincere i think not we know
+
+that people did feel and think about pollution in the way which
+
+sophocles represents and if they so felt then the tragedy was there
+
+
+
+                                   
+
+
+
+i think these considerations explain the remarkable absence from this
+
+play of any criticism of life or any definite moral judgment i know
+
+that some commentators have found in it a humble and unquestioning
+
+piety but i cannot help suspecting that what they saw was only a
+
+reflection from their own pious and unquestioning minds man is indeed
+
+shown as a plaything of gods but of gods strangely and
+
+incomprehensibly malignant whose ways there is no attempt to explain or
+
+justify the original story indeed may have had one of its roots in a
+
+theban moral tale aelian varia historia 2 7 tells us that the
+
+exposure of a child was forbidden by theban law the state of feeling
+
+which produced this law against the immensely strong conception of the
+
+patria potestas may also have produced a folklore story telling how a
+
+boy once was exposed in a peculiarly cruel way by his wicked parents
+
+and how heaven preserved him to take upon both of them a vengeance which
+
+showed that the unnatural father had no longer a fathers sanctity nor
+
+the unnatural mother a mothers but as far as sophocles is concerned
+
+if anything in the nature of a criticism of life has been admitted into
+
+the play at all it seems to be only a flash or two of that profound and
+
+pessimistic arraignment of the ruling powers which in other plays also
+
+opens at times like a sudden abyss across the smooth surface of his art
+
+
+
+there is not much philosophy in the oedipus there is not in
+
+comparison with other greek plays much pure poetry what there is is
+
+drama drama of amazing grandeur and power in respect of plot no greek
+
+play comes near it it contains no doubt a few points of unsophisticated
+
+technique such as can be found in all ancient and nearly all modern
+
+drama for instance the supposition that oedipus has never inquired
+
+into the death of his predecessor on the throne but such flaws are
+
+external not essential on the whole i can only say that the work of
+
+translation has made me feel even more strongly than before the
+
+extraordinary grip and reality of the dialogue the deftness of the
+
+construction and except perhaps for a slight drop in the creon scene
+
+the unbroken crescendo of tragedy from the opening to the close
+
+
+
+                                   
+
+
+
+where plotinterest is as strong as it is in the oedipus
+
+characterinterest is apt to be comparatively weak yet in this play
+
+every character is interesting vital and distinct oedipus himself is
+
+selected by aristotle as the most effective kind of tragic hero
+
+because first he has been great and glorious and secondly he has not
+
+been preeminently virtuous or just this is true in its way oedipus
+
+is too passionate to be just but he is at least noble in his
+
+impetuosity his devotion and his absolute truthfulness it is
+
+important to realise that at the beginning of the play he is prepared
+
+for an oracle commanding him to die for his people pp 6 7 and he
+
+never thinks of refusing that task any more than he tries to elude the
+
+doom that actually comes or to conceal any fact that tells against him
+
+if oedipus had been an ordinary man the play would have been a very
+
+different and a much poorer thing
+
+
+
+jocasta is a wonderful study euripides might have brought her character
+
+out more explicitly and more at length but even he could not have made
+
+her more living or more tragic or represented more subtly in her
+
+relation to oedipus both the mothers protecting love and the mothers
+
+authority as for her impiety of which the old commentaries used to
+
+speak with much disapproval the essential fact in her life is that both
+
+her innocence and her happiness have as she believes been poisoned by
+
+the craft of priests she and laïus both believed a bad oracle her
+
+terror and her love for her husband made her consent to an infamous act
+
+of cruelty to her own child an act of which the thought sickens her
+
+still and about which she cannot when she tries speak the whole
+
+truth see note on p 42 and after all her crime was for nothing the
+
+oracle proved to be a lie never again will she believe a priest
+
+
+
+as to tiresias i wish to ask forgiveness for an unintelligent criticism
+
+made twelve years ago in my ancient greek literature p 240 i
+
+assumed then what i fancy was a common assumption that tiresias was a
+
+sympathetic prophet compact of wisdom and sanctity and all the
+
+qualities which beseem that calling and i complained that he did not
+
+consistently act as such i was quite wrong tiresias is not anything so
+
+insipid he is a study of a real type and a type which all the
+
+tragedians knew the character of the professional seer or man of god
+
+has in the imagination of most ages fluctuated between two poles at one
+
+extreme are sanctity and superhuman wisdom at the other fraud and
+
+mental disease selfworship aping humility and personal malignity in
+
+the guise of obedience to god there is a touch of all these qualities
+
+good and bad alike in tiresias he seems to me a most lifelike as well
+
+as a most dramatic figure
+
+
+
+as to the chorus it generally plays a smaller part in sophocles than in
+
+euripides and aeschylus and the oedipus forms no exception to that
+
+rule it seems to me that sophocles was feeling his way towards a
+
+technique which would have approached that of the new comedy or even the
+
+elizabethan stage and would perhaps have done without a chorus
+
+altogether in aeschylus greek tragedy had been a thing of traditional
+
+forms and clearcut divisions the religious ritual showed through and
+
+the visible gods and the disguised dancers were allowed their full
+
+value and euripides in the matter of outward formalism went back to the
+
+aeschylean type and even beyond it prologue chorus messenger visible
+
+god all the traditional forms were left clearcut and undisguised and
+
+all developed to full effectiveness on separate and specific lines but
+
+sophocles worked by blurring his structural outlines just as he blurs
+
+the ends of his verses in him the traditional divisions are all made
+
+less distinct all worked over in the direction of greater naturalness
+
+at any rate in externals this was a very great gain but of course some
+
+price had to be paid for it part of the price was that sophocles could
+
+never attempt the tremendous choric effects which euripides achieves in
+
+such plays as the bacchae and the trojan women his lyrics great as
+
+they sometimes are move their wings less boldly they seem somehow tied
+
+to their particular place in the tragedy and they have not quite the
+
+strength to lift the whole drama bodily aloft with them at least
+
+that is my feeling but i realise that this may be only the complaint of
+
+an unskilful translator blaming his material for his own defects of
+
+vision
+
+
+
+in general both in lyrics and in dialogue i believe i have allowed
+
+myself rather less freedom than in translating euripides this is partly
+
+because the writing of euripides being less businesslike and more
+
+penetrated by philosophic reflections and by subtleties of technique
+
+actually needs more thorough recasting to express it at all adequately
+
+partly because there is in sophocles amid all his passion and all his
+
+naturalness a certain severe and classic reticence which though
+
+impossible really to reproduce by any method is less misrepresented by
+
+occasional insufficiency than by habitual redundance
+
+
+
+i have asked pardon for an ill deed done twelve years ago i should like
+
+to end by speaking of a benefit older still and express something of
+
+the gratitude i feel to my old master francis storr whose teaching is
+
+still vivid in my mind and who first opened my eyes to the grandeur of
+
+the oedipus
+
+
+
+g m
+
+
+
+
+
+
+
+
+
+ characters in the play
+
+
+
+
+
+ oedipus supposed son of polybus king of corinth now elected king of
+
+   thebes
+
+
+
+ jocasta queen of thebes widow of laïus the late king and now wife
+
+   to oedipus
+
+
+
+ creon a prince of thebes brother to jocasta
+
+
+
+ tiresias an old blind seer
+
+
+
+ priest of zeus
+
+
+
+ a stranger from corinth
+
+
+
+ a shepherd of king laïus
+
+
+
+ a messenger from the palace
+
+
+
+ chorus of the elders of thebes
+
+
+
+ a crowd of suppliants men women and children
+
+
+
+
+
+ the following do not appear in the play but are frequently mentioned
+
+
+
+ laïus pronounced as three syllables láius the last king of thebes
+
+   before oedipus
+
+
+
+ cadmus the founder of thebes son of agênor king of sidon
+
+
+
+ polybus and meropê king and queen of corinth supposed to be the
+
+   father and mother of oedipus
+
+
+
+ apollo the god specially presiding over the oracle of delphi and the
+
+   island delos he is also called phoebus the pure loxias
+
+   supposed to mean he of the crooked words and lykeios supposed
+
+   to mean wolfgod he is also the great averter of evil and has
+
+   names from the cries iê pronounced eeay and paian cries
+
+   for healing or for the frightening away of evil influences
+
+
+
+ kithairon a mass of wild mountain southwest of thebes
+
+
+
+
+
+
+
+
+
+argument
+
+
+
+while thebes was under the rule of laïus and jocasta there appeared a
+
+strange and monstrous creature the riddling sphinx the shewolf of
+
+the woven song who in some unexplained way sang riddles of death and
+
+slew the people of thebes laïus went to ask aid of the oracle of
+
+delphi but was slain mysteriously on the road soon afterwards there
+
+came to thebes a young prince of corinth oedipus who had left his home
+
+and was wandering he faced the sphinx and read her riddle whereupon
+
+she flung herself from her rock and died the throne being vacant was
+
+offered to oedipus and with it the hand of the queen jocasta
+
+
+
+some ten or twelve years afterwards a pestilence has fallen on thebes
+
+at this point the play begins
+
+
+
+
+
+the date of the first production of the play is not known but was
+
+probably about the year 425 bc
+
+
+
+
+
+
+
+
+
+oedipus king of thebes
+
+
+
+
+
+scenebefore the palace of oedipus at thebes a crowd of suppliants
+
+of all ages are waiting by the altar in front and on the steps of the
+
+palace among them the priest of zeus as the palace door opens and
+
+oedipus comes out all the suppliants with a cry move towards him in
+
+attitudes of prayer holding out their olive branches and then become
+
+still again as he speaks
+
+
+
+
+
+oedipus
+
+
+
+  my children fruit of cadmus ancient tree
+
+  new springing wherefore thus with bended knee
+
+  press ye upon us laden all with wreaths
+
+  and suppliant branches and the city breathes
+
+  heavy with incense heavy with dim prayer
+
+  and shrieks to affright the slayerchildren care
+
+  for this so moves me i have scorned withal
+
+  message or writing seeing tis i ye call
+
+  tis i am come worldhonoured oedipus
+
+    old man do thou declarethe rest have thus
+
+  their championin what mood stand ye so still
+
+  in dread or sure hope know ye not my will
+
+  is yours for aid gainst all stern were indeed
+
+  the heart that felt not for so dire a need
+
+
+
+sidenote vv 1539
+
+
+
+priest
+
+
+
+  o oedipus who holdest in thy hand
+
+  my city thou canst see what ages stand
+
+  at these thine altars some whose little wing
+
+  scarce flieth yet and some with long living
+
+  oerburdened priests as i of zeus am priest
+
+  and chosen youths and wailing hath not ceased
+
+  of thousands in the marketplace and by
+
+  athenas twofold temples and the dry
+
+  ash of ismênus portentbreathing shore
+
+    for all our ship thou seest is weak and sore
+
+  shaken with storms and no more lighteneth
+
+  her head above the waves whose trough is death
+
+  she wasteth in the fruitless buds of earth
+
+  in parchèd herds and travail without birth
+
+  of dying women yea and midst of it
+
+  a burning and a loathly god hath lit
+
+  sudden and sweeps our land this plague of power
+
+  till cadmus house grows empty hour by hour
+
+  and hells house rich with steam of tears and blood
+
+    o king not god indeed nor peer to god
+
+  we deem thee that we kneel before thine hearth
+
+  children and old men praying but of earth
+
+  a thing consummate by thy star confessed
+
+  thou walkest and by converse with the blest
+
+  who came to thebes so swift and swept away
+
+  the sphinxs song the tribute of dismay
+
+  that all were bowed beneath and made us free
+
+  a stranger thou naught knowing more than we
+
+  nor taught of any man but by gods breath
+
+  filled thou didst raise our life so the world saith
+
+  so we say
+
+
+
+sidenote vv 4069
+
+
+
+             therefore now o lord and chief
+
+  we come to thee again we lay our grief
+
+  on thy head if thou find us not some aid
+
+  perchance thou hast heard gods talking in the shade
+
+  of night or eke some man to him that knows
+
+  men say each chance that falls each wind that blows
+
+  hath life when he seeks counsel up o chief
+
+  of men and lift thy city from its grief
+
+  face thine own peril all our land doth hold
+
+  thee still our saviour for that help of old
+
+  shall they that tell of thee hereafter tell
+
+  by him was thebes raised up and after fell
+
+  nay lift us till we slip no more oh let
+
+  that bird of old that made us fortunate
+
+  wing back be thou our oedipus again
+
+  and let thy kingdom be a land of men
+
+  not emptiness walls towers and ships they all
+
+  are nothing with no men to keep the wall
+
+
+
+oedipus
+
+
+
+  my poor poor children surely long ago
+
+  i have read your trouble stricken well i know
+
+  ye all are stricken sore yet verily
+
+  not one so stricken to the heart as i
+
+  your grief it cometh to each man apart
+
+  for his own loss none others but this heart
+
+  for thee and me and all of us doth weep
+
+  wherefore it is not to one sunk in sleep
+
+  ye come with waking many tears these days
+
+  for your sake i have wept and many ways
+
+  have wandered on the beating wings of thought
+
+  and finding but one hope that i have sought
+
+
+
+sidenote vv 7086
+
+
+
+  and followed i have sent menoikeus son
+
+  creon my own wifes brother forth alone
+
+  to apollos house in delphi there to ask
+
+  what word what deed of mine what bitter task
+
+  may save my city
+
+                    and the lapse of days
+
+  reckoned i can but marvel what delays
+
+  his journey tis beyond all thought that thus
+
+  he comes not beyond need but when he does
+
+  then call me false and traitor if i flee
+
+  back from whatever task god sheweth me
+
+
+
+priest
+
+
+
+  at point of time thou speakest mark the cheer
+
+  yonder is that not creon drawing near
+
+
+
+    they all crowd to gaze where creon is
+
+        approaching in the distance
+
+
+
+oedipus
+
+
+
+  o lord apollo help and be the star
+
+  that guides him joyous as his seemings are
+
+
+
+  priest
+
+
+
+  oh surely joyous how else should he bear
+
+  that fruited laurel wreathed about his hair
+
+
+
+  oedipus
+
+
+
+  we soon shall knowtis not too far for one
+
+  clearvoiced
+
+
+
+    shouting ho brother prince menoikeus son
+
+  what message from the god
+
+
+
+sidenote vv 8799
+
+
+
+creon from a distance
+
+
+
+                               message of joy
+
+
+
+enter creon
+
+
+
+  i tell thee what is now our worst annoy
+
+  if the right deed be done shall turn to good
+
+
+
+    the crowd which has been full of excited
+
+        hope falls to doubt and disappointment
+
+
+
+oedipus
+
+
+
+  nay but what is the message for my blood
+
+  runs neither hot nor cold for words like those
+
+
+
+creon
+
+
+
+  shall i speak now with all these pressing close
+
+  or pass withinto me both ways are fair
+
+
+
+oedipus
+
+
+
+  speak forth to all the grief that these men bear
+
+  is more than any fear for mine own death
+
+
+
+creon
+
+
+
+  i speak then what i heard from godthus saith
+
+  phoebus our lord and seer in clear command
+
+  an unclean thing there is hid in our land
+
+  eating the soil thereof this ye shall cast
+
+  out and not foster till all help be past
+
+
+
+oedipus
+
+
+
+  how cast it out what was the evil deed
+
+
+
+sidenote vv 100113
+
+
+
+creon
+
+
+
+  hunt the men out from thebes or make them bleed
+
+  who slew for blood it is that stirs today
+
+
+
+oedipus
+
+
+
+  who was the man they killed doth phoebus say
+
+
+
+creon
+
+
+
+  o king there was of old king laïus
+
+  in thebes ere thou didst come to pilot us
+
+
+
+oedipus
+
+
+
+  i know not that i ever saw his face
+
+
+
+creon
+
+
+
+ twas he and loxias now bids us trace
+
+  and smite the unknown workers of his fall
+
+
+
+oedipus
+
+
+
+  where in gods earth are they or how withal
+
+  find the blurred trail of such an ancient stain
+
+
+
+creon
+
+
+
+  in thebes he saidthat which men seek amain
+
+  they find tis things forgotten that go by
+
+
+
+oedipus
+
+
+
+  and where did laïus meet them did he die
+
+  in thebes or in the hills or some far land
+
+
+
+sidenote vv 114127
+
+
+
+creon
+
+
+
+  to ask gods will in delphi he had planned
+
+  his journey started and returned no more
+
+
+
+oedipus
+
+
+
+  and came there nothing back no message nor
+
+  none of his company that ye might hear
+
+
+
+creon
+
+
+
+  they all were slain save one man blind with fear
+
+  he came remembering naughtor almost naught
+
+
+
+oedipus
+
+
+
+  and what was that one thing has often brought
+
+  others could we but catch one little clue
+
+
+
+creon
+
+
+
+ twas not one man twas robbersthat he knew
+
+  who barred the road and slew him a great band
+
+
+
+oedipus
+
+
+
+  robbers what robber save the work was planned
+
+  by treason here would dare a risk so plain
+
+
+
+creon
+
+
+
+  so some men thought but laïus lay slain
+
+  and none to avenge him in his evil day
+
+
+
+sidenote vv 128148
+
+
+
+oedipus
+
+
+
+  and what strange mischief when your master lay
+
+  thus fallen held you back from search and deed
+
+
+
+creon
+
+
+
+  the darksonged sphinx was here we had no heed
+
+  of distant sorrows having death so near
+
+
+
+oedipus
+
+
+
+  it falls on me then i will search and clear
+
+  this darknesswell hath phoebus done and thou
+
+  too to recall that dead king even now
+
+  and with you for the right i also stand
+
+  to obey the god and succour this dear land
+
+  nor is it as for one that touches me
+
+  far off tis for mine own sake i must see
+
+  this sin cast out whoeer it was that slew
+
+  laïus the same wild hand may seek me too
+
+  and caring thus for laïus is but care
+
+  for mine own bloodup leave this altarstair
+
+  children take from it every suppliant bough
+
+  then call the folk of thebes say tis my vow
+
+  to uphold them to the end so god shall crown
+
+  our greatness or for ever cast us down
+
+
+
+    he goes in to the palace
+
+
+
+priest
+
+
+
+  my children risethe king most lovingly
+
+  hath promised all we came for and may he
+
+
+
+sidenote vv 149161
+
+
+
+  who sent this answer phoebus come confessed
+
+  helper to thebes and strong to stay the pest
+
+
+
+    the suppliants gather up their boughs and
+
+        stand at the side the chorus of theban
+
+        elders enter
+
+
+
+chorus
+
+
+
+    they speak of the oracle which they have not
+
+        yet heard and cry to apollo by his
+
+        special cry iê
+
+
+
+    a voice a voice that is borne on the holy way
+
+  what art thou o heavenly one o word of the houses of gold
+
+  thebes is bright with thee and my heart it leapeth yet is it cold
+
+        and my spirit faints as i pray
+
+            iê iê
+
+  what task o affrighter of evil what task shall thy people essay
+
+        one new as our newcome affliction
+
+          or an old toil returned with the years
+
+        unveil thee thou dread benediction
+
+          hopes daughter and fears
+
+
+
+    they pray to athena artemis and
+
+        apollo
+
+
+
+    zeuschild that knowest not death to thee i pray
+
+  o pallas next to thy sister who calleth thebes her own
+
+  artemis named of fair voices who sitteth her orbèd throne
+
+      in the throng of the market way
+
+
+
+sidenote vv 162189
+
+
+
+            and iê iê
+
+  apollo the pure the farsmiter o three that keep evil away
+
+      if of old for our citys desire
+
+        when the deathcloud hung close to her brow
+
+      ye have banished the wound and the fire
+
+        oh come to us now
+
+
+
+    they tell of the pestilence
+
+
+
+  wounds beyond telling my people sick unto death
+
+    and where is the counsellor where is the sword of thought
+
+  and holy earth in her increase perisheth
+
+    the child dies and the mother awaketh not
+
+            iê iê
+
+  we have seen them one on another gone as a bird is gone
+
+    souls that are flame yea higher
+
+    swifter they pass than fire
+
+      to the rocks of the dying sun
+
+
+
+    they end by a prayer to athena
+
+
+
+  their city wasteth unnumbered their children lie
+
+    where death hath cast them unpitied unwept upon
+
+  the altars stand as in seas of storm a high
+
+    rock standeth and wives and mothers grey thereon
+
+            weep weep and pray
+
+  lo joycries to fright the destroyer a flash in the dark they rise
+
+      then die by the sobs overladen
+
+      send help o heavenborn maiden
+
+        let us look on the light of her eyes
+
+
+
+sidenote vv 190217
+
+
+
+    to zeus that he drive out the slayer
+
+
+
+      and ares the abhorred
+
+      slayer who bears no sword
+
+  but shrieking wrapped in fire stands over me
+
+      make that he turn yea fly
+
+      broken windwasted high
+
+  down the vexed hollow of the vaster sea
+
+      or back to his own thrace
+
+      to harbour shelterless
+
+  where night hath spared he bringeth end by day
+
+      him him o thou whose hand
+
+      beareth the lightning brand
+
+  o father zeus now with thy thunder slay and slay
+
+
+
+    to apollo artemis and dionysus
+
+
+
+      where is thy goldstrung bow
+
+      o wolfgod where the flow
+
+  of living shafts unconquered from all ills
+
+      our helpers where the white
+
+      spears of thy sisters light
+
+  farflashing as she walks the wolfwild hills
+
+      and thou o goldencrown
+
+      theban and named our own
+
+  o winegleam voice of joy for ever more
+
+    ringed with thy maenads white
+
+    bacchus draw near and smite
+
+  smite with thy gladeyed flame the god whom gods abhor
+
+
+
+    during the last lines oedipus has
+
+        come out from the palace
+
+
+
+oedipus
+
+
+
+  thou prayest but my words if thou wilt hear
+
+  and bow thee to their judgement strength is near
+
+
+
+sidenote vv 218245
+
+
+
+  for help and a great lightening of ill
+
+  thereof i come to speak a stranger still
+
+  to all this tale a stranger to the deed
+
+  else save that i were clueless little need
+
+  had i to cast my net so wide and far
+
+  howbeit i being now as all ye are
+
+  a theban to all thebans high and low
+
+  do make proclaim if any here doth know
+
+  by what mans hand died laïus your king
+
+  labdacus son i charge him that he bring
+
+  to me his knowledge let him feel no fear
+
+  if on a townsmans body he must clear
+
+  our guilt the man shall suffer no great ill
+
+  but pass from thebes and live where else he will
+
+
+
+    no answer
+
+
+
+  is it some alien from an alien shore
+
+  ye know to have done the deed screen him no more
+
+  good guerdon waits you now and a kings love
+
+  hereafter
+
+             hah if still ye will not move
+
+  but fearing for yourselves or some near friend
+
+  reject my charge then hearken to what end
+
+  ye drive meif in this place men there be
+
+  who know and speak not lo i make decree
+
+  that while in thebes i bear the diadem
+
+  no man shall greet no man shall shelter them
+
+  nor give them water in their thirst nor share
+
+  in sacrifice nor shrift nor dying prayer
+
+  but thrust them from our doors the thing they hide
+
+  being this lands curse thus hath the god replied
+
+  this day to me from delphi and my sword
+
+  i draw thus for the dead and for gods word
+
+
+
+sidenote vv 246273
+
+
+
+    and lastly for the murderer be it one
+
+  hiding alone or more in unison
+
+  i speak on him this curse even as his soul
+
+  is foul within him let his days be foul
+
+  and life unfriended grind him till he die
+
+  more if he ever tread my hearth and i
+
+  know it be every curse upon my head
+
+  that i have spoke this day
+
+                              all i have said
+
+  i charge ye strictly to fulfil and make
+
+  perfect for my sake for apollos sake
+
+  and this lands sake deserted of her fruit
+
+  and cast out from her gods nay were all mute
+
+  at delphi still twere strange to leave the thing
+
+  unfollowed when a true man and a king
+
+  lay murdered all should search but i as now
+
+  our fortunes fallhis crown is on my brow
+
+  his wife lies in my arms and common fate
+
+  had but his issue been more fortunate
+
+  might well have joined our childrensince this red
+
+  chance hath so stamped its heel on laïus head
+
+  i am his champion left and as i would
+
+  for mine own father choose for ill or good
+
+  this quest to find the man who slew of yore
+
+  labdacus son the son of polydore
+
+  son of great cadmus whom agenor old
+
+  begat of thebes first master and behold
+
+  for them that aid me not i pray no root
+
+  nor seed in earth may bear them corn nor fruit
+
+  no wife bear children but this present curse
+
+  cleave to them close and other woes yet worse
+
+    enough ye other people of the land
+
+
+
+sidenote vv 274289
+
+
+
+  whose will is one with mine may justice stand
+
+  your helper and all gods for evermore
+
+
+
+    the crowd disperses
+
+
+
+leader
+
+
+
+  o king even while thy curse yet hovers oer
+
+  my head i answer thee i slew him not
+
+  nor can i shew the slayer but god wot
+
+  if phoebus sends this charge let phoebus read
+
+  its meaning and reveal who did the deed
+
+
+
+oedipus
+
+
+
+  aye that were just if of his grace he would
+
+  reveal it how shall man compel his god
+
+
+
+leader
+
+
+
+  second to that methinks twould help us most 
+
+
+
+oedipus
+
+
+
+  though it be third speak nothing should be lost
+
+
+
+leader
+
+
+
+  to our high seer on earth vision is given
+
+  most like to that high phoebus hath in heaven
+
+  ask of tiresias he could tell thee true
+
+
+
+oedipus
+
+
+
+  that also have i thought for aye and two
+
+  heralds have sent ere now twas creon set
+
+  me oni marvel that he comes not yet
+
+
+
+sidenote vv 290301
+
+
+
+leader
+
+
+
+  our other clues are weak old signs and far
+
+
+
+oedipus
+
+
+
+  what signs i needs must question all that are
+
+
+
+leader
+
+
+
+  some travellers slew him the tale used to be
+
+
+
+oedipus
+
+
+
+  the tale yes but the witness where is he
+
+
+
+leader
+
+
+
+  the man hath heard thy curses if he knows
+
+  the taste of fear he will not long stay close
+
+
+
+oedipus
+
+
+
+  he fear my words who never feared the deed
+
+
+
+leader
+
+
+
+  well there is one shall find himsee they lead
+
+  hither our lord tiresias in whose mind
+
+  all truth is born alone of human kind
+
+
+
+   enter tiresias led by a young disciple he is an old
+
+      blind man in a prophets robe dark unkempt and
+
+      sinister in appearance
+
+
+
+oedipus
+
+
+
+  tiresias thou whose mind divineth well
+
+  all truth the spoken and the unspeakable
+
+
+
+sidenote vv 302321
+
+
+
+  the things of heaven and them that walk the earth
+
+  our city  thou canst see for all thy dearth
+
+  of outward eyes what clouds are over her
+
+  in which o gracious lord no minister
+
+  of help no champion can we find at all
+
+  save thee for phoebusthou hast heard withal
+
+  his messageto our envoy hath decreed
+
+  one only way of help in this great need
+
+  to find and smite with death or banishing
+
+  him who smote laïus our ancient king
+
+  oh grudge us nothing question every cry
+
+  of birds and all roads else of prophecy
+
+  thou knowest save our city save thine own
+
+  greatness save me save all that yet doth groan
+
+  under the dead mans wrong lo in thy hand
+
+  we lay us and methinks no work so grand
+
+  hath man yet compassed as with all he can
+
+  of chance or power to help his fellow man
+
+
+
+tiresias to himself
+
+
+
+  ah me
+
+  a fearful thing is knowledge when to know
+
+  helpeth no end i knew this long ago
+
+  but crushed it dead else had i never come
+
+
+
+oedipus
+
+
+
+  what means this comest thou so deep in gloom
+
+
+
+tiresias
+
+
+
+  let me go back thy work shall weigh on thee
+
+  the less if thou consent and mine on me
+
+
+
+sidenote vv 322336
+
+
+
+oedipus
+
+
+
+  prophet this is not lawful nay nor kind
+
+  to thebes who feeds thee thus to veil thy mind
+
+
+
+tiresias
+
+
+
+  tis that i like not thy mind nor the way
+
+  it goeth therefore lest i also stray
+
+
+
+    he moves to go off oedipus bars his road
+
+
+
+oedipus
+
+
+
+  thou shalt not knowing turn and leave us see
+
+  we all implore thee all on bended knee
+
+
+
+tiresias
+
+
+
+  all without lightand never light shall shine
+
+  on this dark evil that is mine  and thine
+
+
+
+oedipus
+
+
+
+  what wilt thou know and speak not in my need
+
+  be false to me and let thy city bleed
+
+
+
+tiresias
+
+
+
+  i will not wound myself nor thee why seek
+
+  to trap and question me i will not speak
+
+
+
+oedipus
+
+
+
+  thou devil
+
+
+
+    movement of leader to check him
+
+
+
+               nay the wrath of any stone
+
+  would rise at him it lies with thee to have done
+
+  and speak is there no melting in thine eyes
+
+
+
+sidenote vv 337351
+
+
+
+tiresias
+
+
+
+  naught lies with me with thee with thee there lies
+
+  i warrant what thou neer hast seen nor guessed
+
+
+
+oedipus to leader who tries to calm him
+
+
+
+  how can i hear such talkhe maketh jest
+
+  of the lands woeand keep mine anger dumb
+
+
+
+tiresias
+
+
+
+  howeer i hold it back twill come twill come
+
+
+
+oedipus
+
+
+
+  the more shouldst thou declare it to thy king
+
+
+
+tiresias
+
+
+
+  i speak no more for thee if passioning
+
+  doth comfort thee on passion to thy fill
+
+
+
+    he moves to go
+
+
+
+oedipus
+
+
+
+  fore god i am in wrath and speak i will
+
+  nor stint what i see clear twas thou twas thou
+
+  didst plan this murder aye and save the blow
+
+  wrought iti know thou art blind else i could swear
+
+  thou and thou only art the murderer
+
+
+
+tiresias returning
+
+
+
+  soi command thee by thine own words power
+
+  to stand accurst and never from this hour
+
+
+
+sidenote vv 352363
+
+
+
+  speak word to me nor yet to these who ring
+
+  thy throne thou art thyself the unclean thing
+
+
+
+oedipus
+
+
+
+  thou front of brass to fling out injury
+
+  so wild dost think to bate me and go free
+
+
+
+tiresias
+
+
+
+  i am free the strong truth is in this heart
+
+
+
+oedipus
+
+
+
+  what prompted thee i swear twas not thine art
+
+
+
+tiresias
+
+
+
+  twas thou i spoke not save for thy command
+
+
+
+oedipus
+
+
+
+  spoke what what was it let me understand
+
+
+
+tiresias
+
+
+
+  dost tempt me were my words before not plain
+
+
+
+oedipus
+
+
+
+  scarce thy full meaning speak the words again
+
+
+
+tiresias
+
+
+
+  thou seekst this man of blood thyself art he
+
+
+
+oedipus
+
+
+
+  twill cost thee dear twice to have stabbed at me
+
+
+
+sidenote vv 364377
+
+
+
+tiresias
+
+
+
+  shall i say more to see thee rage again
+
+
+
+oedipus
+
+
+
+  oh take thy fill of speech twill all be vain
+
+
+
+tiresias
+
+
+
+  thou livest with those near to thee in shame
+
+  most deadly seeing not thyself nor them
+
+
+
+oedipus
+
+
+
+  thou thinkst twill help thee thus to speak and speak
+
+
+
+tiresias
+
+
+
+  surely until the strength of truth be weak
+
+
+
+oedipus
+
+
+
+ tis weak to none save thee thou hast no part
+
+  in truth thou blind man blind eyes ears and heart
+
+
+
+tiresias
+
+
+
+  more blind more sad thy words of scorn which none
+
+  who hears but shall cast back on thee soon soon
+
+
+
+oedipus
+
+
+
+  thou spawn of night not i nor any free
+
+  and seeing man would hurt a thing like thee
+
+
+
+tiresias
+
+
+
+  god is enoughtis not my doom to fall
+
+  by thee he knows and shall accomplish all
+
+
+
+sidenote vv 378402
+
+
+
+oedipus with a flash of discovery
+
+
+
+  ha creonis it his or thine this plot
+
+
+
+tiresias
+
+
+
+ tis thyself hates thee creon hates thee not
+
+
+
+oedipus
+
+
+
+  o wealth and majesty o conquering skill
+
+  that carved lifes rebel pathways to my will
+
+  what is your heart but bitterness if now
+
+  for this poor crown thebes bound upon my brow
+
+  a gift a thing i sought notfor this crown
+
+  creon the stern and true creon mine own
+
+  comrade comes creeping in the dark to ban
+
+  and slay me sending first this magicman
+
+  and schemer this false beggarpriest whose eye
+
+  is bright for gold and blind for prophecy
+
+  speak thou when hast thou ever shown thee strong
+
+  for aid the shewolf of the woven song
+
+  came and thy art could find no word no breath
+
+  to save thy people from her riddling death
+
+  twas scarce a secret that for common men
+
+  to unravel there was need of seercraft then
+
+  and thou hadst none to show no fowl no flame
+
+  no god revealed it thee twas i that came
+
+  rude oedipus unlearned in wizards lore
+
+  and read her secret and she spoke no more
+
+  whom now thou thinkest to hunt out and stand
+
+  foremost in honour at king creons hand
+
+  i think ye will be sorry thou and he
+
+  that shares thy sinhunt thou dost look to me
+
+
+
+sidenote vv 403424
+
+
+
+  an old man else i swear this day should bring
+
+  on thee the death thou plottest for thy king
+
+
+
+leader
+
+
+
+  lord oedipus these be but words of wrath
+
+  all thou hast spoke and all the prophet hath
+
+  which skills not we must join for ill or well
+
+  in search how best to obey gods oracle
+
+
+
+tiresias
+
+
+
+  king though thou art thou needs must bear the right
+
+  of equal answer even in me is might
+
+  for thus much seeing i live no thrall of thine
+
+  but lord apollos neither do i sign
+
+  where creon bids me
+
+                          i am blind and thou
+
+  hast mocked my blindness yea i will speak now
+
+  eyes hast thou but thy deeds thou canst not see
+
+  nor where thou art nor what things dwell with thee
+
+  whence art thou born thou knowst not and unknown
+
+  on quick and dead on all that were thine own
+
+  thou hast wrought hate for that across thy path
+
+  rising a mothers and a fathers wrath
+
+  twohanded shod with fire from the haunts of men
+
+  shall scourge thee in thine eyes now light but then
+
+  darkness aye shriek what harbour of the sea
+
+  what wild kithairon shall not cry to thee
+
+  in answer when thou hearst what bridal song
+
+  what wind among the torches bore thy strong
+
+  sail to its haven not of peace but blood
+
+  yea ill things multitude on multitude
+
+
+
+sidenote vv 425438
+
+
+
+  thou seest not which so soon shall lay thee low
+
+  low as thyself low as thy childrengo
+
+  heap scorn on creon and my lips withal
+
+  for this i tell thee never was there fall
+
+  of pride nor shall be like to thine this day
+
+
+
+oedipus
+
+
+
+  to brook such words from this thing out i say
+
+  out to perdition aye and quick before 
+
+
+
+  the leader restrains him
+
+
+
+  enough thenturn and get thee from my door
+
+
+
+tiresias
+
+
+
+  i had not come hadst thou not called me here
+
+
+
+oedipus
+
+
+
+  i knew thee not so dark a fool i swear
+
+ twere long before i called thee had i known
+
+
+
+tiresias
+
+
+
+  fool sayst thou am i truly such an one
+
+  the two who gave thee birth they held me wise
+
+
+
+oedipus
+
+
+
+  birth stop who were they speak thy prophecies
+
+
+
+tiresias
+
+
+
+  this day shall give thee birth and blot thee out
+
+
+
+sidenote vv 439455
+
+
+
+oedipus
+
+
+
+  oh riddles everywhere and words of doubt
+
+
+
+tiresias
+
+
+
+  aye thou wast their best reader long ago
+
+
+
+oedipus
+
+
+
+  laugh on i swear thou still shalt find me so
+
+
+
+tiresias
+
+
+
+  that makes thy pride and thy calamity
+
+
+
+oedipus
+
+
+
+  i have saved this land and care not if i die
+
+
+
+tiresias
+
+
+
+  then i will gogive me thine arm my child
+
+
+
+oedipus
+
+
+
+  aye help him quickto see him there makes wild
+
+  my heart once gone he will not vex me more
+
+
+
+tiresias turning again as he goes
+
+
+
+ i fear thee not nor will i go before
+
+ that word be spoken which i came to speak
+
+ how canst thou ever touch methou dost seek
+
+ with threats and loud proclaim the man whose hand
+
+ slew laïus lo i tell thee he doth stand
+
+ here he is called a stranger but these days
+
+ shall prove him theban true nor shall he praise
+
+ his birthright blind who once had seeing eyes
+
+ beggared who once had riches in strange guise
+
+
+
+sidenote vv 456478
+
+
+
+  his staff groping before him he shall crawl
+
+  oer unknown earth and voices round him call
+
+  behold the brotherfather of his own
+
+  children the seed the sower and the sown
+
+  shame to his mothers blood and to his sire
+
+  son murderer incestworker
+
+                                  cool thine ire
+
+  with thought of these and if thou find that aught
+
+  faileth then hold my craft a thing of naught
+
+
+
+    he goes out oedipus returns to the palace
+
+
+
+chorus
+
+
+
+    they sing of the unknown murderer
+
+
+
+  what man what man is he whom the voice of delphis cell
+
+  hath named of the bloody hand of the deed no tongue may tell
+
+          let him fly fly for his need
+
+          hath found him oh where is the speed
+
+  that flew with the winds of old the team of northwinds spell
+
+    for feet there be that follow yea thundershod
+
+    and girt with fire he cometh the child of god
+
+  and with him are they that fail not the sinhounds risen from hell
+
+
+
+  for the mountain hath spoken a voice hath flashed from amid the snows
+
+  that the wrath of the world go seek for the man whom no man knows
+
+          is he fled to the wild forest
+
+          to caves where the eagles nest
+
+  o angry bull of the rocks cast out from thy herdfellows
+
+
+
+sidenote vv 479512
+
+
+
+    rage in his heart and rage across his way
+
+    he toileth ever to beat from his ears away
+
+  the word that floateth about him living whereer he goes
+
+
+
+    and of the prophets strange accusation
+
+
+
+  yet strange passing strange the wise augur and his lore
+
+    and my heart it cannot speak i deny not nor assent
+
+  but float float in wonder at things after and before
+
+    did there lie between their houses some old wrath unspent
+
+  that corinth against cadmus should do murder by the way
+
+    no tale thereof they tell nor no sign thereof they show
+
+  who dares to rise for vengeance and cast oedipus away
+
+      for a dark dark death long ago
+
+
+
+  ah zeus knows and apollo what is dark to mortal eyes
+
+    they are gods but a prophet hath he vision more than mine
+
+  who hath seen who can answer there be wise men and unwise
+
+    i will wait i will wait for the proving of the sign
+
+  but i list not nor hearken when they speak oedipus ill
+
+    we saw his face of yore when the riddling singer passed
+
+  and we knew him that he loved us and we saw him great in skill
+
+      oh my heart shall uphold him to the last
+
+
+
+sidenote vv 513531
+
+
+
+enter creon
+
+
+
+creon
+
+
+
+  good brother citizens a frantic word
+
+  i hear is spoken by our chosen lord
+
+  oedipus against me and here am come
+
+  indignant if he dreams mid all this doom
+
+  that weighs upon us he hath had from me
+
+  or deed or lightest thought of injury 
+
+  fore god i have no care to see the sun
+
+  longer with such a groaning name not one
+
+  wound is it but a multitude if now
+
+  all thebes must hold me guiltyaye and thou
+
+  and all who loved meof a deed so foul
+
+
+
+leader
+
+
+
+  if words were spoken it was scarce the soul
+
+  that spoke them twas some sudden burst of wrath
+
+
+
+creon
+
+
+
+  the charge was made then that tiresias hath
+
+  made answer false and that i bribed him i
+
+
+
+leader
+
+
+
+  it wasperchance for jest i know not why
+
+
+
+creon
+
+
+
+  his heart beat true his eyes looked steadily
+
+  and fell not laying such a charge on me
+
+
+
+leader
+
+
+
+  i know not i have no eyes for the thing
+
+  my masters dobut see here comes the king
+
+
+
+sidenote vv 532550
+
+
+
+enter oedipus from the palace
+
+
+
+oedipus
+
+
+
+  how now assassin walking at my gate
+
+  with eye undimmed thou plotter demonstrate
+
+  against this life and robber of my crown
+
+  god help thee me what was it set me down
+
+  thy butt so dull a brain hast found in me
+
+  aforetime such a faint heart not to see
+
+  thy work betimes or seeing not to smite
+
+  art thou not rash this once it needeth might
+
+  of friends it needeth gold to make a throne
+
+  thy quarry and i fear me thou hast none
+
+
+
+creon
+
+
+
+  one thing alone i ask thee let me speak
+
+  as thou hast spoken then with knowledge wreak
+
+  thy judgement i accept it without fear
+
+
+
+oedipus
+
+
+
+  more skill hast thou to speak than i to hear
+
+  thee there is peril found in thee and hate
+
+
+
+creon
+
+
+
+  that one thing let me answer ere too late
+
+
+
+oedipus
+
+
+
+  one thing be sure of that thy plots are known
+
+
+
+creon
+
+
+
+  the man who thinks that bitter pride alone
+
+  can guide him without thoughthis mind is sick
+
+
+
+sidenote vv 551562
+
+
+
+oedipus
+
+
+
+  who thinks to slay his brother with a trick
+
+  and suffer not himself his eyes are blind
+
+
+
+creon
+
+
+
+  thy words are more than just but say what kind
+
+  of wrong thou fanciest i have done thee speak
+
+
+
+oedipus
+
+
+
+  didst urge me or didst urge me not to seek
+
+  a counsel from that man of prophecies
+
+
+
+creon
+
+
+
+  so judged i then nor now judge otherwise
+
+
+
+oedipus
+
+
+
+   suddenly seeing a mode of attack
+
+
+
+  how many years have passed since laïus 
+
+
+
+    the words seem to choke him
+
+
+
+creon
+
+
+
+  speak on i cannot understand thee thus
+
+
+
+oedipus
+
+
+
+    with an effort
+
+
+
+  passed in that bloody tempest from mens sight
+
+
+
+creon
+
+
+
+  long years and old i scarce can tell them right
+
+
+
+oedipus
+
+
+
+  at that time was this seer in thebes or how
+
+
+
+sidenote vv 563573
+
+
+
+creon
+
+
+
+  he was most wise and honoured even as now
+
+
+
+oedipus
+
+
+
+  at that time did he ever speak my name
+
+
+
+creon
+
+
+
+  no to mine ear at least it never came
+
+
+
+oedipus
+
+
+
+  held you no search for those who slew your king
+
+
+
+creon
+
+
+
+  for sure we did but found not anything
+
+
+
+oedipus
+
+
+
+  how came the allknowing seer to leave it so
+
+
+
+creon
+
+
+
+  ask him i speak not where i cannot know
+
+
+
+oedipus
+
+
+
+  one thing thou canst with knowledge full i wot
+
+
+
+creon
+
+
+
+  speak it if true i will conceal it not
+
+
+
+oedipus
+
+
+
+  this that until he talked with thee the seer
+
+  neer spoke of me as laïus murderer
+
+
+
+sidenote vv 574589
+
+
+
+creon
+
+
+
+  i know not if he hath so spoken now
+
+  i heard him notbut let me ask and thou
+
+  answer me true as i have answered thee
+
+
+
+oedipus
+
+
+
+  ask ask thou shalt no murder find in me
+
+
+
+creon
+
+
+
+  my sister is thy wife this many a day
+
+
+
+oedipus
+
+
+
+  that charge it is not in me to gainsay
+
+
+
+creon
+
+
+
+  thou reignest giving equal reign to her
+
+
+
+oedipus
+
+
+
+  always to her desire i minister
+
+
+
+creon
+
+
+
+  were we not all as one she thou and i
+
+
+
+oedipus
+
+
+
+  yes thou false friend there lies thy treachery
+
+
+
+creon
+
+
+
+  not so nay do but follow me and scan
+
+  thine own charge close thinkst thou that any man
+
+  would rather rule and be afraid than rule
+
+  and sleep untroubled nay where lives the fool
+
+
+
+sidenote vv 590613
+
+
+
+  i know them not nor am i one of them
+
+  who careth more to bear a monarchs name
+
+  than do a monarchs deeds as now i stand
+
+  all my desire i compass at thy hand
+
+  were i the king full half my deeds were done
+
+  to obey the will of others not mine own
+
+  were that as sweet when all the tale were told
+
+  as this calm griefless princedom that i hold
+
+  and silent power am i so blind of brain
+
+  that ease with glory tires me and i fain
+
+  must change them all men now give me godspeed
+
+  all smile to greet me if a man hath need
+
+  of thee tis me he calleth to the gate
+
+  as knowing that on my word hangs the fate
+
+  of half he craves is life like mine a thing
+
+  to cast aside and plot to be a king
+
+  doth a sane man turn villain in an hour
+
+    for me i never lusted thus for power
+
+  nor bore with any man who turned such lust
+
+  to doingbut enough i claim but just
+
+  question go first to pytho find if well
+
+  and true i did report gods oracle
+
+  next seek in thebes for any plots entwined
+
+  between this seer and me which if ye find
+
+  then seize and strike me dead myself that day
+
+  will sit with thee as judge and bid thee slay
+
+  but damn me not on one mans guesstis all
+
+  unjust to call a traitor true to call
+
+  a true man traitor with no cause nor end
+
+  and this i tell thee he who plucks a friend
+
+  out from his heart hath lost a treasured thing
+
+  dear as his own dear life
+
+                               but time shall bring
+
+
+
+sidenote vv 614626
+
+
+
+  truth back tis time alone can make men know
+
+  what hearts are true the false one day can show
+
+
+
+leader
+
+
+
+  to one that fears to fall his words are wise
+
+  o king in thought the swift win not the prize
+
+
+
+oedipus
+
+
+
+  when he is swift who steals against my reign
+
+  with plots then swift am i to plot again
+
+  wait patient and his work shall have prevailed
+
+  before i move and mine for ever failed
+
+
+
+creon
+
+
+
+  how then to banish me is thy intent
+
+
+
+oedipus
+
+
+
+  death is the doom i choose not banishment
+
+
+
+creon
+
+
+
+  wilt never soften never trust thy friend
+
+
+
+oedipus
+
+
+
+  first i would see how traitors meet their end
+
+
+
+creon
+
+
+
+  i see thou wilt not think
+
+
+
+oedipus
+
+
+
+                            i think to save
+
+  my life
+
+
+
+sidenote vv 627633
+
+
+
+creon
+
+
+
+            think too of mine
+
+
+
+oedipus
+
+
+
+                            thine thou born knave
+
+
+
+creon
+
+
+
+  yes what if thou art blind in everything
+
+
+
+oedipus
+
+
+
+  the king must be obeyed
+
+
+
+creon
+
+
+
+                             not if the king
+
+  does evil
+
+
+
+oedipus
+
+
+
+              to your king ho thebes mine own
+
+
+
+creon
+
+
+
+  thebes is my country not the kings alone
+
+
+
+    oedipus has drawn his sword the chorus
+
+       show signs of breaking into two parties to
+
+       fight for oedipus or for creon when
+
+       the door opens and jocasta appears on the
+
+       steps
+
+
+
+leader
+
+
+
+   stay princes stay see on the castle stair
+
+   the queen jocasta standeth show to her
+
+   your strife she will assuage it as is well
+
+
+
+sidenote vv 634648
+
+
+
+jocasta
+
+
+
+  vain men what would ye with this angry swell
+
+  of words heartblinded is there in your eyes
+
+  no pity thus when all our city lies
+
+  bleeding to ply your privy hates alack
+
+  my lord come inthou creon get thee back
+
+  to thine own house and stir not to such stress
+
+  of peril griefs that are but nothingness
+
+
+
+creon
+
+
+
+  sister it is the pleasure of thy lord
+
+  our king to do me deadly wrong his word
+
+  is passed on me tis banishment or death
+
+
+
+oedipus
+
+
+
+  i found him  i deny not what he saith
+
+  my queen  with craft and malice practising
+
+  against my life
+
+
+
+creon
+
+
+
+                   ye gods if such a thing
+
+  hath once been in my thoughts may i no more
+
+  see any health on earth but festered oer
+
+  with curses diehave done there is mine oath
+
+
+
+jocasta
+
+
+
+  in gods name oedipus believe him both
+
+  for my sake and for these whose hearts are all
+
+  thine own and for my brothers oath withal
+
+
+
+sidenote vv 649664
+
+
+
+leader strophe
+
+
+
+  yield consent think my lord i conjure thee
+
+
+
+oedipus
+
+
+
+           what would ye have me do
+
+
+
+leader
+
+
+
+  reject not one who never failed his troth
+
+  of old and now is strong in his great oath
+
+
+
+oedipus
+
+
+
+  dost know what this prayer means
+
+
+
+leader
+
+
+
+                                   yea verily
+
+
+
+oedipus
+
+
+
+           say then the meaning true
+
+
+
+leader
+
+
+
+      i would not have thee cast to infamy
+
+           of guilt where none is proved
+
+  one who hath sworn and whom thou once hast loved
+
+
+
+oedipus
+
+
+
+ tis that ye seek for me then  understand
+
+  well  ye seek death or exile from the land
+
+
+
+leader
+
+
+
+  no by the god of gods the allseeing sun
+
+    may he desert me here and every friend
+
+  with him to death and utterest malison
+
+    if eer my heart could dream of such an end
+
+
+
+sidenote vv 665680
+
+
+
+          but it bleedeth it bleedeth sore
+
+            in a land half slain
+
+          if we join to the griefs of yore
+
+            griefs of you twain
+
+
+
+oedipus
+
+
+
+  oh let him go though it be utterly
+
+  my death or flight from thebes in beggary
+
+  tis thy sad lips not his that make me know
+
+  pity him i shall hate whereer he go
+
+
+
+creon
+
+
+
+  i see thy mercy moving full of hate
+
+  and slow thy wrath came swift and desperate
+
+  methinks of all the pain that such a heart
+
+  spreadeth itself doth bear the bitterest part
+
+
+
+oedipus
+
+
+
+  oh leave me and begone
+
+
+
+creon
+
+
+
+                          i go wronged sore
+
+  by thee these friends will trust me as before
+
+
+
+    creon goes oedipus stands apart lost in
+
+       trouble of mind
+
+
+
+leader   antistrophe
+
+
+
+  queen wilt thou lead him to his house again
+
+
+
+jocasta
+
+
+
+              i will when i have heard
+
+
+
+sidenote vv 681696
+
+
+
+leader
+
+
+
+  there fell some word some blind imagining
+
+  between them things known foolish yet can sting
+
+
+
+jocasta
+
+
+
+  from both the twain it rose
+
+
+
+leader
+
+
+
+                                 from both the twain
+
+
+
+jocasta
+
+
+
+           aye and what was the word
+
+
+
+leader
+
+
+
+    surely there is enough of evil stirred
+
+          and thebes heaves on the swell
+
+  of stormoh leave this lying where it fell
+
+
+
+oedipus
+
+
+
+  so be it thou wise counsellor make slight
+
+  my wrong and blunt my purpose ere it smite
+
+
+
+leader
+
+
+
+  o king not once i have answered visibly
+
+    mad were i lost to all wise usages
+
+  to seek to cast thee from us twas from thee
+
+    we saw of old blue sky and summer seas
+
+      when thebes in the storm and rain
+
+        reeled like to die
+
+      oh if thou canst again
+
+        blue sky blue sky
+
+
+
+sidenote vv 697713
+
+
+
+jocasta
+
+
+
+  husband in gods name say what hath ensued
+
+  of ill that thou shouldst seek so dire a feud
+
+
+
+oedipus
+
+
+
+  i will wife i have more regard for thee
+
+  than thesethy brother plots to murder me
+
+
+
+jocasta
+
+
+
+  speak on make all thy charge only be clear
+
+
+
+oedipus
+
+
+
+  he says that i am laïus murderer
+
+
+
+jocasta
+
+
+
+  says it himself says he hath witnesses
+
+
+
+oedipus
+
+
+
+  nay of himself he ventures nothing tis
+
+  this priest this hellish seer makes all the tale
+
+
+
+jocasta
+
+
+
+  the seerthen tear thy terrors like a veil
+
+  and take free breath a seer no human thing
+
+  born on the earth hath power for conjuring
+
+  truth from the dark of god
+
+                               come i will tell
+
+  an old tale there came once an oracle
+
+  to laïus i say not from the god
+
+  himself but from the priests and seers who trod
+
+  his sanctuary if ever son were bred
+
+  from him and me by that sons hand it said
+
+
+
+sidenote vv 714732
+
+
+
+  laïus must die and he the tale yet stays
+
+  among us at the crossing of three ways
+
+  was slain by robbers strangers and my son
+
+  gods mercyscarcely the third day was gone
+
+  when laïus took and by anothers hand
+
+  out on the desert mountain where the land
+
+  is rock cast him to die through both his feet
+
+  a blade of iron they drove thus did we cheat
+
+  apollo of his will my child could slay
+
+  no father and the king could cast away
+
+  the fear that dogged him by his child to die
+
+  murderedbehold the fruits of prophecy
+
+  which heed not thou god needs not that a seer
+
+  help him when he would make his dark things clear
+
+
+
+oedipus
+
+
+
+  woman what turmoil hath thy story wrought
+
+  within me what upstirring of old thought
+
+
+
+jocasta
+
+
+
+  what thought it turns thee like a frightened thing
+
+
+
+oedipus
+
+
+
+ twas at the crossing of three ways this king
+
+  was murdered so i heard or so i thought
+
+
+
+jocasta
+
+
+
+  that was the tale it is not yet forgot
+
+
+
+oedipus
+
+
+
+  the crossing of three ways and in what land
+
+
+
+sidenote vv 733746
+
+
+
+jocasta
+
+
+
+  phokis tis called a road on either hand
+
+  from delphi comes and daulia in a glen
+
+
+
+oedipus
+
+
+
+how many years and months have passed since then
+
+
+
+jocasta
+
+
+
+ twas but a little time before proclaim
+
+  was made of thee for king the tidings came
+
+
+
+oedipus
+
+
+
+  my god what hast thou willed to do with me
+
+
+
+jocasta
+
+
+
+  oedipus speak what is it troubles thee
+
+
+
+oedipus
+
+
+
+  ask me not yet but say what build what height
+
+  had laïus rode he full of youth and might
+
+
+
+jocasta
+
+
+
+  tall with the white new gleaming on his brow
+
+  he walked in shape just such a man as thou
+
+
+
+oedipus
+
+
+
+  god help me i much fear that i have wrought
+
+  a curse on mine own head and knew it not
+
+
+
+jocasta
+
+
+
+  how sayst thou o my king i look on thee
+
+  and tremble
+
+
+
+sidenote vv 747760
+
+
+
+oedipus to himself
+
+
+
+            horror if the blind can see
+
+  answer but one thing and twill all be clear
+
+
+
+jocasta
+
+
+
+  speak i will answer though i shake with fear
+
+
+
+oedipus
+
+
+
+  went he with scant array or a great band
+
+  of armèd followers like a lord of land
+
+
+
+jocasta
+
+
+
+  four men were with him one a herald one
+
+  chariot there was where laïus rode alone
+
+
+
+oedipus
+
+
+
+  aye me tis clear now
+
+                         woman who could bring
+
+  to thebes the story of that manslaying
+
+
+
+jocasta
+
+
+
+  a housethrall the one man they failed to slay
+
+
+
+oedipus
+
+
+
+  the one man is he in the house today
+
+
+
+jocasta
+
+
+
+  indeed no when he came that day and found
+
+  thee on the throne where once sat laïus crowned
+
+  he took my hand and prayed me earnestly
+
+
+
+sidenote vv 761779
+
+
+
+  to send him to the mountain heights to be
+
+  a herdsman far from any sight or call
+
+  of thebes and there i sent him twas a thrall
+
+  goodhearted worthy a far greater boon
+
+
+
+oedipus
+
+
+
+  canst find him i would see this herd and soon
+
+
+
+jocasta
+
+
+
+ tis easy but what wouldst thou with the herd
+
+
+
+oedipus
+
+
+
+  i fear mine own voice lest it spoke a word
+
+  too much whereof this man must tell me true
+
+
+
+jocasta
+
+
+
+  the man shall comemy lord methinks i too
+
+  should know what fear doth work thee this despite
+
+
+
+oedipus
+
+
+
+  thou shalt when i am tossed to such an height
+
+  of dark foreboding woman when my mind
+
+  faceth such straits as these where should i find
+
+  a mightier love than thine
+
+                               my fatherthus
+
+  i tell thee the whole talewas polybus
+
+  in corinth king my mother meropê
+
+  of dorian line and i was held to be
+
+  the proudest in corinthia till one day
+
+  a thing befell strange was it but no way
+
+  meet for such wonder and such rage as mine
+
+  a feast it was and some one flushed with wine
+
+
+
+sidenote vv 780807
+
+
+
+  cried out at me that i was no true son
+
+  of polybus oh i was wroth that one
+
+  day i kept silence but the morrow morn
+
+  i sought my parents told that tale of scorn
+
+  and claimed the truth and they rose in their pride
+
+  and smote the mocker aye they satisfied
+
+  all my desire yet still the cavil gnawed
+
+  my heart and still the story crept abroad
+
+    at last i rosemy father knew not nor
+
+  my motherand went forth to pythos floor
+
+  to ask and god in that for which i came
+
+  rejected me but round me like a flame
+
+  his voice flashed other answers things of woe
+
+  terror and desolation i must know
+
+  my mothers body and beget thereon
+
+  a race no mortal eye durst look upon
+
+  and spill in murder mine own fathers blood
+
+    i heard and hearing straight from where i stood
+
+  no landmark but the stars to light my way
+
+  fled fled from the dark south where corinth lay
+
+  to lands far off where never i might see
+
+  my doom of scorn fulfilled on bitterly
+
+  i strode and reached the region where so saith
+
+  thy tale that king of thebes was struck to death
+
+  wife i will tell thee true as one in daze
+
+  i walked till at the crossing of three ways
+
+  a herald like thy tale and oer his head
+
+  a man behind strong horses charioted
+
+  met me and both would turn me from the path
+
+  he and a thrall in front and i in wrath
+
+  smote him that pushed metwas a groom who led
+
+  the horses not a word the master said
+
+
+
+sidenote vv 808828
+
+
+
+  but watched and as i passed him on the road
+
+  down on my head his ironbranchèd goad
+
+  stabbed but by heaven he rued it in a flash
+
+  i swung my staff and saw the old man crash
+
+  back from his car in blood then all of them
+
+  i slew
+
+           oh if that mans unspoken name
+
+  had aught of laïus in him in gods eye
+
+  what man doth move more miserable than i
+
+  more dogged by the hate of heaven no man kin
+
+  nor stranger any more may take me in
+
+  no man may greet me with a word but all
+
+  cast me from out their houses and withal
+
+  twas mine own self that laid upon my life
+
+  these cursesand i hold the dead mans wife
+
+  in these polluting arms that spilt his soul
+
+  am i a thing born evil am i foul
+
+  in every vein thebes now doth banish me
+
+  and never in this exile must i see
+
+  mine ancient folk of corinth never tread
+
+  the land that bore me else my mothers bed
+
+  shall be defiled and polybus my good
+
+  father who loved me well be rolled in blood
+
+  if one should dream that such a world began
+
+  in some slow devils heart that hated man
+
+  who should deny himgod as thou art clean
+
+  suffer not this oh suffer not this sin
+
+  to be that eer i look on such a day
+
+  out of all vision of mankind away
+
+  to darkness let me fall ere such a fate
+
+  touch me so unclean and so desolate
+
+
+
+sidenote vv 829850
+
+
+
+leader
+
+
+
+  i tremble too o king but till thou hear
+
+  from him who saw oh let hope conquer fear
+
+
+
+oedipus
+
+
+
+  one shred of hope i still have and therefore
+
+  will wait the herdsmans coming tis no more
+
+
+
+jocasta
+
+
+
+  he shall come but what further dost thou seek
+
+
+
+oedipus
+
+
+
+  this if we mark him close and find him speak
+
+  as thou hast then i am lifted from my dread
+
+
+
+jocasta
+
+
+
+  what meanst thou was there something that i said
+
+
+
+oedipus
+
+
+
+  thou saidst he spoke of robbers a great band
+
+  that slaughtered laïus men if still he stand
+
+  to the same tale the guilt comes not my way
+
+  one cannot be a band but if he say
+
+  one lonely loingirt man then visibly
+
+  this is gods finger pointing toward me
+
+
+
+jocasta
+
+
+
+  be sure of this he told the story so
+
+  when first he came all they that heard him know
+
+
+
+sidenote vv 850870
+
+
+
+  not only i he cannot change again
+
+  now and if change he should o lord of men
+
+  no change of his can make the prophecy
+
+  of laïus death fall true he was to die
+
+  slain by my son so loxias spake my son
+
+  he slew no man that poor deserted one
+
+  that died and i will no more turn mine eyes
+
+  this way nor that for all their prophecies
+
+
+
+oedipus
+
+
+
+  woman thou counsellest well yet let it not
+
+  escape thee send and have the herdsman brought
+
+
+
+jocasta
+
+
+
+  that will icome thou knowest i neer would do
+
+  nor think of aught save thou wouldst have it so
+
+
+
+    jocasta and oedipus go together into the palace
+
+
+
+chorus
+
+
+
+    they pray to be free from such great sins as
+
+     they have just heard spoken of
+
+
+
+    strophe
+
+
+
+  toward gods great mysteries oh let me move
+
+      unstainèd till i die
+
+  in speech or doing for the laws thereof
+
+  are holy walkers upon ways above
+
+      born in the far blue sky
+
+
+
+  their father is olympus uncreate
+
+      no man hath made nor told
+
+  their being neither shall oblivion set
+
+
+
+sidenote vv 870893
+
+
+
+  sleep on their eyes for in them lives a great
+
+    spirit and grows not old antistrophe
+
+
+
+   they wonder if these sins be all due to pride
+
+      and if creon has guilty ambitions
+
+
+
+  tis pride that breeds the tyrant drunken deep
+
+      with perilous things is she
+
+  which bring not peace up reeling steep on steep
+
+  she climbs till lo the rockedge and the leap
+
+      to that which needs must be
+
+
+
+  the land where the strong foot is no more strong
+
+      yet is there surely pride
+
+  that saves a city god preserve it long
+
+  i judge not only through all maze of wrong
+
+      be god not man my guide strophe
+
+
+
+    or if tiresias can really be a lying prophet with
+
+        no fear of god they feel that all faith in
+
+        oracles and the things of god is shaken
+
+
+
+  is there a priest who moves amid the altars
+
+      ruthless in deed and word
+
+  fears not the presence of his god nor falters
+
+      lest right at last be heard
+
+  if such there be oh let some doom be given
+
+      meet for his illstarred pride
+
+  who will not gain his gain where justice is
+
+  who will not hold his lips from blasphemies
+
+  who hurls rash hands amid the things of heaven
+
+      from mans touch sanctified
+
+
+
+    in a world where such things be
+
+      what spirit hath shield or lance
+
+
+
+sidenote vv 893916
+
+
+
+        to ward him secretly
+
+          from the arrow that slays askance
+
+        if honour to such things be
+
+          why should i dance my dance
+
+
+
+    antistrophe
+
+
+
+  i go no more with prayers and adorations
+
+      to earths deep heart of stone
+
+  nor yet the abantes floor nor where the nations
+
+      kneel at olympias throne
+
+  till all this dark be lightened for the finger
+
+      of man to touch and know
+
+  o thou that rulestif men rightly call
+
+  thy name on eartho zeus thou lord of all
+
+  and strength undying let not these things linger
+
+      unknown tossed to and fro
+
+
+
+            for faint is the oracle
+
+              and they thrust it aside away
+
+            and no more visible
+
+              apollo to save or slay
+
+            and the things of god they fail
+
+              as mist on the wind away
+
+
+
+    jocasta comes out from the palace followed
+
+       by handmaids bearing incense and flowers
+
+
+
+jocasta
+
+
+
+  lords of the land the ways my thought hath trod
+
+  lead me in worship to these shrines of god
+
+  with flowers and incense flame so dire a storm
+
+  doth shake the king sin dread and every form
+
+  of grief the world knows tis the wise mans way
+
+  to judge the morrow by the yester day
+
+
+
+sidenote vv 917933
+
+
+
+  which he doth never but gives eye and ear
+
+  to all who speak will they but speak of fear
+
+    and seeing no word of mine hath power to heal
+
+  his torment therefore forth to thee i steal
+
+  o slayer of the wolf o lord of light
+
+  apollo thou art near us and of right
+
+  dost hold us thine to thee in prayer i fall
+
+
+
+    she kneels at the altar of apollo lukeios
+
+
+
+  oh show us still some path that is not all
+
+  unclean for now our captains eyes are dim
+
+  with dread and the whole ship must follow him
+
+
+
+    while she prays a stranger has entered and
+
+        begins to accost the chorus
+
+
+
+stranger
+
+
+
+  good masters is there one of you could bring
+
+  my steps to the house of oedipus your king
+
+  or better to himself if that may be
+
+
+
+leader
+
+
+
+  this is the house and he within and she
+
+  thou seest the mother of his royal seed
+
+
+
+    jocasta rises anxious from her prayer
+
+
+
+stranger
+
+
+
+  being wife to such a man happy indeed
+
+  and ringed with happy faces may she live
+
+
+
+jocasta
+
+
+
+  to one so fair of speech may the gods give
+
+  like blessing courteous stranger tis thy due
+
+  but say what leads thee hither can we do
+
+  thy wish in aught or hast thou news to bring
+
+
+
+sidenote vv 934947
+
+
+
+stranger
+
+
+
+  good news o queen for thee and for the king
+
+
+
+jocasta
+
+
+
+  what is it and from what prince comest thou
+
+
+
+stranger
+
+
+
+  i come from corinthand my tale i trow
+
+  will give thee joy yet haply also pain
+
+
+
+jocasta
+
+
+
+  what news can have that twofold power be plain
+
+
+
+stranger
+
+
+
+ tis spoke in corinth that the gathering
+
+  of folk will make thy lord our chosen king
+
+
+
+jocasta
+
+
+
+  how is old polybus in power no more
+
+
+
+stranger
+
+
+
+  death has a greater power his reign is oer
+
+
+
+jocasta
+
+
+
+  what sayst thou dead oedipus father dead
+
+
+
+stranger
+
+
+
+  if i speak false let me die in his stead
+
+
+
+jocasta
+
+
+
+  ho maiden to our master hie thee fast
+
+  and tell this tale
+
+
+
+    the maiden goes
+
+
+
+                    where stand ye at the last
+
+
+
+sidenote vv 948961
+
+
+
+  ye oracles of god for many a year
+
+  oedipus fled before that man in fear
+
+  to slay him and behold we find him thus
+
+  slain by a chance death not by oedipus
+
+
+
+    oedipus comes out from the palace
+
+
+
+oedipus
+
+
+
+  o wife o face i love to look upon
+
+  why callst thou me from where i sat alone
+
+
+
+jocasta
+
+
+
+  give ear and ponder from what this man tells
+
+  how end these proud priests and their oracles
+
+
+
+oedipus
+
+
+
+  whence comes he and what word hath he for us
+
+
+
+jocasta
+
+
+
+  from corinth bearing news that polybus
+
+  thy father is no more he has found his death
+
+
+
+oedipus
+
+
+
+  howstranger speak thyself this that she saith 
+
+
+
+stranger
+
+
+
+  is sure if that is the first news ye crave
+
+  i tell thee polybus lieth in his grave
+
+
+
+oedipus
+
+
+
+  not murdered how some passing of disease
+
+
+
+stranger
+
+
+
+  a slight thing turns an old life to its peace
+
+
+
+sidenote vv 962978
+
+
+
+oedipus
+
+
+
+  poor father tis by sickness he is dead
+
+
+
+stranger
+
+
+
+  the growing years lay heavy on his head
+
+
+
+oedipus
+
+
+
+  o wife why then should man fear any more
+
+  the voice of pythos dome or cower before
+
+  these birds that shriek above us they foretold
+
+  me for my fathers murderer and behold
+
+  he lies in corinth dead and here am i
+
+  and never touched the sword or did he die
+
+  in grief for me who left him in that way
+
+  i may have wrought his death but come what may
+
+  he sleepeth in his grave and with him all
+
+  this deadly seercraft of no worth at all
+
+
+
+jocasta
+
+
+
+  dear lord long since did i not show thee clear
+
+
+
+oedipus
+
+
+
+  indeed yes i was warped by mine own fear
+
+
+
+jocasta
+
+
+
+  now thou wilt cast it from thee and forget
+
+
+
+oedipus
+
+
+
+  forget my mother it is not over yet
+
+
+
+jocasta
+
+
+
+  what should man do with fear who hath but chance
+
+  above him and no sight nor governance
+
+
+
+sidenote vv 979993
+
+
+
+  of things to be to live as life may run
+
+  no fear no fret were wisest neath the sun
+
+  and thou fear not thy mother prophets deem
+
+  a deed wrought that is wrought but in a dream
+
+  and he to whom these things are nothing best
+
+  will bear his burden
+
+
+
+oedipus
+
+
+
+                        all thou counsellest
+
+  were good save that my mother liveth still
+
+  and though thy words be wise for good or ill
+
+  her i still fear
+
+
+
+jocasta
+
+
+
+                    think of thy fathers tomb
+
+  like light across our darkness it hath come
+
+
+
+oedipus
+
+
+
+  great light but while she lives i fly from her
+
+
+
+stranger
+
+
+
+  what woman prince doth fill thee so with fear
+
+
+
+oedipus
+
+
+
+  meropê friend who dwelt with polybus
+
+
+
+stranger
+
+
+
+  what in queen meropê should fright thee thus
+
+
+
+oedipus
+
+
+
+  a voice of god stranger of dire import
+
+
+
+stranger
+
+
+
+  meet for mine ears or of some secret sort
+
+
+
+sidenote vv 9941009
+
+
+
+oedipus
+
+
+
+  nay thou must hear and corinth long ago
+
+  apollo spake a doom that i should know
+
+  my mothers flesh and with mine own hand spill
+
+  my fathers bloodtis that and not my will
+
+  hath kept me always far from corinth so
+
+  life hath dealt kindly with me yet men know
+
+  on earth no comfort like a mothers face
+
+
+
+stranger
+
+
+
+ tis that hath kept thee exiled in this place
+
+
+
+oedipus
+
+
+
+  that and the fear too of my fathers blood
+
+
+
+stranger
+
+
+
+  then surely lord  i came but for thy good 
+
+ twere well if from that fear i set thee free
+
+
+
+oedipus
+
+
+
+  ah couldst thou there were rich reward for thee
+
+
+
+stranger
+
+
+
+  to say truth i had hoped to lead thee home
+
+  now and myself to get some good therefrom
+
+
+
+oedipus
+
+
+
+  nay where my parents are i will not go
+
+
+
+stranger
+
+
+
+  my son tis very clear thou dost not know
+
+  what road thou goest
+
+
+
+oedipus
+
+
+
+              how in gods name say
+
+  how clear
+
+
+
+sidenote vv 10101019
+
+
+
+stranger
+
+
+
+              tis this keeps thee so long away
+
+  from corinth
+
+
+
+oedipus
+
+
+
+                  tis the fear lest that word break
+
+  one day upon me true
+
+
+
+stranger
+
+
+
+                          fear lest thou take
+
+  defilement from the two that gave thee birth
+
+
+
+oedipus
+
+
+
+ tis that old man tis that doth fill the earth
+
+  with terror
+
+
+
+stranger
+
+
+
+                then thy terror all hath been
+
+  for nothing
+
+
+
+oedipus
+
+
+
+                how were not your king and queen
+
+  my parents
+
+
+
+stranger
+
+
+
+              polybus was naught to thee
+
+  in blood
+
+
+
+oedipus
+
+
+
+            how he my father
+
+
+
+stranger
+
+
+
+                                that was he
+
+  as much as i but no more
+
+
+
+oedipus
+
+
+
+                              thou art naught
+
+ twas he begot me
+
+
+
+sidenote vv 10201028
+
+
+
+stranger
+
+
+
+                         twas not i begot
+
+  oedipus neither was it he
+
+
+
+oedipus
+
+
+
+                              what wild
+
+  fancy then made him name me for his child
+
+
+
+stranger
+
+
+
+  thou wast his childby gift long years ago
+
+  mine own hand brought thee to him
+
+
+
+oedipus
+
+
+
+                                     coming so
+
+  from a strange hand he gave me that great love
+
+
+
+stranger
+
+
+
+  he had no child and the desire thereof
+
+  held him
+
+
+
+oedipus
+
+
+
+            and thou didst find somewhereor buy
+
+  a child for him
+
+
+
+stranger
+
+
+
+                   i found it in a high
+
+  glen of kithairon
+
+
+
+    movement of jocasta who stands riveted
+
+        with dread unnoticed by the others
+
+
+
+oedipus
+
+
+
+                     yonder to what end
+
+  wast travelling in these parts
+
+
+
+stranger
+
+
+
+                                  i came to tend
+
+  the flocks here on the mountain
+
+
+
+sidenote vv 10291037
+
+
+
+oedipus
+
+
+
+                                     thou wast one
+
+  that wandered tending sheep for hire
+
+
+
+stranger
+
+
+
+                                         my son
+
+  that day i was the saviour of a king
+
+
+
+oedipus
+
+
+
+  how saviour was i in some suffering
+
+  or peril
+
+
+
+stranger
+
+
+
+            thine own feet a tale could speak
+
+
+
+oedipus
+
+
+
+  ah me what ancient pain stirs half awake
+
+  within me
+
+
+
+stranger
+
+
+
+              twas a spike through both thy feet
+
+  i set thee free
+
+
+
+oedipus
+
+
+
+                    a strange scorn that to greet
+
+  a babe new on the earth
+
+
+
+stranger
+
+
+
+                            from that they fain
+
+  must call thee oedipus whowalksinpain
+
+
+
+oedipus
+
+
+
+  who called me sofather or mother oh
+
+  in gods name speak
+
+
+
+sidenote vv 10381046
+
+
+
+stranger
+
+
+
+                     i know not he should know
+
+  who brought thee
+
+
+
+oedipus
+
+
+
+                    so i was not found by thee
+
+  thou hadst me from another
+
+
+
+stranger
+
+
+
+                              aye to me
+
+  one of the shepherds gave the babe to bear
+
+  far off
+
+
+
+oedipus
+
+
+
+      what shepherd knowst thou not declare
+
+  all that thou knowest
+
+
+
+stranger
+
+
+
+                         by my memory then
+
+  i think they called him one of laïus men
+
+
+
+oedipus
+
+
+
+  that laïus who was king in thebes of old
+
+
+
+stranger
+
+
+
+  the same my man did herding in his fold
+
+
+
+oedipus
+
+
+
+  is he yet living can i see his face
+
+
+
+stranger
+
+
+
+    turning to the chorus
+
+
+
+  ye will know that being natives to the place
+
+
+
+sidenote vv 10471062
+
+
+
+oedipus
+
+
+
+  howis there one of you within my pale
+
+  standing that knows the shepherd of his tale
+
+  ye have seen him on the hills or in this town
+
+  speak for the hour is come that all be known
+
+
+
+leader
+
+
+
+  i think twill be the peasant man the same
+
+  thou hast sought long time to seehis place and name
+
+  our mistress if she will can tell most clear
+
+
+
+    jocasta remains as if she heard nothing
+
+
+
+oedipus
+
+
+
+  thou hearst him wife the herd whose presence here
+
+  we craved for is it he this man would say
+
+
+
+jocasta
+
+
+
+  he saith  what of it ask not only pray
+
+  not to remember tales are vainly told
+
+
+
+oedipus
+
+
+
+ tis mine own birth how can i when i hold
+
+  such clues as these refrain from knowing all
+
+
+
+jocasta
+
+
+
+  for gods love no not if thou carst at all
+
+  for thine own life my anguish is enough
+
+
+
+oedipus bitterly
+
+
+
+  fear not though i be thrice of slavish stuff
+
+  from my third granddam down it shames not thee
+
+
+
+sidenote vv 10631075
+
+
+
+jocasta
+
+
+
+  ask no more i beseech thee promise me
+
+
+
+oedipus
+
+
+
+  to leave the truth halffound tis not my mood
+
+
+
+jocasta
+
+
+
+  i understand and tell thee what is good
+
+
+
+oedipus
+
+
+
+  thy good doth weary me
+
+
+
+jocasta
+
+
+
+                          o child of woe
+
+  i pray god i pray god thou never know
+
+
+
+oedipus turning from her
+
+
+
+  go fetch the herdsman straightthis queen of mine
+
+  may walk alone to boast her royal line
+
+
+
+jocasta
+
+
+
+    she twice draws in her breath through her
+
+        teeth as if in some sharp pain
+
+
+
+  unhappy one goodbye goodbye before
+
+  i go this once and never never more
+
+
+
+    she comes towards him as though to take a last
+
+        farewell then stops suddenly turns and
+
+        rushes into the palace
+
+
+
+leader
+
+
+
+  king what was that she passed like one who flies
+
+  in very anguish dread is oer mine eyes
+
+  lest from this silence break some storm of wrong
+
+
+
+sidenote vv 10761097
+
+
+
+oedipus
+
+
+
+  break what break will my mind abideth strong
+
+  to know the roots how low soeer they be
+
+  which grew to oedipus this woman she
+
+  is proud methinks and fears my birth and name
+
+  will mar her nobleness but i no shame
+
+  can ever touch me i am fortunes child
+
+  not mans her mother face hath ever smiled
+
+  above me and my brethren of the sky
+
+  the changing moons have changed me low and high
+
+  there is my lineage true which none shall wrest
+
+  from me who then am i to fear this quest
+
+
+
+chorus
+
+
+
+    they sing oedipus as the foundling of their
+
+        own theban mountain kithairon and
+
+        doubtless of divine birth
+
+
+
+    strophe
+
+
+
+  if i o kithairon some vision can borrow
+
+    from seercraft if still there is wit in the old
+
+  long long through the deeporbèd moon of the morrow
+
+    so hear me olympusthy tale shall be told
+
+  o mountain of thebes a new theban shall praise thee
+
+    one born of thy bosom one nursed at thy springs
+
+  and the old men shall dance to thy glory and raise thee
+
+    to worship o bearer of joy to my kings
+
+            and thou we pray
+
+  look down in peace o apollo iê iê
+
+
+
+sidenote vv 10981120
+
+
+
+    antistrophe
+
+
+
+  what oread mother unaging unweeping
+
+    did bear thee o babe to the cragwalker pan
+
+  or perchance to apollo he loveth the leaping
+
+    of herds on the rockways unhaunted of man
+
+  or was it the lord of cyllênê who found thee
+
+    or glad dionysus whose home is the height
+
+  who knew thee his own on the mountain as round thee
+
+    the white brides of helicon laughed for delight
+
+                  tis there tis there
+
+  the joy most liveth of all his dance and prayer
+
+
+
+
+
+oedipus
+
+
+
+  if i may judge ye elders who have neer
+
+  seen him methinks i see the shepherd there
+
+  whom we have sought so long his weight of years
+
+  fits well with our corinthian messengers
+
+  and more i know the men who guide his way
+
+  bondsmen of mine own house
+
+                              thou friend wilt say
+
+  most surely who hast known the man of old
+
+
+
+leader
+
+
+
+  i know him well a shepherd of the fold
+
+  of laïus one he trusted more than all
+
+
+
+    the shepherd comes in led by two thralls
+
+        he is an old man and seems terrified
+
+
+
+oedipus
+
+
+
+  thou first our guest from corinth say withal
+
+  is this the man
+
+
+
+sidenote vv 11201130
+
+
+
+stranger
+
+
+
+           this is the man o king
+
+
+
+oedipus
+
+
+
+    addressing the shepherd
+
+
+
+  old man look up and answer everything
+
+  i ask theethou wast laïus man of old
+
+
+
+shepherd
+
+
+
+  born in his house i was not bought with gold
+
+
+
+oedipus
+
+
+
+  what kind of work what way of life was thine
+
+
+
+shepherd
+
+
+
+  most of my days i tended sheep or kine
+
+
+
+oedipus
+
+
+
+  what was thy camping ground at midsummer
+
+
+
+shepherd
+
+
+
+  sometimes kithairon sometimes mountains near
+
+
+
+oedipus
+
+
+
+  sawst ever there this man thou seëst now
+
+
+
+shepherd
+
+
+
+  there lord what doingwhat man meanest thou
+
+
+
+oedipus
+
+
+
+    pointing to the stranger
+
+
+
+  look hath he ever crossed thy path before
+
+
+
+sidenote vv 11311146
+
+
+
+shepherd
+
+
+
+  i call him not to mind i must think more
+
+
+
+stranger
+
+
+
+  small wonder that o king but i will throw
+
+  light on his memoriesright well i know
+
+  he knows the time when all kithairon through
+
+  i with one wandering herd and he with two
+
+  three times we neighboured one another clear
+
+  from spring to autumn stars a good halfyear
+
+  at winters fall we parted he drove down
+
+  to his masters fold and i back to mine own
+
+  dost call it back friend was it as i say
+
+
+
+shepherd
+
+
+
+  it was it was tis all so far away
+
+
+
+stranger
+
+
+
+  say then thou gavest me once there in the wild
+
+  a babe to rear far off as mine own child
+
+
+
+shepherd
+
+
+
+    his terror returning
+
+
+
+  what does this mean to what end askest thou
+
+
+
+stranger
+
+
+
+    pointing to oedipus
+
+
+
+  that babe has grown friend tis our master now
+
+
+
+shepherd
+
+
+
+    he slowly understands then stands for a moment horrorstruck
+
+
+
+  no in the name of death fool hold thy peace
+
+
+
+    he lifts his staff at the stranger
+
+
+
+sidenote vv 11471157
+
+
+
+oedipus
+
+
+
+  ha greybeard wouldst thou strike himtis not his
+
+  offences tis thine own we need to mend
+
+
+
+shepherd
+
+
+
+  most gentle master how do i offend
+
+
+
+oedipus
+
+
+
+  whence came that babe whereof he questioneth
+
+
+
+shepherd
+
+
+
+  he doth not know  tis folly  what he saith
+
+
+
+oedipus
+
+
+
+  thou wilt not speak for love but pain maybe 
+
+
+
+shepherd
+
+
+
+  i am very old ye would not torture me
+
+
+
+oedipus
+
+
+
+  back with his arms ye bondmen hold him so
+
+
+
+    the thralls drag back the shepherds
+
+       arms ready for torture
+
+
+
+shepherd
+
+
+
+  woes me what have i done what wouldst thou know
+
+
+
+oedipus
+
+
+
+  didst give this man the child as he doth say
+
+
+
+shepherd
+
+
+
+  i did would god that i had died this day
+
+
+
+sidenote vv 11581167
+
+
+
+oedipus
+
+
+
+ fore heaven thou shalt yet if thou speak not true
+
+
+
+shepherd
+
+
+
+ tis more than death and darker if i do
+
+
+
+oedipus
+
+
+
+  this dog it seems will keep us waiting
+
+
+
+shepherd
+
+
+
+                                       nay
+
+  i said at first i gave it
+
+
+
+oedipus
+
+
+
+                               in what way
+
+  came it to thee was it thine own child or
+
+  anothers
+
+
+
+shepherd
+
+
+
+             nay it never crossed my door
+
+  anothers
+
+
+
+oedipus
+
+
+
+             whose what man what house of these
+
+  about thee
+
+
+
+shepherd
+
+
+
+              in the name of god who sees
+
+  ask me no more
+
+
+
+oedipus
+
+
+
+                  if once i ask again
+
+  thou diest
+
+
+
+shepherd
+
+
+
+              from the folk of laïus then
+
+  it came
+
+
+
+sidenote vv 11681176
+
+
+
+oedipus
+
+
+
+          a slave or born of laïus blood
+
+
+
+shepherd
+
+
+
+  there comes the word i dread to speak o god
+
+
+
+oedipus
+
+
+
+  and i to hear yet heard it needs must be
+
+
+
+shepherd
+
+
+
+  know then they said twas laïus child but she
+
+  within thy wife best knows its fathering
+
+
+
+oedipus
+
+
+
+ twas she that gave it
+
+
+
+shepherd
+
+
+
+                          it was she o king
+
+
+
+oedipus
+
+
+
+  and bade you  what
+
+
+
+shepherd
+
+
+
+                         destroy it
+
+
+
+oedipus
+
+                            her own child
+
+  cruel
+
+
+
+shepherd
+
+
+
+          dark words of god had made her wild
+
+
+
+oedipus
+
+
+
+  what words
+
+
+
+sidenote vv 11761192
+
+
+
+shepherd
+
+
+
+                 the babe must slay his father so
+
+  twas written
+
+
+
+oedipus
+
+
+
+                 why didst thou then let him go
+
+  with this old man
+
+
+
+shepherd
+
+
+
+                           o king i pitied him
+
+  i thought the man would save him to some dim
+
+  and distant land beyond all fear and he
+
+  to worse than death did save him verily
+
+  if thou art he whom this man telleth of
+
+  to sore affliction thou art born
+
+
+
+oedipus
+
+
+
+                                     enough
+
+  all all shall be fulfilled oh on these eyes
+
+  shed light no more ye everlasting skies
+
+  that know my sin i have sinned in birth and breath
+
+  i have sinned with woman i have sinned with death
+
+
+
+    he rushes into the palace the shepherd
+
+        is led away by the thralls
+
+
+
+chorus
+
+
+
+    strophe
+
+
+
+         nothingness nothingness
+
+         ye children of man and less
+
+           i count you waking or dreaming
+
+         and none among mortals none
+
+         seeking to live hath won
+
+         more than to seem and to cease
+
+             again from his seeming
+
+
+
+sidenote vv 11931212
+
+
+
+        while ever before mine eyes
+
+        one fate one ensample lies
+
+        thine thine o oedipus sore
+
+            of god oppressèd
+
+        what thing that is human more
+
+            dare i call blessèd
+
+
+
+    antistrophe
+
+
+
+        straight his archery flew
+
+        to the heart of living he knew
+
+            joy and the fulness of power
+
+        o zeus when the riddling breath
+
+        was stayed and the maid of death
+
+        slain and we saw him through
+
+            the deathcloud a tower
+
+
+
+        for that he was called my king
+
+        yea every precious thing
+
+        wherewith men are honoured down
+
+            we cast before him
+
+        and great thebes brought her crown
+
+            and kneeled to adore him
+
+
+
+    strophe
+
+
+
+  but now what mans story is such bitterness to speak
+
+    what life hath delusion so visited and pain
+
+                and swiftness of disaster
+
+                o great king our master
+
+    how oped the one haven to the slayer and the slain
+
+  and the furrows of thy father did they turn not nor shriek
+
+    did they bear so long silent thy casting of the grain
+
+
+
+sidenote vv 12131235
+
+
+
+    antistrophe
+
+
+
+ tis time time desireless hath shown thee what thou art
+
+    the long monstrous mating it is judged and all its race
+
+            o child of him that sleepeth
+
+            thy land weepeth weepeth
+
+    unfathered would god i had never seen thy face
+
+  from thee in great peril fell peace upon my heart
+
+    in thee mine eye clouded and the dark is come apace
+
+
+
+    a messenger rushes out from the palace
+
+
+
+messenger
+
+
+
+  o ye above this land in honour old
+
+  exalted what a tale shall ye be told
+
+  what sights shall see and tears of horror shed
+
+  if still your hearts be true to them that led
+
+  your sires there runs no river well i ween
+
+  not phasis nor great ister shall wash clean
+
+  this house of all within that hidethnay
+
+  nor all that creepeth forth to front the day
+
+  of purposed horror and in misery
+
+  that woundeth most which men have willed to be
+
+
+
+leader
+
+
+
+  no lack there was in what we knew before
+
+  of food for heaviness what bringst thou more
+
+
+
+messenger
+
+
+
+  one thing i bring thee first tis quickly said
+
+  jocasta our anointed queen is dead
+
+
+
+sidenote vv 12361260
+
+
+
+leader
+
+
+
+  unhappy woman how came death to her
+
+
+
+messenger
+
+
+
+  by her own hand oh of what passed in there
+
+  ye have been spared the worst ye cannot see
+
+  howbeit with that which still is left in me
+
+  of mind and memory ye shall hear her fate
+
+    like one entranced with passion through the gate
+
+  she passed the white hands flashing oer her head
+
+  like blades that tear and fled unswerving fled
+
+  toward her old bridal room and disappeared
+
+  and the doors crashed behind her but we heard
+
+  her voice within crying to him of old
+
+  her laïus long dead and things untold
+
+  of the old kiss unforgotten that should bring
+
+  the lovers death and leave the loved a thing
+
+  of horror yea a field beneath the plough
+
+  for sire and son then wailing bitterlow
+
+  across that bed of births unreconciled
+
+  husband from husband born and child from child
+
+  and after that i know not how her death
+
+  found her for sudden with a roar of wrath
+
+  burst oedipus upon us then i ween
+
+  we marked no more what passion held the queen
+
+  but him as in the fury of his stride
+
+  a sword a sword and show me here he cried
+
+  that wife no wife that field of bloodstained earth
+
+  where husband father sin on sin had birth
+
+  polluted generations while he thus
+
+  raged on some godfor sure twas none of us
+
+  showed where she was and with a shout away
+
+  as though some hand had pointed to the prey
+
+
+
+sidenote vv 12611286
+
+
+
+  he dashed him on the chamber door the straight
+
+  doorbar of oak it bent beneath his weight
+
+  shook from its sockets free and in he burst
+
+  to the dark chamber
+
+                       there we saw her first
+
+  hanged swinging from a noose like a dead bird
+
+  he fell back when he saw her then we heard
+
+  a miserable groan and straight he found
+
+  and loosed the strangling knot and on the ground
+
+  laid herah then the sight of horror came
+
+  the pin of gold broadbeaten like a flame
+
+  he tore from off her breast and left and right
+
+  down on the shuddering orbits of his sight
+
+  dashed it out out ye never more shall see
+
+  me nor the anguish nor the sins of me
+
+  ye looked on lives whose like earth never bore
+
+  ye knew not those my spirit thirsted for
+
+  therefore be dark for ever
+
+                               like a song
+
+  his voice rose and again again the strong
+
+  and stabbing hand fell and the massacred
+
+  and bleeding eyeballs streamed upon his beard
+
+  wild rain and gouts of hail amid the rain
+
+    behold affliction yea afflictions twain
+
+  from man and woman broken now made one
+
+  in downfall all the riches yester sun
+
+  saw in this house were rich in verity
+
+  what call ye now our riches agony
+
+  delusion death shame all that eye or ear
+
+  hath ever dreamed of misery is here
+
+
+
+leader
+
+
+
+  and now how fares he doth the storm abate
+
+
+
+sidenote vv 12871308
+
+
+
+messenger
+
+
+
+  he shouts for one to open wide the gate
+
+  and lead him forth and to all thebes display
+
+  his fathers murderer his mothers nay
+
+  such words i will not speak and his intent
+
+  is set to cast himself in banishment
+
+  out to the wild not walk mid human breed
+
+  bearing the curse he bears yet sore his need
+
+  of strength and of some guiding hand for sure
+
+  he hath more burden now than man may endure
+
+    but see the gates fall back and that appears
+
+  which he who loathes shall pityyea with tears
+
+
+
+    oedipus is led in blinded and bleeding the
+
+       old men bow down and hide their faces
+
+       some of them weep
+
+
+
+chorus
+
+
+
+  oh terrible oh sight of all
+
+      this life hath crossed most terrible
+
+      thou man more wronged than tongue can tell
+
+  what madness took thee do there crawl
+
+      live things of evil from the deep
+
+      to leap on man oh what a leap
+
+  was his that flung thee to thy fall
+
+
+
+leader
+
+
+
+  o fallen fallen in ghastly case
+
+      i dare not raise mine eyes to thee
+
+      fain would i look and ask and see
+
+  but shudder sickened from thy face
+
+
+
+oedipus
+
+
+
+          oh pain pain and woe
+
+              whither whither
+
+
+
+sidenote vv 13081328
+
+
+
+          they lead me and i go
+
+            and my voice drifts on the air
+
+                  far away
+
+            where thing of evil where
+
+              endeth thy leaping hither
+
+
+
+leader
+
+
+
+  in fearful ends which none may hear nor say
+
+
+
+oedipus
+
+
+
+    strophe
+
+
+
+      cloud of the dark mine own
+
+          for ever horrible
+
+          stealing stealing silent unconquerable
+
+          cloud that no wind no summer can dispel
+
+      again again i groan
+
+  as through my heart together crawl the strong
+
+  stabs of this pain and memories of old wrong
+
+
+
+leader
+
+
+
+  yea twofold hosts of torment hast thou there
+
+  the stain to think on and the pain to bear
+
+
+
+oedipus
+
+
+
+    antistrophe
+
+
+
+      o friend thou mine own
+
+           still faithful minister
+
+           steadfast abiding alone of them that were
+
+           dost bear with me and give the blind man care
+
+      ah me not all unknown
+
+  nor hid thou art deep in this dark a call
+
+  comes and i know thy voice in spite of all
+
+
+
+leader
+
+
+
+  o fearful sufferer and couldst thou kill
+
+  thy living orbs what god made blind thy will
+
+
+
+sidenote vv 13291351
+
+
+
+oedipus
+
+
+
+    strophe
+
+
+
+ tis apollo all is apollo
+
+    o ye that love me tis he long time hath planned
+
+      these things upon me evilly evilly
+
+        dark things and full of blood
+
+  i knew not i did but follow
+
+    his way but mine the hand
+
+      and mine the anguish what were mine eyes to me
+
+        when naught to be seen was good
+
+
+
+leader
+
+
+
+ tis even so and truth doth speak in thee
+
+
+
+oedipus
+
+
+
+  to see to endure to hear words kindly spoken
+
+    should i have joy in such
+
+      out if ye love your breath
+
+  cast me swift unto solitude unbroken
+
+    by word or touch
+
+      am i not charged with death
+
+        most charged and filled to the brim
+
+      with curses and what man saith
+
+        god hath so hated him
+
+
+
+leader
+
+
+
+  thy bitter will thy hard calamity
+
+  would i had never known nor looked on thee
+
+
+
+oedipus
+
+
+
+    antistrophe
+
+
+
+  my curse my curse upon him
+
+    that man whom pity held in the wilderness
+
+      who saved the feet alive from the bloodfetter
+
+        and loosed the barb thereof
+
+
+
+sidenote vv 13511377
+
+
+
+  that babewhat grace was done him
+
+    had he died shelterless
+
+      he had not laid on himself this grief to bear
+
+        and all who gave him love
+
+
+
+leader
+
+
+
+  i too o friend i had been happier
+
+
+
+oedipus
+
+
+
+  found not the way to his fathers blood nor shaken
+
+        the worlds scorn on his mother
+
+          the child and the groom withal
+
+  but now of murderers born of god forsaken
+
+        mine own sons brother
+
+          all this and if aught can fall
+
+            upon man more perilous
+
+          and elder in sin lo all
+
+            is the portion of oedipus
+
+
+
+leader
+
+
+
+  how shall i hold this counsel of thy mind
+
+  true thou wert better dead than living blind
+
+
+
+oedipus
+
+
+
+  that this deed is not well and wisely wrought
+
+  thou shalt not show me therefore school me not
+
+  think with what eyes hereafter in the place
+
+  of shadows could i see my fathers face
+
+  or my poor mothers both of whom this hand
+
+  hath wronged too deep for man to understand
+
+  or childrenborn as mine were born to see
+
+  their shapes should bring me joy great god
+
+      to me
+
+
+
+sidenote vv 13781403
+
+
+
+  there is no joy in city nor in tower
+
+  nor temple from all whom in this mine hour
+
+  i that was chief in thebes alone and ate
+
+  the kings bread i have made me separate
+
+  for ever mine own lips have bid the land
+
+  cast from it one so evil one whose hand
+
+  to sin was dedicate whom god hath shown
+
+  birthbranded  and my blood the dead kings own
+
+  all this myself have proved and can i then
+
+  look with straight eyes into the eyes of men
+
+  i trow not nay if any stop there were
+
+  to dam this fount that welleth in mine ear
+
+  for hearing i had never blenched nor stayed
+
+  till this vile shell were all one dungeon made
+
+  dark without sound tis thus the mind would fain
+
+  find peace selfprisoned from a world of pain
+
+    o wild kithairon why was it thy will
+
+  to save me why not take me quick and kill
+
+  kill before ever i could make men know
+
+  the thing i am the thing from which i grow
+
+  thou dead king polybus thou city wall
+
+  of corinth thou old castle i did call
+
+  my fathers what a life did ye begin
+
+  what splendour rotted by the worm within
+
+  when ye bred me o crossing of the roads
+
+  o secret glen and dusk of crowding woods
+
+  o narrow footpath creeping to the brink
+
+  where meet the three i gave you blood to drink
+
+  do ye remember twas my lifeblood hot
+
+  from mine own fathers heart have ye forgot
+
+  what deed i did among you and what new
+
+  and direr deed i fled from you to do
+
+  o flesh horror of flesh
+
+
+
+sidenote vv 14091431
+
+
+
+                              but what is shame
+
+  to do should not be spoken in gods name
+
+  take me somewhere far off and cover me
+
+  from sight or slay or cast me to the sea
+
+  where never eye may see me any more
+
+    what do ye fear to touch a man so sore
+
+  stricken nay tremble not my misery
+
+  is mine and shall be borne by none but me
+
+
+
+leader
+
+
+
+  lo yonder comes for answer to thy prayer
+
+  creon to do and to decree the care
+
+  of all our land is his now thou art weak
+
+
+
+oedipus
+
+
+
+  alas what word to creon can i speak
+
+  how make him trust me more he hath seen of late
+
+  so vile a heart in me so full of hate
+
+
+
+enter creon
+
+
+
+creon
+
+
+
+  not to make laughter oedipus nor cast
+
+  against thee any evil of the past
+
+  i seek thee but  ah god ye ministers
+
+  have ye no hearts or if for man there stirs
+
+  no pity in you fear at least to call
+
+  stain on our lord the sun who feedeth all
+
+  nor show in nakedness a horror such
+
+  as this which never mother earth may touch
+
+  nor gods clean rain nor sunlight quick within
+
+  guide himthe ills that in a house have been
+
+  they of the house alone should know or hear
+
+
+
+sidenote vv 14321447
+
+
+
+oedipus
+
+
+
+  in gods name since thou hast undone the fear
+
+  within me coming thus all nobleness
+
+  to one so vile grant me one only grace
+
+  for thy sake more i crave it than mine own
+
+
+
+creon
+
+
+
+  let me first hear what grace thou wouldst be shown
+
+
+
+oedipus
+
+
+
+  cast me from thebes  now quick  where none may see
+
+  my visage more nor mingle words with me
+
+
+
+creon
+
+
+
+  that had i done for sure save that i still
+
+  tremble and fain would ask apollos will
+
+
+
+oedipus
+
+
+
+  his will was clear enough to stamp the unclean
+
+  thing out the bloody hand the heart of sin
+
+
+
+creon
+
+
+
+ twas thus he seemed to speak but in this sore
+
+  strait we must needs learn surer than before
+
+
+
+oedipus
+
+
+
+  thou needs must trouble god for one so low
+
+
+
+creon
+
+
+
+  surely thyself will trust his answer now
+
+
+
+oedipus
+
+
+
+  i charge thee more  and if thou fail my sin
+
+  shall cleave to thee for her who lies within
+
+
+
+sidenote vv 14481472
+
+
+
+  make as thou wilt her burial tis thy task
+
+  to tend thine own but me let no man ask
+
+  this ancient city of my sires to give
+
+  harbour in life to me set me to live
+
+  on the wild hills and leave my name to those
+
+  deeps of kithairon which my father chose
+
+  and mother for my vast and living tomb
+
+  as they my murderers willed it let my doom
+
+  find me for this my very heart doth know
+
+  no sickness now nor any mortal blow
+
+  shall slay this body never had my breath
+
+  been thus kept burning in the midst of death
+
+  save for some frightful end so let my way
+
+  go where it listeth
+
+                       but my childrennay
+
+  creon my sons will ask thee for no care
+
+  men are they and can find them everywhere
+
+  what life needs but my two poor desolate
+
+  maidens there was no table ever set
+
+  apart for them but whatso royal fare
+
+  i tasted they were with me and had share
+
+  in all creon i pray forget them not
+
+  and if it may be go bid them be brought
+
+
+
+    creon goes and presently returns with the
+
+       two princesses oedipus thinks he is
+
+       there all the time
+
+
+
+  that i may touch their faces and so weep
+
+  go prince go noble heart
+
+  if i might touch them i should seem to keep
+
+  and not to have lost them now mine eyes are gone
+
+  what say i
+
+  in gods name can it be i hear mine own
+
+
+
+sidenote vv 14731505
+
+
+
+  beloved ones sobbing creon of his grace
+
+  hath brought my two my dearest to this place
+
+  is it true
+
+
+
+creon
+
+
+
+ tis true i brought them for in them i know
+
+  thy joy is the same now as long ago
+
+
+
+oedipus
+
+
+
+  god bless thee and in this hard journey give
+
+  some better guide than mine to help thee live
+
+    children where are ye hither come to these
+
+  arms of your  brother whose wild offices
+
+  have brought much darkness on the once bright eyes
+
+  of him who grew your garden who nowise
+
+  seeing nor understanding digged a ground
+
+  the world shall shudder at children my wound
+
+  is yours too and i cannot meet your gaze
+
+  now as i think me what remaining days
+
+  of bitter living the world hath for you
+
+  what dance of damsels shall ye gather to
+
+  what feast of thebes but quick ye shall turn home
+
+  all tears or ere the feast or dancers come
+
+  and children when ye reach the years of love
+
+  who shall dare wed you whose heart rise above
+
+  the peril to take on him all the shame
+
+  that cleaves to my name and my childrens name
+
+  god knows it is enough
+
+  my flowers ye needs must die waste things bereft
+
+  and fruitless
+
+                 creon thou alone art left
+
+  their father now since both of us are gone
+
+  who cared for them oh leave them not alone
+
+
+
+sidenote vv 15051518
+
+
+
+  to wander masterless these thine own kin
+
+  and beggared neither think of them such sin
+
+  as ye all know in me but let their fate
+
+  touch thee so young they are so desolate
+
+  of all save thee true man give me thine hand
+
+  and promise
+
+
+
+    oedipus and creon clasp hands
+
+
+
+                if your age could understand
+
+  children full many counsels i could give
+
+  but now i leave this one word pray to live
+
+  as life may suffer you and find a road
+
+  to travel easier than your father trod
+
+
+
+creon
+
+
+
+  enough thy heart hath poured its tears now back into
+
+  thine house repair
+
+
+
+oedipus
+
+
+
+i dread the house yet go i must
+
+
+
+creon
+
+
+
+              fair season maketh all things fair
+
+
+
+oedipus
+
+
+
+  one oath then give me and i go
+
+
+
+creon
+
+
+
+              name it and i will answer thee
+
+
+
+oedipus
+
+
+
+  to cast me from this land
+
+
+
+sidenote vv 15191523
+
+
+
+creon
+
+
+
+             a gift not mine but gods thou askest me
+
+
+
+oedipus
+
+
+
+  i am a thing of god abhorred
+
+
+
+creon
+
+
+
+            the more then will he grant thy prayer
+
+
+
+oedipus
+
+
+
+  thou givest thine oath
+
+
+
+creon
+
+
+
+    i see no light and seeing not i may not swear
+
+
+
+oedipus
+
+
+
+  then take me hence i care not
+
+
+
+creon
+
+
+
+          go in peace and give these children oer
+
+
+
+oedipus
+
+
+
+  ah no take not away my daughters
+
+
+
+    they are taken from him
+
+
+
+creon
+
+
+
+                     seek not to be master more did not thy
+
+    masteries of old forsake thee when the end was near
+
+
+
+sidenote vv 15241530
+
+
+
+chorus
+
+
+
+  ye citizens of thebes behold tis oedipus that passeth here
+
+  who read the riddleword of death and mightiest stood of mortal
+
+    men
+
+  and fortune loved him and the folk that saw him turned and looked
+
+    again
+
+  lo he is fallen and around great storms and the outreaching sea
+
+  therefore o man beware and look toward the end of things that be
+
+  the last of sights the last of days and no mans life account as gain
+
+  ere the full tale be finished and the darkness find him without pain
+
+
+
+    oedipus is led into the house and the doors
+
+       close on him
+
+
+
+
+
+
+
+
+
+                              notes to
+
+
+
+                       oedipus king of thebes
+
+
+
+
+
+p 4 l 21 dry ash of ismênusdivination by burnt offerings was
+
+practised at an altar of apollo by the river ismenus in thebes
+
+
+
+observe how many traits oedipus retains of the primitive king who was
+
+at once chief and medicineman and god the priest thinks it necessary
+
+to state explicitly that he does not regard oedipus as a god but he is
+
+clearly not quite like other men and it seems as if oedipus himself
+
+realised in this scene that the oracle from delphi might well demand the
+
+kings life cf p 6 what deed of mine what bitter task may save my
+
+city p 7 any fear for mine own death this thought present
+
+probably in more minds than his greatly increases the tension of the
+
+scene cf anthropology and the classics pp 7479
+
+
+
+p 7 l 87 message of joycreon says this for the sake of the omen
+
+the first words uttered at such a crisis would be ominous and tend to
+
+fulfil themselves
+
+
+
+pp 1316 ll 216275 the long cursing speech of oedipusobserve
+
+that this speech is broken into several divisions oedipus at each point
+
+expecting an answer and receiving none thus it is not mere declamation
+
+it involves action and reaction between a speaker and a crowdevery
+
+reader will notice how full it is of tragic irony almost every
+
+paragraph carries with it some sinister meaning of which the speaker is
+
+unconscious cf such phrases as if he tread my hearth had but his
+
+issue been more fortunate as i would for mine own father and of
+
+course the whole situation
+
+
+
+p 25 l 437 who were theythis momentary doubt of oedipus who of
+
+course regarded himself as the son of polybus king of corinth is
+
+explained later p 46 l 780
+
+
+
+pp 29 ff the creon scenethe only part of the play which could
+
+possibly be said to flag creons defence p 34 from probabilities
+
+as the rhetoricians would have called it seems less interesting to us
+
+than it probably did to the poets contemporaries it is remarkably like
+
+hippolytuss defence pp 52 f of my translation and probably one was
+
+suggested by the other we cannot be sure which was the earlier play
+
+
+
+the scene serves at least to quicken the pace of the drama to bring out
+
+the impetuous and somewhat tyrannical nature of oedipus and to prepare
+
+the magnificent entrance of jocasta
+
+
+
+p 36 l 630 thebes is my countryit must be remembered that to the
+
+chorus creon is a real theban oedipus a stranger from corinth
+
+
+
+p 41 conversation of oedipus and jocastathe technique of this
+
+wonderful scene an intimate selfrevealing conversation between husband
+
+and wife about the past forming the pivot of the play will remind a
+
+modern reader of ibsen
+
+
+
+p 42 l 718observe that jocasta does not tell the whole truth it
+
+was she herself who gave the child to be killed p 70 l 1173
+
+
+
+p 42 l 730 crossing of three wayscross roads always had dark
+
+associations this particular spot was well known to tradition and is
+
+still pointed out a bare isolated hillock of grey stone stands at the
+
+point where our road from daulia meets the road to delphi and a third
+
+road that stretches to the south the road runs up a frowning pass
+
+between parnassus on the right hand and the spurs of the helicon range
+
+on the left away to the south a wild and desolate valley opens running
+
+up among the waste places of helicon a scene of inexpressible grandeur
+
+and desolation jebb abridged
+
+
+
+p 44 l 754 who could bring coedipus of course thought he had
+
+killed them all see his next speech
+
+
+
+p 51observe the tragic effect of this prayer apollo means to
+
+destroy jocasta not to save her her prayer is broken across by the
+
+entry of the corinthian stranger which seems like a deliverance but is
+
+really a link in the chain of destruction there is a very similar
+
+effect in sophocles electra 636659 clytaemnestras prayer compare
+
+also the prayers to cypris in euripides hippolytus
+
+
+
+p 51 l 899abae was an ancient oracular shrine in boeotia olympia
+
+in elis was the seat of the olympian games and of a great temple of
+
+zeus
+
+
+
+p 52 l 918 o slayer of the wolf o lord of lightthe names
+
+lykeios lykios c seem to have two roots one meaning wolf and the
+
+other light
+
+
+
+p 56 l 987 thy fathers tomb like light across our darknessthis
+
+ghastly line does not show hardness of heart it shows only the terrible
+
+position in which oedipus and jocasta are naturally oedipus would give
+
+thanks if his father was dead compare his question above p 54 l
+
+960 not murderedhe cannot get the thought of the fated murder out
+
+of his mind
+
+
+
+p 57 l 994why does oedipus tell the corinthian this oracle which
+
+he has kept a secret even from his wife till todayperhaps because
+
+if there is any thought of his going back to corinth his long voluntary
+
+exile must be explained perhaps too the secret possesses his mind so
+
+overpoweringly that it can hardly help coming out
+
+
+
+pp 57 58 ll 10001020it is natural that the corinthian hesitates
+
+before telling a king that he is really not of royal birth
+
+
+
+pp 64 65 ll 10861109this joyous chorus strikes a curious note
+
+of course it forms a good contrast with what succeeds but how can the
+
+elders take such a serenely happy view of the discovery that oedipus is
+
+a foundling just after they have been alarmed at the exit of jocasta it
+
+seems as if the last triumphant speech of oedipus fey and almost
+
+touched with megalomania as it was had carried the feeling of the
+
+chorus with it
+
+
+
+p 66 l 1122is there any part in any tragedy so short and yet so
+
+effective as that of this shepherd
+
+
+
+p 75 l 1264 like a dead birdthe curious word greek
+
+empeplêgmenên seems to be taken from odyssey xxii 469 where it is
+
+applied to birds caught in a snare as to the motives of oedipus his
+
+first blind instinct to kill jocasta as a thing that polluted the earth
+
+when he saw her already dead a revulsion came
+
+
+
+p 76 ll 1305 ffobserve how a climax of physical horror is
+
+immediately veiled and made beautiful by lyrical poetry sophocles does
+
+not however carry this plan of simply flooding the scene with sudden
+
+beauty nearly so far as euripides does see hipp p 39 trojan
+
+women p 51
+
+
+
+p 83 ll 1450 ff set me to live on the wild hillsthese lines
+
+serve to explain the conception existing in the poets own time of
+
+oedipus as a daemon or ghost haunting mount kithairon
+
+
+
+p 86 l 1520 creonamid all creons wholehearted forgiveness of
+
+oedipus and his ready kindness there are one or two lines of his which
+
+strike a modern reader as tactless if not harsh yet i do not think that
+
+sophocles meant to produce that effect at the present day it is not in
+
+the best manners to moralise over a man who is down any more than it is
+
+the part of a comforter to expound and insist upon his friends
+
+misfortunes but it looks as if ancient manners expected and even
+
+demanded both cf the attitude of theseus to adrastus in eur
+
+suppliants
+
+
+
+
+
+
+
+
+
+
+
+end of the project gutenberg ebook of oedipus king of thebes by sophocles
+
+
+
+ end of this project gutenberg ebook oedipus king of thebes 
+
+
+
+ this file should be named 276738txt or 276738zip 
+
+this and all associated files of various formats will be found in
+
+        httpswwwgutenbergorg276727673
+
+
+
+produced by sigal alon turgut dincer r cedron and the
+
+online distributed proofreading team at httpswwwpgdpnet
+
+
+
+
+
+updated editions will replace the previous onethe old editions
+
+will be renamed
+
+
+
+creating the works from public domain print editions means that no
+
+one owns a united states copyright in these works so the foundation
+
+and you can copy and distribute it in the united states without
+
+permission and without paying copyright royalties  special rules
+
+set forth in the general terms of use part of this license apply to
+
+copying and distributing project gutenbergtm electronic works to
+
+protect the project gutenbergtm concept and trademark  project
+
+gutenberg is a registered trademark and may not be used if you
+
+charge for the ebooks unless you receive specific permission  if you
+
+do not charge anything for copies of this ebook complying with the
+
+rules is very easy  you may use this ebook for nearly any purpose
+
+such as creation of derivative works reports performances and
+
+research  they may be modified and printed and given awayyou may do
+
+practically anything with public domain ebooks  redistribution is
+
+subject to the trademark license especially commercial
+
+redistribution
+
+
+
+
+
+
+
+ start full license 
+
+
+
+the full project gutenberg license
+
+please read this before you distribute or use this work
+
+
+
+to protect the project gutenbergtm mission of promoting the free
+
+distribution of electronic works by using or distributing this work
+
+or any other work associated in any way with the phrase project
+
+gutenberg you agree to comply with all the terms of the full project
+
+gutenbergtm license available with this file or online at
+
+httpsgutenbergorglicense
+
+
+
+
+
+section 1  general terms of use and redistributing project gutenbergtm
+
+electronic works
+
+
+
+1a  by reading or using any part of this project gutenbergtm
+
+electronic work you indicate that you have read understand agree to
+
+and accept all the terms of this license and intellectual property
+
+trademarkcopyright agreement  if you do not agree to abide by all
+
+the terms of this agreement you must cease using and return or destroy
+
+all copies of project gutenbergtm electronic works in your possession
+
+if you paid a fee for obtaining a copy of or access to a project
+
+gutenbergtm electronic work and you do not agree to be bound by the
+
+terms of this agreement you may obtain a refund from the person or
+
+entity to whom you paid the fee as set forth in paragraph 1e8
+
+
+
+1b  project gutenberg is a registered trademark  it may only be
+
+used on or associated in any way with an electronic work by people who
+
+agree to be bound by the terms of this agreement  there are a few
+
+things that you can do with most project gutenbergtm electronic works
+
+even without complying with the full terms of this agreement  see
+
+paragraph 1c below  there are a lot of things you can do with project
+
+gutenbergtm electronic works if you follow the terms of this agreement
+
+and help preserve free future access to project gutenbergtm electronic
+
+works  see paragraph 1e below
+
+
+
+1c  the project gutenberg literary archive foundation the foundation
+
+or pglaf owns a compilation copyright in the collection of project
+
+gutenbergtm electronic works  nearly all the individual works in the
+
+collection are in the public domain in the united states  if an
+
+individual work is in the public domain in the united states and you are
+
+located in the united states we do not claim a right to prevent you from
+
+copying distributing performing displaying or creating derivative
+
+works based on the work as long as all references to project gutenberg
+
+are removed  of course we hope that you will support the project
+
+gutenbergtm mission of promoting free access to electronic works by
+
+freely sharing project gutenbergtm works in compliance with the terms of
+
+this agreement for keeping the project gutenbergtm name associated with
+
+the work  you can easily comply with the terms of this agreement by
+
+keeping this work in the same format with its attached full project
+
+gutenbergtm license when you share it without charge with others
+
+
+
+1d  the copyright laws of the place where you are located also govern
+
+what you can do with this work  copyright laws in most countries are in
+
+a constant state of change  if you are outside the united states check
+
+the laws of your country in addition to the terms of this agreement
+
+before downloading copying displaying performing distributing or
+
+creating derivative works based on this work or any other project
+
+gutenbergtm work  the foundation makes no representations concerning
+
+the copyright status of any work in any country outside the united
+
+states
+
+
+
+1e  unless you have removed all references to project gutenberg
+
+
+
+1e1  the following sentence with active links to or other immediate
+
+access to the full project gutenbergtm license must appear prominently
+
+whenever any copy of a project gutenbergtm work any work on which the
+
+phrase project gutenberg appears or with which the phrase project
+
+gutenberg is associated is accessed displayed performed viewed
+
+copied or distributed
+
+
+
+this ebook is for the use of anyone anywhere at no cost and with
+
+almost no restrictions whatsoever  you may copy it give it away or
+
+reuse it under the terms of the project gutenberg license included
+
+with this ebook or online at wwwgutenbergorg
+
+
+
+1e2  if an individual project gutenbergtm electronic work is derived
+
+from the public domain does not contain a notice indicating that it is
+
+posted with permission of the copyright holder the work can be copied
+
+and distributed to anyone in the united states without paying any fees
+
+or charges  if you are redistributing or providing access to a work
+
+with the phrase project gutenberg associated with or appearing on the
+
+work you must comply either with the requirements of paragraphs 1e1
+
+through 1e7 or obtain permission for the use of the work and the
+
+project gutenbergtm trademark as set forth in paragraphs 1e8 or
+
+1e9
+
+
+
+1e3  if an individual project gutenbergtm electronic work is posted
+
+with the permission of the copyright holder your use and distribution
+
+must comply with both paragraphs 1e1 through 1e7 and any additional
+
+terms imposed by the copyright holder  additional terms will be linked
+
+to the project gutenbergtm license for all works posted with the
+
+permission of the copyright holder found at the beginning of this work
+
+
+
+1e4  do not unlink or detach or remove the full project gutenbergtm
+
+license terms from this work or any files containing a part of this
+
+work or any other work associated with project gutenbergtm
+
+
+
+1e5  do not copy display perform distribute or redistribute this
+
+electronic work or any part of this electronic work without
+
+prominently displaying the sentence set forth in paragraph 1e1 with
+
+active links or immediate access to the full terms of the project
+
+gutenbergtm license
+
+
+
+1e6  you may convert to and distribute this work in any binary
+
+compressed marked up nonproprietary or proprietary form including any
+
+word processing or hypertext form  however if you provide access to or
+
+distribute copies of a project gutenbergtm work in a format other than
+
+plain vanilla ascii or other format used in the official version
+
+posted on the official project gutenbergtm web site wwwgutenbergorg
+
+you must at no additional cost fee or expense to the user provide a
+
+copy a means of exporting a copy or a means of obtaining a copy upon
+
+request of the work in its original plain vanilla ascii or other
+
+form  any alternate format must include the full project gutenbergtm
+
+license as specified in paragraph 1e1
+
+
+
+1e7  do not charge a fee for access to viewing displaying
+
+performing copying or distributing any project gutenbergtm works
+
+unless you comply with paragraph 1e8 or 1e9
+
+
+
+1e8  you may charge a reasonable fee for copies of or providing
+
+access to or distributing project gutenbergtm electronic works provided
+
+that
+
+
+
+ you pay a royalty fee of 20 of the gross profits you derive from
+
+     the use of project gutenbergtm works calculated using the method
+
+     you already use to calculate your applicable taxes  the fee is
+
+     owed to the owner of the project gutenbergtm trademark but he
+
+     has agreed to donate royalties under this paragraph to the
+
+     project gutenberg literary archive foundation  royalty payments
+
+     must be paid within 60 days following each date on which you
+
+     prepare or are legally required to prepare your periodic tax
+
+     returns  royalty payments should be clearly marked as such and
+
+     sent to the project gutenberg literary archive foundation at the
+
+     address specified in section 4 information about donations to
+
+     the project gutenberg literary archive foundation
+
+
+
+ you provide a full refund of any money paid by a user who notifies
+
+     you in writing or by email within 30 days of receipt that she
+
+     does not agree to the terms of the full project gutenbergtm
+
+     license  you must require such a user to return or
+
+     destroy all copies of the works possessed in a physical medium
+
+     and discontinue all use of and all access to other copies of
+
+     project gutenbergtm works
+
+
+
+ you provide in accordance with paragraph 1f3 a full refund of any
+
+     money paid for a work or a replacement copy if a defect in the
+
+     electronic work is discovered and reported to you within 90 days
+
+     of receipt of the work
+
+
+
+ you comply with all other terms of this agreement for free
+
+     distribution of project gutenbergtm works
+
+
+
+1e9  if you wish to charge a fee or distribute a project gutenbergtm
+
+electronic work or group of works on different terms than are set
+
+forth in this agreement you must obtain permission in writing from
+
+both the project gutenberg literary archive foundation and michael
+
+hart the owner of the project gutenbergtm trademark  contact the
+
+foundation as set forth in section 3 below
+
+
+
+1f
+
+
+
+1f1  project gutenberg volunteers and employees expend considerable
+
+effort to identify do copyright research on transcribe and proofread
+
+public domain works in creating the project gutenbergtm
+
+collection  despite these efforts project gutenbergtm electronic
+
+works and the medium on which they may be stored may contain
+
+defects such as but not limited to incomplete inaccurate or
+
+corrupt data transcription errors a copyright or other intellectual
+
+property infringement a defective or damaged disk or other medium a
+
+computer virus or computer codes that damage or cannot be read by
+
+your equipment
+
+
+
+1f2  limited warranty disclaimer of damages  except for the right
+
+of replacement or refund described in paragraph 1f3 the project
+
+gutenberg literary archive foundation the owner of the project
+
+gutenbergtm trademark and any other party distributing a project
+
+gutenbergtm electronic work under this agreement disclaim all
+
+liability to you for damages costs and expenses including legal
+
+fees  you agree that you have no remedies for negligence strict
+
+liability breach of warranty or breach of contract except those
+
+provided in paragraph f3  you agree that the foundation the
+
+trademark owner and any distributor under this agreement will not be
+
+liable to you for actual direct indirect consequential punitive or
+
+incidental damages even if you give notice of the possibility of such
+
+damage
+
+
+
+1f3  limited right of replacement or refund  if you discover a
+
+defect in this electronic work within 90 days of receiving it you can
+
+receive a refund of the money if any you paid for it by sending a
+
+written explanation to the person you received the work from  if you
+
+received the work on a physical medium you must return the medium with
+
+your written explanation  the person or entity that provided you with
+
+the defective work may elect to provide a replacement copy in lieu of a
+
+refund  if you received the work electronically the person or entity
+
+providing it to you may choose to give you a second opportunity to
+
+receive the work electronically in lieu of a refund  if the second copy
+
+is also defective you may demand a refund in writing without further
+
+opportunities to fix the problem
+
+
+
+1f4  except for the limited right of replacement or refund set forth
+
+in paragraph 1f3 this work is provided to you asis with no other
+
+warranties of any kind express or implied including but not limited to
+
+warranties of merchantibility or fitness for any purpose
+
+
+
+1f5  some states do not allow disclaimers of certain implied
+
+warranties or the exclusion or limitation of certain types of damages
+
+if any disclaimer or limitation set forth in this agreement violates the
+
+law of the state applicable to this agreement the agreement shall be
+
+interpreted to make the maximum disclaimer or limitation permitted by
+
+the applicable state law  the invalidity or unenforceability of any
+
+provision of this agreement shall not void the remaining provisions
+
+
+
+1f6  indemnity  you agree to indemnify and hold the foundation the
+
+trademark owner any agent or employee of the foundation anyone
+
+providing copies of project gutenbergtm electronic works in accordance
+
+with this agreement and any volunteers associated with the production
+
+promotion and distribution of project gutenbergtm electronic works
+
+harmless from all liability costs and expenses including legal fees
+
+that arise directly or indirectly from any of the following which you do
+
+or cause to occur a distribution of this or any project gutenbergtm
+
+work b alteration modification or additions or deletions to any
+
+project gutenbergtm work and c any defect you cause
+
+
+
+
+
+section  2  information about the mission of project gutenbergtm
+
+
+
+project gutenbergtm is synonymous with the free distribution of
+
+electronic works in formats readable by the widest variety of computers
+
+including obsolete old middleaged and new computers  it exists
+
+because of the efforts of hundreds of volunteers and donations from
+
+people in all walks of life
+
+
+
+volunteers and financial support to provide volunteers with the
+
+assistance they need is critical to reaching project gutenbergtms
+
+goals and ensuring that the project gutenbergtm collection will
+
+remain freely available for generations to come  in 2001 the project
+
+gutenberg literary archive foundation was created to provide a secure
+
+and permanent future for project gutenbergtm and future generations
+
+to learn more about the project gutenberg literary archive foundation
+
+and how your efforts and donations can help see sections 3 and 4
+
+and the foundation web page at httpswwwpglaforg
+
+
+
+
+
+section 3  information about the project gutenberg literary archive
+
+foundation
+
+
+
+the project gutenberg literary archive foundation is a non profit
+
+501c3 educational corporation organized under the laws of the
+
+state of mississippi and granted tax exempt status by the internal
+
+revenue service  the foundations ein or federal tax identification
+
+number is 646221541  its 501c3 letter is posted at
+
+httpspglaforgfundraising  contributions to the project gutenberg
+
+literary archive foundation are tax deductible to the full extent
+
+permitted by us federal laws and your states laws
+
+
+
+the foundations principal office is located at 4557 melan dr s
+
+fairbanks ak 99712 but its volunteers and employees are scattered
+
+throughout numerous locations  its business office is located at
+
+809 north 1500 west salt lake city ut 84116 801 5961887 email
+
+businesspglaforg  email contact links and up to date contact
+
+information can be found at the foundations web site and official
+
+page at httpspglaforg
+
+
+
+for additional contact information
+
+     dr gregory b newby
+
+     chief executive and director
+
+     gbnewbypglaforg
+
+
+
+
+
+section 4  information about donations to the project gutenberg
+
+literary archive foundation
+
+
+
+project gutenbergtm depends upon and cannot survive without wide
+
+spread public support and donations to carry out its mission of
+
+increasing the number of public domain and licensed works that can be
+
+freely distributed in machine readable form accessible by the widest
+
+array of equipment including outdated equipment  many small donations
+
+1 to 5000 are particularly important to maintaining tax exempt
+
+status with the irs
+
+
+
+the foundation is committed to complying with the laws regulating
+
+charities and charitable donations in all 50 states of the united
+
+states  compliance requirements are not uniform and it takes a
+
+considerable effort much paperwork and many fees to meet and keep up
+
+with these requirements  we do not solicit donations in locations
+
+where we have not received written confirmation of compliance  to
+
+send donations or determine the status of compliance for any
+
+particular state visit httpspglaforg
+
+
+
+while we cannot and do not solicit contributions from states where we
+
+have not met the solicitation requirements we know of no prohibition
+
+against accepting unsolicited donations from donors in such states who
+
+approach us with offers to donate
+
+
+
+international donations are gratefully accepted but we cannot make
+
+any statements concerning tax treatment of donations received from
+
+outside the united states  us laws alone swamp our small staff
+
+
+
+please check the project gutenberg web pages for current donation
+
+methods and addresses  donations are accepted in a number of other
+
+ways including including checks online payments and credit card
+
+donations  to donate please visit httpspglaforgdonate
+
+
+
+
+
+section 5  general information about project gutenbergtm electronic
+
+works
+
+
+
+professor michael s hart was the originator of the project gutenbergtm
+
+concept of a library of electronic works that could be freely shared
+
+with anyone  for thirty years he produced and distributed project
+
+gutenbergtm ebooks with only a loose network of volunteer support
+
+
+
+
+
+project gutenbergtm ebooks are often created from several printed
+
+editions all of which are confirmed as public domain in the us
+
+unless a copyright notice is included  thus we do not necessarily
+
+keep ebooks in compliance with any particular paper edition
+
+
+
+
+
+most people start at our web site which has the main pg search facility
+
+
+
+     httpswwwgutenbergorg
+
+
+
+this web site includes information about project gutenbergtm
+
+including how to make donations to the project gutenberg literary
+
+archive foundation how to help produce our new ebooks and how to
+
+subscribe to our email newsletter to hear about new ebooks
+

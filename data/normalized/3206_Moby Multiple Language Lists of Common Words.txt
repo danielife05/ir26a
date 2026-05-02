@@ -1,0 +1,170 @@
+ start of the project gutenberg ebook 3206 
+
+
+
+
+
+
+
+
+
+moby tm language ii documentation notes
+
+
+
+this documentation the software andor database are
+
+
+
+public domain material by grant from the author january 2001
+
+
+
+
+
+
+
+
+
+historical note
+
+
+
+the ward word lists were some of the largest public domain word lists
+
+in the world at the time they were added to the project gutenberg
+
+collection in 2007 these word lists do not contain 8bit accented
+
+characters or unicode as would be found in a more recent project
+
+gutenberg ebook instead the lists include phonetic spelling
+
+utilizing backslashes and other characters to indicate where accents
+
+would normally occur there is no detailed guide on how these extra
+
+characters were used and therefore it is likely infeasible to map from
+
+the word lists back to a correct representation of the word ie to
+
+map from a word list entry with slashes or other characters back to
+
+the actual nonenglish word with accents or other nonascii characters
+
+
+
+these lists may still be useful but they are no longer the
+
+stateoftheart in word lists in the time since the lists were
+
+created it has become much easier for anyone with interests to make
+
+their own lists of unique words from the project gutenberg collection
+
+or other sources
+
+
+
+
+
+moby tm language ii for msdos operating systems is compressed
+
+and distributed as a single zip file  after decompression the
+
+language files included with this product is in ordinary ascii
+
+format with crlf ascii 1310 delimiters
+
+
+
+
+
+
+
+
+
+moby language ii contents
+
+
+
+french language list httpswwwgutenbergorgfiles3206filesfrenchtxt
+
+german language list httpswwwgutenbergorgfiles3206filesgermantxt
+
+italian language list httpswwwgutenbergorgfiles3206filesitaliantxt
+
+japanese language list httpswwwgutenbergorgfiles3206filesjapanesetxt
+
+spanish language list httpswwwgutenbergorgfiles3206filesspanishtxt
+
+
+
+
+
+
+
+
+
+quick start
+
+
+
+1 insure you have at least 3mb of free disk space to hold the contents
+
+   of this zip file
+
+
+
+2 create a destination directory to hold the files listed above
+
+
+
+3 on the pg catalog page click on the selection more files you will
+
+see a fileszip folder in the list move this zipped folder to your
+
+computer on your computer open fileszip double click on its files
+
+subdirectory and copy the contents into the  destination directory on
+
+your computer
+
+
+
+
+
+word lists in five of the worlds great languages
+
+
+
+
+
+french    number of words  138257  size in bytes   1524757
+
+german    number of words  159809  size in bytes   2055986
+
+italian   number of words   60453  size in bytes    561981
+
+japanese  number of words  115523  size in bytes    934783
+
+spanish   number of words   86059  size in bytes    850523
+
+
+
+total     number of words  560101  size in bytes   5928030
+
+
+
+
+
+once decompressed the vocabulary files may be viewed and used just
+
+as any texttype file might
+
+
+
+
+
+ end of the project gutenberg ebook 3206 
+

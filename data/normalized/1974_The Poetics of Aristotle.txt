@@ -1,0 +1,3974 @@
+the project gutenberg ebook of poetics by aristotle
+
+
+
+this ebook is for the use of anyone anywhere at no cost and with
+
+almost no restrictions whatsoever  you may copy it give it away or
+
+reuse it under the terms of the project gutenberg license included
+
+with this ebook or online at wwwgutenbergorg
+
+
+
+
+
+title poetics
+
+
+
+author aristotle
+
+
+
+translator s h butcher
+
+
+
+posting date november 3 2008 ebook 1974
+
+release date november 1999
+
+
+
+language english
+
+
+
+character set encoding ascii
+
+
+
+ start of this project gutenberg ebook poetics 
+
+
+
+
+
+
+
+
+
+produced by an anonymous volunteer
+
+
+
+
+
+
+
+
+
+
+
+the poetics of aristotle
+
+
+
+by aristotle
+
+
+
+a translation by s h butcher
+
+
+
+
+
+transcribers annotations and conventions the translator left
+
+intact some greek words to illustrate a specific point of the original
+
+discourse in this transcription in order to retain the accuracy of
+
+this text those words are rendered by spelling out each greek letter
+
+individually such as alpha beta gamma delta the reader can
+
+distinguish these words by the enclosing braces  where multiple
+
+words occur together they are separated by the  symbol for clarity
+
+readers who do not speak or read the greek language will usually neither
+
+gain nor lose understanding by skipping over these passages those who
+
+understand greek however may gain a deeper insight to the original
+
+meaning and distinctions expressed by aristotle
+
+
+
+
+
+
+
+
+
+analysis of contents
+
+
+
+  i     imitation the common principle of the arts of poetry
+
+  ii    the objects of imitation
+
+  iii   the manner of imitation
+
+  iv    the origin and development of poetry
+
+  v     definition of the ludicrous and a brief sketch of the rise of
+
+        comedy
+
+  vi    definition of tragedy
+
+  vii   the plot must be a whole
+
+  viii  the plot must be a unity
+
+  ix    plot continued dramatic unity
+
+  x     plot continued definitions of simple and complex plots
+
+  xi    plot continued reversal of the situation recognition and
+
+        tragic or disastrous incident defined and explained
+
+  xii   the quantitative parts of tragedy defined
+
+  xiii  plot continued what constitutes tragic action
+
+  xiv   plot continued the tragic emotions of pity and fear should
+
+        spring out of the plot itself
+
+  xv    the element of character in tragedy
+
+  xvi   plot continued recognition its various kinds with examples
+
+  xvii  practical rules for the tragic poet
+
+  xviii further rules for the tragic poet
+
+  xix   thought or the intellectual element and diction in tragedy
+
+  xx    diction or language in general
+
+  xxi   poetic diction
+
+  xxii  poetic diction continued how poetry combines elevation of
+
+        language with perspicuity
+
+  xxiii epic poetry
+
+  xxiv  epic poetry continued further points of agreement with tragedy
+
+  xxv   critical objections brought against poetry and the principles on
+
+        which they are to be answered
+
+  xxvi  a general estimate of the comparative worth of epic poetry and
+
+        tragedy
+
+
+
+
+
+
+
+
+
+aristotles poetics
+
+
+
+
+
+
+
+
+
+i
+
+
+
+i propose to treat of poetry in itself and of its various kinds noting
+
+the essential quality of each to inquire into the structure of the plot
+
+as requisite to a good poem into the number and nature of the parts of
+
+which a poem is composed and similarly into whatever else falls within
+
+the same inquiry following then the order of nature let us begin
+
+with the principles which come first
+
+
+
+epic poetry and tragedy comedy also and dithyrambic poetry and the
+
+music of the flute and of the lyre in most of their forms are all in
+
+their general conception modes of imitation they differ however from
+
+one another in three respectsthe medium the objects the manner or
+
+mode of imitation being in each case distinct
+
+
+
+for as there are persons who by conscious art or mere habit imitate
+
+and represent various objects through the medium of colour and form or
+
+again by the voice so in the arts above mentioned taken as a whole
+
+the imitation is produced by rhythm language or harmony either
+
+singly or combined
+
+
+
+thus in the music of the flute and of the lyre harmony and rhythm
+
+alone are employed also in other arts such as that of the shepherds
+
+pipe which are essentially similar to these in dancing rhythm alone
+
+is used without harmony for even dancing imitates character emotion
+
+and action by rhythmical movement
+
+
+
+there is another art which imitates by means of language alone and
+
+that either in prose or versewhich verse again may either combine
+
+different metres or consist of but one kindbut this has hitherto been
+
+without a name for there is no common term we could apply to the mimes
+
+of sophron and xenarchus and the socratic dialogues on the one hand
+
+and on the other to poetic imitations in iambic elegiac or any
+
+similar metre people do indeed add the word maker or poet to
+
+the name of the metre and speak of elegiac poets or epic that is
+
+hexameter poets as if it were not the imitation that makes the poet
+
+but the verse that entitles them all indiscriminately to the name even
+
+when a treatise on medicine or natural science is brought out in verse
+
+the name of poet is by custom given to the author and yet homer and
+
+empedocles have nothing in common but the metre so that it would be
+
+right to call the one poet the other physicist rather than poet on the
+
+same principle even if a writer in his poetic imitation were to combine
+
+all metres as chaeremon did in his centaur which is a medley composed
+
+of metres of all kinds we should bring him too under the general term
+
+poet so much then for these distinctions
+
+
+
+there are again some arts which employ all the means above mentioned
+
+namely rhythm tune and metre such are dithyrambic and nomic poetry
+
+and also tragedy and comedy but between them the difference is that in
+
+the first two cases these means are all employed in combination in the
+
+latter now one means is employed now another
+
+
+
+such then are the differences of the arts with respect to the medium
+
+of imitation
+
+
+
+
+
+
+
+
+
+ii
+
+
+
+since the objects of imitation are men in action and these men must be
+
+either of a higher or a lower type for moral character mainly answers
+
+to these divisions goodness and badness being the distinguishing marks
+
+of moral differences it follows that we must represent men either as
+
+better than in real life or as worse or as they are it is the same
+
+in painting polygnotus depicted men as nobler than they are pauson as
+
+less noble dionysius drew them true to life
+
+
+
+now it is evident that each of the modes of imitation above mentioned
+
+will exhibit these differences and become a distinct kind in imitating
+
+objects that are thus distinct such diversities may be found even in
+
+dancing fluteplaying and lyreplaying so again in language whether
+
+prose or verse unaccompanied by music homer for example makes men
+
+better than they are cleophon as they are hegemon the thasian the
+
+inventor of parodies and nicochares the author of the deiliad worse
+
+than they are the same thing holds good of dithyrambs and nomes
+
+here too one may portray different types as timotheus and philoxenus
+
+differed in representing their cyclopes the same distinction marks
+
+off tragedy from comedy for comedy aims at representing men as worse
+
+tragedy as better than in actual life
+
+
+
+
+
+
+
+
+
+iii
+
+
+
+there is still a third differencethe manner in which each of these
+
+objects may be imitated for the medium being the same and the objects
+
+the same the poet may imitate by narrationin which case he can either
+
+take another personality as homer does or speak in his own person
+
+unchangedor he may present all his characters as living and moving
+
+before us
+
+
+
+these then as we said at the beginning are the three differences
+
+which distinguish artistic imitationthe medium the objects and the
+
+manner so that from one point of view sophocles is an imitator of the
+
+same kind as homerfor both imitate higher types of character from
+
+another point of view of the same kind as aristophanesfor both
+
+imitate persons acting and doing hence some say the name of drama
+
+is given to such poems as representing action for the same reason the
+
+dorians claim the invention both of tragedy and comedy the claim to
+
+comedy is put forward by the megariansnot only by those of greece
+
+proper who allege that it originated under their democracy but also
+
+by the megarians of sicily for the poet epicharmus who is much earlier
+
+than chionides and magnes belonged to that country tragedy too is
+
+claimed by certain dorians of the peloponnese in each case they appeal
+
+to the evidence of language the outlying villages they say are by
+
+them called kappa omega mu alpha iota by the athenians delta eta
+
+mu iota and they assume that comedians were so named not from kappa
+
+omega mu alpha zeta epsilon iota nu to revel but because they
+
+wandered from village to village kappa alpha tau alpha  kappa omega mu
+
+alpha sigma being excluded contemptuously from the city they add
+
+also that the dorian word for doing is delta rho alpha nu and the
+
+athenian pi rho alpha tau tau epsilon iota nu
+
+
+
+this may suffice as to the number and nature of the various modes of
+
+imitation
+
+
+
+
+
+
+
+
+
+iv
+
+
+
+poetry in general seems to have sprung from two causes each of them
+
+lying deep in our nature first the instinct of imitation is implanted
+
+in man from childhood one difference between him and other animals
+
+being that he is the most imitative of living creatures and through
+
+imitation learns his earliest lessons and no less universal is the
+
+pleasure felt in things imitated we have evidence of this in the facts
+
+of experience objects which in themselves we view with pain we delight
+
+to contemplate when reproduced with minute fidelity such as the forms
+
+of the most ignoble animals and of dead bodies the cause of this again
+
+is that to learn gives the liveliest pleasure not only to philosophers
+
+but to men in general whose capacity however of learning is more
+
+limited thus the reason why men enjoy seeing a likeness is that in
+
+contemplating it they find themselves learning or inferring and saying
+
+perhaps ah that is he for if you happen not to have seen the
+
+original the pleasure will be due not to the imitation as such but to
+
+the execution the colouring or some such other cause
+
+
+
+imitation then is one instinct of our nature next there is the
+
+instinct for harmony and rhythm metres being manifestly sections of
+
+rhythm persons therefore starting with this natural gift developed
+
+by degrees their special aptitudes till their rude improvisations gave
+
+birth to poetry
+
+
+
+poetry now diverged in two directions according to the individual
+
+character of the writers the graver spirits imitated noble actions and
+
+the actions of good men the more trivial sort imitated the actions of
+
+meaner persons at first composing satires as the former did hymns to
+
+the gods and the praises of famous men a poem of the satirical kind
+
+cannot indeed be put down to any author earlier than homer though many
+
+such writers probably there were but from homer onward instances
+
+can be citedhis own margites for example and other similar
+
+compositions the appropriate metre was also here introduced hence the
+
+measure is still called the iambic or lampooning measure being that
+
+in which people lampooned one another thus the older poets were
+
+distinguished as writers of heroic or of lampooning verse
+
+
+
+as in the serious style homer is preeminent among poets for he alone
+
+combined dramatic form with excellence of imitation so he too first
+
+laid down the main lines of comedy by dramatising the ludicrous instead
+
+of writing personal satire his margites bears the same relation to
+
+comedy that the iliad and odyssey do to tragedy but when tragedy and
+
+comedy came to light the two classes of poets still followed their
+
+natural bent the lampooners became writers of comedy and the epic
+
+poets were succeeded by tragedians since the drama was a larger and
+
+higher form of art
+
+
+
+whether tragedy has as yet perfected its proper types or not and
+
+whether it is to be judged in itself or in relation also to the
+
+audiencethis raises another question be that as it may tragedyas
+
+also comedywas at first mere improvisation the one originated with
+
+the authors of the dithyramb the other with those of the phallic songs
+
+which are still in use in many of our cities tragedy advanced by slow
+
+degrees each new element that showed itself was in turn developed
+
+having passed through many changes it found its natural form and there
+
+it stopped
+
+
+
+aeschylus first introduced a second actor he diminished the importance
+
+of the chorus and assigned the leading part to the dialogue sophocles
+
+raised the number of actors to three and added scenepainting
+
+moreover it was not till late that the short plot was discarded for
+
+one of greater compass and the grotesque diction of the earlier satyric
+
+form for the stately manner of tragedy the iambic measure then replaced
+
+the trochaic tetrameter which was originally employed when the poetry
+
+was of the satyric order and had greater affinities with dancing once
+
+dialogue had come in nature herself discovered the appropriate measure
+
+for the iambic is of all measures the most colloquial we see it
+
+in the fact that conversational speech runs into iambic lines more
+
+frequently than into any other kind of verse rarely into hexameters
+
+and only when we drop the colloquial intonation the additions to
+
+the number of episodes or acts and the other accessories of which
+
+tradition tells must be taken as already described for to discuss
+
+them in detail would doubtless be a large undertaking
+
+
+
+
+
+
+
+
+
+v
+
+
+
+comedy is as we have said an imitation of characters of a lower type
+
+not however in the full sense of the word bad the ludicrous being
+
+merely a subdivision of the ugly it consists in some defect or ugliness
+
+which is not painful or destructive to take an obvious example the
+
+comic mask is ugly and distorted but does not imply pain
+
+
+
+the successive changes through which tragedy passed and the authors
+
+of these changes are well known whereas comedy has had no history
+
+because it was not at first treated seriously it was late before the
+
+archon granted a comic chorus to a poet the performers were till then
+
+voluntary comedy had already taken definite shape when comic poets
+
+distinctively so called are heard of who furnished it with masks or
+
+prologues or increased the number of actorsthese and other similar
+
+details remain unknown as for the plot it came originally from
+
+sicily but of athenian writers crates was the first who abandoning the
+
+iambic or lampooning form generalised his themes and plots
+
+
+
+epic poetry agrees with tragedy in so far as it is an imitation in verse
+
+of characters of a higher type they differ in that epic poetry admits
+
+but one kind of metre and is narrative in form they differ again
+
+in their length for tragedy endeavours as far as possible to confine
+
+itself to a single revolution of the sun or but slightly to exceed this
+
+limit whereas the epic action has no limits of time this then is
+
+a second point of difference though at first the same freedom was
+
+admitted in tragedy as in epic poetry
+
+
+
+of their constituent parts some are common to both some peculiar to
+
+tragedy whoever therefore knows what is good or bad tragedy knows
+
+also about epic poetry all the elements of an epic poem are found in
+
+tragedy but the elements of a tragedy are not all found in the epic
+
+poem
+
+
+
+
+
+
+
+
+
+vi
+
+
+
+of the poetry which imitates in hexameter verse and of comedy we
+
+will speak hereafter let us now discuss tragedy resuming its formal
+
+definition as resulting from what has been already said
+
+
+
+tragedy then is an imitation of an action that is serious complete
+
+and of a certain magnitude in language embellished with each kind of
+
+artistic ornament the several kinds being found in separate parts of
+
+the play in the form of action not of narrative through pity and
+
+fear effecting the proper purgation of these emotions by language
+
+embellished i mean language into which rhythm harmony and song
+
+enter by the several kinds in separate parts i mean that some parts
+
+are rendered through the medium of verse alone others again with the
+
+aid of song
+
+
+
+now as tragic imitation implies persons acting it necessarily follows
+
+in the first place that spectacular equipment will be a part of
+
+tragedy next song and diction for these are the medium of imitation
+
+by diction i mean the mere metrical arrangement of the words as for
+
+song it is a term whose sense every one understands
+
+
+
+again tragedy is the imitation of an action and an action implies
+
+personal agents who necessarily possess certain distinctive qualities
+
+both of character and thought for it is by these that we qualify
+
+actions themselves and thesethought and characterare the two
+
+natural causes from which actions spring and on actions again all
+
+success or failure depends hence the plot is the imitation of the
+
+action for by plot i here mean the arrangement of the incidents by
+
+character i mean that in virtue of which we ascribe certain qualities to
+
+the agents thought is required wherever a statement is proved or it
+
+may be a general truth enunciated every tragedy therefore must have
+
+six parts which parts determine its qualitynamely plot character
+
+diction thought spectacle song two of the parts constitute the
+
+medium of imitation one the manner and three the objects of imitation
+
+and these complete the list these elements have been employed we may
+
+say by the poets to a man in fact every play contains spectacular
+
+elements as well as character plot diction song and thought
+
+
+
+but most important of all is the structure of the incidents for tragedy
+
+is an imitation not of men but of an action and of life and life
+
+consists in action and its end is a mode of action not a quality now
+
+character determines mens qualities but it is by their actions that
+
+they are happy or the reverse dramatic action therefore is not with
+
+a view to the representation of character character comes in as
+
+subsidiary to the actions hence the incidents and the plot are the
+
+end of a tragedy and the end is the chief thing of all again without
+
+action there cannot be a tragedy there may be without character
+
+the tragedies of most of our modern poets fail in the rendering of
+
+character and of poets in general this is often true it is the same
+
+in painting and here lies the difference between zeuxis and polygnotus
+
+polygnotus delineates character well the style of zeuxis is devoid
+
+of ethical quality again if you string together a set of speeches
+
+expressive of character and well finished in point of diction and
+
+thought you will not produce the essential tragic effect nearly so well
+
+as with a play which however deficient in these respects yet has a
+
+plot and artistically constructed incidents besides which the most
+
+powerful elements of emotional interest in tragedy peripeteia or
+
+reversal of the situation and recognition scenesare parts of the
+
+plot a further proof is that novices in the art attain to finish of
+
+diction and precision of portraiture before they can construct the plot
+
+it is the same with almost all the early poets
+
+
+
+the plot then is the first principle and as it were the soul of
+
+a tragedy character holds the second place a similar fact is seen in
+
+painting the most beautiful colours laid on confusedly will not give
+
+as much pleasure as the chalk outline of a portrait thus tragedy is
+
+the imitation of an action and of the agents mainly with a view to the
+
+action
+
+
+
+third in order is thoughtthat is the faculty of saying what is
+
+possible and pertinent in given circumstances in the case of oratory
+
+this is the function of the political art and of the art of rhetoric
+
+and so indeed the older poets make their characters speak the language
+
+of civic life the poets of our time the language of the rhetoricians
+
+character is that which reveals moral purpose showing what kind of
+
+things a man chooses or avoids speeches therefore which do not make
+
+this manifest or in which the speaker does not choose or avoid anything
+
+whatever are not expressive of character thought on the other hand
+
+is found where something is proved to be or not to be or a general
+
+maxim is enunciated
+
+
+
+fourth among the elements enumerated comes diction by which i mean as
+
+has been already said the expression of the meaning in words and its
+
+essence is the same both in verse and prose
+
+
+
+of the remaining elements song holds the chief place among the
+
+embellishments
+
+
+
+the spectacle has indeed an emotional attraction of its own but of
+
+all the parts it is the least artistic and connected least with the
+
+art of poetry for the power of tragedy we may be sure is felt
+
+even apart from representation and actors besides the production of
+
+spectacular effects depends more on the art of the stage machinist than
+
+on that of the poet
+
+
+
+
+
+
+
+
+
+vii
+
+
+
+these principles being established let us now discuss the proper
+
+structure of the plot since this is the first and most important thing
+
+in tragedy
+
+
+
+now according to our definition tragedy is an imitation of an action
+
+that is complete and whole and of a certain magnitude for there may
+
+be a whole that is wanting in magnitude a whole is that which has a
+
+beginning a middle and an end a beginning is that which does not
+
+itself follow anything by causal necessity but after which something
+
+naturally is or comes to be an end on the contrary is that which
+
+itself naturally follows some other thing either by necessity or as
+
+a rule but has nothing following it a middle is that which follows
+
+something as some other thing follows it a well constructed plot
+
+therefore must neither begin nor end at haphazard but conform to these
+
+principles
+
+
+
+again a beautiful object whether it be a living organism or any whole
+
+composed of parts must not only have an orderly arrangement of parts
+
+but must also be of a certain magnitude for beauty depends on magnitude
+
+and order hence a very small animal organism cannot be beautiful
+
+for the view of it is confused the object being seen in an almost
+
+imperceptible moment of time nor again can one of vast size be
+
+beautiful for as the eye cannot take it all in at once the unity and
+
+sense of the whole is lost for the spectator as for instance if there
+
+were one a thousand miles long as therefore in the case of animate
+
+bodies and organisms a certain magnitude is necessary and a magnitude
+
+which may be easily embraced in one view so in the plot a certain
+
+length is necessary and a length which can be easily embraced by the
+
+memory the limit of length in relation to dramatic competition and
+
+sensuous presentment is no part of artistic theory for had it been the
+
+rule for a hundred tragedies to compete together the performance would
+
+have been regulated by the waterclockas indeed we are told was
+
+formerly done but the limit as fixed by the nature of the drama itself
+
+is this the greater the length the more beautiful will the piece be
+
+by reason of its size provided that the whole be perspicuous and
+
+to define the matter roughly we may say that the proper magnitude is
+
+comprised within such limits that the sequence of events according
+
+to the law of probability or necessity will admit of a change from bad
+
+fortune to good or from good fortune to bad
+
+
+
+
+
+
+
+
+
+viii
+
+
+
+unity of plot does not as some persons think consist in the unity of
+
+the hero for infinitely various are the incidents in one mans life
+
+which cannot be reduced to unity and so too there are many actions of
+
+one man out of which we cannot make one action hence the error as it
+
+appears of all poets who have composed a heracleid a theseid or other
+
+poems of the kind they imagine that as heracles was one man the story
+
+of heracles must also be a unity but homer as in all else he is of
+
+surpassing merit here toowhether from art or natural geniusseems
+
+to have happily discerned the truth in composing the odyssey he did not
+
+include all the adventures of odysseussuch as his wound on parnassus
+
+or his feigned madness at the mustering of the hostincidents between
+
+which there was no necessary or probable connection but he made the
+
+odyssey and likewise the iliad to centre round an action that in our
+
+sense of the word is one as therefore in the other imitative arts the
+
+imitation is one when the object imitated is one so the plot being an
+
+imitation of an action must imitate one action and that a whole the
+
+structural union of the parts being such that if any one of them is
+
+displaced or removed the whole will be disjointed and disturbed for a
+
+thing whose presence or absence makes no visible difference is not an
+
+organic part of the whole
+
+
+
+
+
+
+
+
+
+ix
+
+
+
+it is moreover evident from what has been said that it is not
+
+the function of the poet to relate what has happened but what may
+
+happenwhat is possible according to the law of probability or
+
+necessity the poet and the historian differ not by writing in verse or
+
+in prose the work of herodotus might be put into verse and it would
+
+still be a species of history with metre no less than without it the
+
+true difference is that one relates what has happened the other what
+
+may happen poetry therefore is a more philosophical and a higher
+
+thing than history for poetry tends to express the universal history
+
+the particular by the universal i mean how a person of a certain type
+
+will on occasion speak or act according to the law of probability or
+
+necessity and it is this universality at which poetry aims in the names
+
+she attaches to the personages the particular isfor examplewhat
+
+alcibiades did or suffered in comedy this is already apparent for here
+
+the poet first constructs the plot on the lines of probability and then
+
+inserts characteristic namesunlike the lampooners who write about
+
+particular individuals but tragedians still keep to real names the
+
+reason being that what is possible is credible what has not happened
+
+we do not at once feel sure to be possible but what has happened is
+
+manifestly possible otherwise it would not have happened still there
+
+are even some tragedies in which there are only one or two well known
+
+names the rest being fictitious in others none are well known as in
+
+agathons antheus where incidents and names alike are fictitious and
+
+yet they give none the less pleasure we must not therefore at all
+
+costs keep to the received legends which are the usual subjects of
+
+tragedy indeed it would be absurd to attempt it for even subjects
+
+that are known are known only to a few and yet give pleasure to all
+
+it clearly follows that the poet or maker should be the maker of plots
+
+rather than of verses since he is a poet because he imitates and what
+
+he imitates are actions and even if he chances to take an historical
+
+subject he is none the less a poet for there is no reason why some
+
+events that have actually happened should not conform to the law of the
+
+probable and possible and in virtue of that quality in them he is their
+
+poet or maker
+
+
+
+of all plots and actions the epeisodic are the worst i call a plot
+
+epeisodic in which the episodes or acts succeed one another without
+
+probable or necessary sequence bad poets compose such pieces by their
+
+own fault good poets to please the players for as they write show
+
+pieces for competition they stretch the plot beyond its capacity and
+
+are often forced to break the natural continuity
+
+
+
+but again tragedy is an imitation not only of a complete action but of
+
+events inspiring fear or pity such an effect is best produced when the
+
+events come on us by surprise and the effect is heightened when at the
+
+same time they follow as cause and effect the tragic wonder will thee
+
+be greater than if they happened of themselves or by accident for even
+
+coincidences are most striking when they have an air of design we may
+
+instance the statue of mitys at argos which fell upon his murderer
+
+while he was a spectator at a festival and killed him such events seem
+
+not to be due to mere chance plots therefore constructed on these
+
+principles are necessarily the best
+
+
+
+
+
+
+
+
+
+x
+
+
+
+plots are either simple or complex for the actions in real life of
+
+which the plots are an imitation obviously show a similar distinction
+
+an action which is one and continuous in the sense above defined i call
+
+simple when the change of fortune takes place without reversal of the
+
+situation and without recognition
+
+
+
+a complex action is one in which the change is accompanied by such
+
+reversal or by recognition or by both these last should arise from
+
+the internal structure of the plot so that what follows should be the
+
+necessary or probable result of the preceding action it makes all the
+
+difference whether any given event is a case of propter hoc or post hoc
+
+
+
+
+
+
+
+
+
+xi
+
+
+
+reversal of the situation is a change by which the action veers round
+
+to its opposite subject always to our rule of probability or necessity
+
+thus in the oedipus the messenger comes to cheer oedipus and free
+
+him from his alarms about his mother but by revealing who he is he
+
+produces the opposite effect again in the lynceus lynceus is being led
+
+away to his death and danaus goes with him meaning to slay him but
+
+the outcome of the preceding incidents is that danaus is killed and
+
+lynceus saved recognition as the name indicates is a change from
+
+ignorance to knowledge producing love or hate between the persons
+
+destined by the poet for good or bad fortune the best form of
+
+recognition is coincident with a reversal of the situation as in the
+
+oedipus there are indeed other forms even inanimate things of the most
+
+trivial kind may in a sense be objects of recognition again we may
+
+recognise or discover whether a person has done a thing or not but the
+
+recognition which is most intimately connected with the plot and action
+
+is as we have said the recognition of persons this recognition
+
+combined with reversal will produce either pity or fear and actions
+
+producing these effects are those which by our definition tragedy
+
+represents moreover it is upon such situations that the issues of good
+
+or bad fortune will depend recognition then being between persons
+
+it may happen that one person only is recognised by the otherwhen the
+
+latter is already knownor it may be necessary that the recognition
+
+should be on both sides thus iphigenia is revealed to orestes by the
+
+sending of the letter but another act of recognition is required to
+
+make orestes known to iphigenia
+
+
+
+two parts then of the plotreversal of the situation and
+
+recognitionturn upon surprises a third part is the scene of
+
+suffering the scene of suffering is a destructive or painful action
+
+such as death on the stage bodily agony wounds and the like
+
+
+
+
+
+
+
+
+
+xii
+
+
+
+the parts of tragedy which must be treated as elements of the whole
+
+have been already mentioned we now come to the quantitative parts
+
+and the separate parts into which tragedy is divided namely prologue
+
+episode exode choric song this last being divided into parode and
+
+stasimon these are common to all plays peculiar to some are the songs
+
+of actors from the stage and the commoi
+
+
+
+the prologue is that entire part of a tragedy which precedes the parode
+
+of the chorus the episode is that entire part of a tragedy which
+
+is between complete choric songs the exode is that entire part of a
+
+tragedy which has no choric song after it of the choric part the parode
+
+is the first undivided utterance of the chorus the stasimon is a choric
+
+ode without anapaests or trochaic tetrameters the commos is a joint
+
+lamentation of chorus and actors the parts of tragedy which must
+
+be treated as elements of the whole have been already mentioned the
+
+quantitative parts the separate parts into which it is dividedare here
+
+enumerated
+
+
+
+
+
+
+
+
+
+xiii
+
+
+
+as the sequel to what has already been said we must proceed to consider
+
+what the poet should aim at and what he should avoid in constructing
+
+his plots and by what means the specific effect of tragedy will be
+
+produced
+
+
+
+a perfect tragedy should as we have seen be arranged not on the simple
+
+but on the complex plan it should moreover imitate actions which
+
+excite pity and fear this being the distinctive mark of tragic
+
+imitation it follows plainly in the first place that the change of
+
+fortune presented must not be the spectacle of a virtuous man brought
+
+from prosperity to adversity for this moves neither pity nor fear it
+
+merely shocks us nor again that of a bad man passing from adversity
+
+to prosperity for nothing can be more alien to the spirit of tragedy
+
+it possesses no single tragic quality it neither satisfies the moral
+
+sense nor calls forth pity or fear nor again should the downfall of
+
+the utter villain be exhibited a plot of this kind would doubtless
+
+satisfy the moral sense but it would inspire neither pity nor fear for
+
+pity is aroused by unmerited misfortune fear by the misfortune of a man
+
+like ourselves such an event therefore will be neither pitiful
+
+nor terrible there remains then the character between these two
+
+extremesthat of a man who is not eminently good and justyet whose
+
+misfortune is brought about not by vice or depravity but by some error
+
+or frailty he must be one who is highly renowned and prosperousa
+
+personage like oedipus thyestes or other illustrious men of such
+
+families
+
+
+
+a well constructed plot should therefore be single in its issue
+
+rather than double as some maintain the change of fortune should be not
+
+from bad to good but reversely from good to bad it should come about
+
+as the result not of vice but of some great error or frailty in a
+
+character either such as we have described or better rather than
+
+worse the practice of the stage bears out our view at first the poets
+
+recounted any legend that came in their way now the best tragedies
+
+are founded on the story of a few houses on the fortunes of alcmaeon
+
+oedipus orestes meleager thyestes telephus and those others who
+
+have done or suffered something terrible a tragedy then to be perfect
+
+according to the rules of art should be of this construction hence
+
+they are in error who censure euripides just because he follows this
+
+principle in his plays many of which end unhappily it is as we have
+
+said the right ending the best proof is that on the stage and in
+
+dramatic competition such plays if well worked out are the most
+
+tragic in effect and euripides faulty though he may be in the general
+
+management of his subject yet is felt to be the most tragic of the
+
+poets
+
+
+
+in the second rank comes the kind of tragedy which some place first
+
+like the odyssey it has a double thread of plot and also an opposite
+
+catastrophe for the good and for the bad it is accounted the best
+
+because of the weakness of the spectators for the poet is guided in
+
+what he writes by the wishes of his audience the pleasure however
+
+thence derived is not the true tragic pleasure it is proper rather to
+
+comedy where those who in the piece are the deadliest enemieslike
+
+orestes and aegisthusquit the stage as friends at the close and no
+
+one slays or is slain
+
+
+
+
+
+
+
+
+
+xiv
+
+
+
+fear and pity may be aroused by spectacular means but they may also
+
+result from the inner structure of the piece which is the better way
+
+and indicates a superior poet for the plot ought to be so constructed
+
+that even without the aid of the eye he who hears the tale told will
+
+thrill with horror and melt to pity at what takes place this is the
+
+impression we should receive from hearing the story of the oedipus but
+
+to produce this effect by the mere spectacle is a less artistic method
+
+and dependent on extraneous aids those who employ spectacular means
+
+to create a sense not of the terrible but only of the monstrous are
+
+strangers to the purpose of tragedy for we must not demand of tragedy
+
+any and every kind of pleasure but only that which is proper to it and
+
+since the pleasure which the poet should afford is that which comes from
+
+pity and fear through imitation it is evident that this quality must be
+
+impressed upon the incidents
+
+
+
+let us then determine what are the circumstances which strike us as
+
+terrible or pitiful
+
+
+
+actions capable of this effect must happen between persons who are
+
+either friends or enemies or indifferent to one another if an enemy
+
+kills an enemy there is nothing to excite pity either in the act or
+
+the intentionexcept so far as the suffering in itself is pitiful
+
+so again with indifferent persons but when the tragic incident occurs
+
+between those who are near or dear to one anotherif for example a
+
+brother kills or intends to kill a brother a son his father a mother
+
+her son a son his mother or any other deed of the kind is donethese
+
+are the situations to be looked for by the poet he may not indeed
+
+destroy the framework of the received legendsthe fact for instance
+
+that clytemnestra was slain by orestes and eriphyle by alcmaeon but he
+
+ought to show invention of his own and skilfully handle the traditional
+
+material let us explain more clearly what is meant by skilful handling
+
+
+
+the action may be done consciously and with knowledge of the persons in
+
+the manner of the older poets it is thus too that euripides makes medea
+
+slay her children or again the deed of horror may be done but
+
+done in ignorance and the tie of kinship or friendship be discovered
+
+afterwards the oedipus of sophocles is an example here indeed the
+
+incident is outside the drama proper but cases occur where it falls
+
+within the action of the play one may cite the alcmaeon of astydamas
+
+or telegonus in the wounded odysseus again there is a third caseto
+
+be about to act with knowledge of the persons and then not to act the
+
+fourth case is when some one is about to do an irreparable deed through
+
+ignorance and makes the discovery before it is done these are the only
+
+possible ways for the deed must either be done or not doneand that
+
+wittingly or unwittingly but of all these ways to be about to act
+
+knowing the persons and then not to act is the worst it is shocking
+
+without being tragic for no disaster follows it is therefore never
+
+or very rarely found in poetry one instance however is in the
+
+antigone where haemon threatens to kill creon the next and better way
+
+is that the deed should be perpetrated still better that it should be
+
+perpetrated in ignorance and the discovery made afterwards there
+
+is then nothing to shock us while the discovery produces a startling
+
+effect the last case is the best as when in the cresphontes merope is
+
+about to slay her son but recognising who he is spares his life so
+
+in the iphigenia the sister recognises the brother just in time again
+
+in the helle the son recognises the mother when on the point of giving
+
+her up this then is why a few families only as has been already
+
+observed furnish the subjects of tragedy it was not art but happy
+
+chance that led the poets in search of subjects to impress the tragic
+
+quality upon their plots they are compelled therefore to have
+
+recourse to those houses whose history contains moving incidents like
+
+these
+
+
+
+enough has now been said concerning the structure of the incidents and
+
+the right kind of plot
+
+
+
+
+
+
+
+
+
+xv
+
+
+
+in respect of character there are four things to be aimed at first and
+
+most important it must be good now any speech or action that manifests
+
+moral purpose of any kind will be expressive of character the character
+
+will be good if the purpose is good this rule is relative to each
+
+class even a woman may be good and also a slave though the woman
+
+may be said to be an inferior being and the slave quite worthless the
+
+second thing to aim at is propriety there is a type of manly valour
+
+but valour in a woman or unscrupulous cleverness is inappropriate
+
+thirdly character must be true to life for this is a distinct thing
+
+from goodness and propriety as here described the fourth point is
+
+consistency for though the subject of the imitation who suggested the
+
+type be inconsistent still he must be consistently inconsistent as an
+
+example of motiveless degradation of character we have menelaus in
+
+the orestes of character indecorous and inappropriate the lament of
+
+odysseus in the scylla and the speech of melanippe of inconsistency
+
+the iphigenia at aulisfor iphigenia the suppliant in no way resembles
+
+her later self
+
+
+
+as in the structure of the plot so too in the portraiture of character
+
+the poet should always aim either at the necessary or the probable thus
+
+a person of a given character should speak or act in a given way by the
+
+rule either of necessity or of probability just as this event should
+
+follow that by necessary or probable sequence it is therefore evident
+
+that the unravelling of the plot no less than the complication must
+
+arise out of the plot itself it must not be brought about by the deus
+
+ex machinaas in the medea or in the return of the greeks in the
+
+iliad the deus ex machina should be employed only for events external
+
+to the dramafor antecedent or subsequent events which lie beyond the
+
+range of human knowledge and which require to be reported or foretold
+
+for to the gods we ascribe the power of seeing all things within the
+
+action there must be nothing irrational if the irrational cannot be
+
+excluded it should be outside the scope of the tragedy such is the
+
+irrational element in the oedipus of sophocles
+
+
+
+again since tragedy is an imitation of persons who are above the common
+
+level the example of good portraitpainters should be followed they
+
+while reproducing the distinctive form of the original make a likeness
+
+which is true to life and yet more beautiful so too the poet in
+
+representing men who are irascible or indolent or have other defects
+
+of character should preserve the type and yet ennoble it in this way
+
+achilles is portrayed by agathon and homer
+
+
+
+these then are rules the poet should observe nor should he neglect
+
+those appeals to the senses which though not among the essentials are
+
+the concomitants of poetry for here too there is much room for error
+
+but of this enough has been said in our published treatises
+
+
+
+
+
+
+
+
+
+xvi
+
+
+
+what recognition is has been already explained we will now enumerate
+
+its kinds
+
+
+
+first the least artistic form which from poverty of wit is
+
+most commonly employed recognition by signs of these some are
+
+congenitalsuch as the spear which the earthborn race bear on their
+
+bodies or the stars introduced by carcinus in his thyestes others are
+
+acquired after birth and of these some are bodily marks as scars some
+
+external tokens as necklaces or the little ark in the tyro by which
+
+the discovery is effected even these admit of more or less skilful
+
+treatment thus in the recognition of odysseus by his scar the
+
+discovery is made in one way by the nurse in another by the swineherds
+
+the use of tokens for the express purpose of proofand indeed
+
+any formal proof with or without tokensis a less artistic mode of
+
+recognition a better kind is that which comes about by a turn of
+
+incident as in the bath scene in the odyssey
+
+
+
+next come the recognitions invented at will by the poet and on that
+
+account wanting in art for example orestes in the iphigenia reveals
+
+the fact that he is orestes she indeed makes herself known by the
+
+letter but he by speaking himself and saying what the poet not what
+
+the plot requires this therefore is nearly allied to the fault above
+
+mentionedfor orestes might as well have brought tokens with him
+
+another similar instance is the voice of the shuttle in the tereus of
+
+sophocles
+
+
+
+the third kind depends on memory when the sight of some object awakens
+
+a feeling as in the cyprians of dicaeogenes where the hero breaks into
+
+tears on seeing the picture or again in the lay of alcinous where
+
+odysseus hearing the minstrel play the lyre recalls the past and
+
+weeps and hence the recognition
+
+
+
+the fourth kind is by process of reasoning thus in the choephori some
+
+one resembling me has come no one resembles me but orestes therefore
+
+orestes has come such too is the discovery made by iphigenia in the
+
+play of polyidus the sophist it was a natural reflection for orestes to
+
+make so i too must die at the altar like my sister so again in
+
+the tydeus of theodectes the father says i came to find my son and
+
+i lose my own life so too in the phineidae the women on seeing the
+
+place inferred their fatehere we are doomed to die for here
+
+we were cast forth again there is a composite kind of recognition
+
+involving false inference on the part of one of the characters as in
+
+the odysseus disguised as a messenger a said that no one else was able
+
+to bend the bow hence b the disguised odysseus imagined that a
+
+would recognise the bow which in fact he had not seen and to bring
+
+about a recognition by this means that the expectation a would recognise
+
+the bow is false inference
+
+
+
+but of all recognitions the best is that which arises from the
+
+incidents themselves where the startling discovery is made by natural
+
+means such is that in the oedipus of sophocles and in the iphigenia
+
+for it was natural that iphigenia should wish to dispatch a letter
+
+these recognitions alone dispense with the artificial aid of tokens or
+
+amulets next come the recognitions by process of reasoning
+
+
+
+
+
+
+
+
+
+xvii
+
+
+
+in constructing the plot and working it out with the proper diction
+
+the poet should place the scene as far as possible before his eyes in
+
+this way seeing everything with the utmost vividness as if he were a
+
+spectator of the action he will discover what is in keeping with it
+
+and be most unlikely to overlook inconsistencies the need of such a
+
+rule is shown by the fault found in carcinus amphiaraus was on his way
+
+from the temple this fact escaped the observation of one who did not
+
+see the situation on the stage however the piece failed the audience
+
+being offended at the oversight
+
+
+
+again the poet should work out his play to the best of his power with
+
+appropriate gestures for those who feel emotion are most convincing
+
+through natural sympathy with the characters they represent and one
+
+who is agitated storms one who is angry rages with the most lifelike
+
+reality hence poetry implies either a happy gift of nature or a strain
+
+of madness in the one case a man can take the mould of any character
+
+in the other he is lifted out of his proper self
+
+
+
+as for the story whether the poet takes it ready made or constructs it
+
+for himself he should first sketch its general outline and then
+
+fill in the episodes and amplify in detail the general plan may be
+
+illustrated by the iphigenia a young girl is sacrificed she disappears
+
+mysteriously from the eyes of those who sacrificed her she is
+
+transported to another country where the custom is to offer up all
+
+strangers to the goddess to this ministry she is appointed some time
+
+later her own brother chances to arrive the fact that the oracle for
+
+some reason ordered him to go there is outside the general plan of the
+
+play the purpose again of his coming is outside the action proper
+
+however he comes he is seized and when on the point of being
+
+sacrificed reveals who he is the mode of recognition may be either
+
+that of euripides or of polyidus in whose play he exclaims very
+
+naturallyso it was not my sister only but i too who was doomed to
+
+be sacrificed and by that remark he is saved
+
+
+
+after this the names being once given it remains to fill in the
+
+episodes we must see that they are relevant to the action in the case
+
+of orestes for example there is the madness which led to his capture
+
+and his deliverance by means of the purificatory rite in the drama the
+
+episodes are short but it is these that give extension to epic poetry
+
+thus the story of the odyssey can be stated briefly a certain man is
+
+absent from home for many years he is jealously watched by poseidon
+
+and left desolate meanwhile his home is in a wretched plightsuitors
+
+are wasting his substance and plotting against his son at length
+
+tempesttost he himself arrives he makes certain persons acquainted
+
+with him he attacks the suitors with his own hand and is himself
+
+preserved while he destroys them this is the essence of the plot the
+
+rest is episode
+
+
+
+
+
+
+
+
+
+xviii
+
+
+
+every tragedy falls into two partscomplication and unravelling or
+
+denouement incidents extraneous to the action are frequently combined
+
+with a portion of the action proper to form the complication the rest
+
+is the unravelling by the complication i mean all that extends from
+
+the beginning of the action to the part which marks the turningpoint
+
+to good or bad fortune the unravelling is that which extends from the
+
+beginning of the change to the end thus in the lynceus of theodectes
+
+the complication consists of the incidents presupposed in the drama the
+
+seizure of the child and then again the unravelling extends from
+
+the accusation of murder to the end
+
+
+
+there are four kinds of tragedy the complex depending entirely on
+
+reversal of the situation and recognition the pathetic where the
+
+motive is passionsuch as the tragedies on ajax and ixion the
+
+ethical where the motives are ethicalsuch as the phthiotides and
+
+the peleus the fourth kind is the simple we here exclude the purely
+
+spectacular element exemplified by the phorcides the prometheus and
+
+scenes laid in hades the poet should endeavour if possible to combine
+
+all poetic elements or failing that the greatest number and those the
+
+most important the more so in face of the cavilling criticism of the
+
+day for whereas there have hitherto been good poets each in his own
+
+branch the critics now expect one man to surpass all others in their
+
+several lines of excellence
+
+
+
+in speaking of a tragedy as the same or different the best test to take
+
+is the plot identity exists where the complication and unravelling are
+
+the same many poets tie the knot well but unravel it ill both arts
+
+however should always be mastered
+
+
+
+again the poet should remember what has been often said and not make
+
+an epic structure into a tragedyby an epic structure i mean one with
+
+a multiplicity of plotsas if for instance you were to make a tragedy
+
+out of the entire story of the iliad in the epic poem owing to its
+
+length each part assumes its proper magnitude in the drama the result
+
+is far from answering to the poets expectation the proof is that the
+
+poets who have dramatised the whole story of the fall of troy instead
+
+of selecting portions like euripides or who have taken the whole
+
+tale of niobe and not a part of her story like aeschylus either fail
+
+utterly or meet with poor success on the stage even agathon has been
+
+known to fail from this one defect in his reversals of the situation
+
+however he shows a marvellous skill in the effort to hit the popular
+
+tasteto produce a tragic effect that satisfies the moral sense this
+
+effect is produced when the clever rogue like sisyphus is outwitted
+
+or the brave villain defeated such an event is probable in agathons
+
+sense of the word it is probable he says that many things should
+
+happen contrary to probability
+
+
+
+the chorus too should be regarded as one of the actors it should be an
+
+integral part of the whole and share in the action in the manner not
+
+of euripides but of sophocles as for the later poets their choral
+
+songs pertain as little to the subject of the piece as to that of any
+
+other tragedy they are therefore sung as mere interludes a practice
+
+first begun by agathon yet what difference is there between introducing
+
+such choral interludes and transferring a speech or even a whole act
+
+from one play to another
+
+
+
+
+
+
+
+
+
+xix
+
+
+
+it remains to speak of diction and thought the other parts of tragedy
+
+having been already discussed concerning thought we may assume what
+
+is said in the rhetoric to which inquiry the subject more strictly
+
+belongs under thought is included every effect which has to be produced
+
+by speech the subdivisions beingproof and refutation the excitation
+
+of the feelings such as pity fear anger and the like the suggestion
+
+of importance or its opposite now it is evident that the dramatic
+
+incidents must be treated from the same points of view as the dramatic
+
+speeches when the object is to evoke the sense of pity fear
+
+importance or probability the only difference is that the incidents
+
+should speak for themselves without verbal exposition while the effects
+
+aimed at in speech should be produced by the speaker and as a result of
+
+the speech for what were the business of a speaker if the thought were
+
+revealed quite apart from what he says
+
+
+
+next as regards diction one branch of the inquiry treats of the modes
+
+of utterance but this province of knowledge belongs to the art
+
+of delivery and to the masters of that science it includes for
+
+instancewhat is a command a prayer a statement a threat a
+
+question an answer and so forth to know or not to know these things
+
+involves no serious censure upon the poets art for who can admit
+
+the fault imputed to homer by protagorasthat in the words sing
+
+goddess of the wrath he gives a command under the idea that he utters
+
+a prayer for to tell some one to do a thing or not to do it is he
+
+says a command we may therefore pass this over as an inquiry that
+
+belongs to another art not to poetry
+
+
+
+
+
+
+
+
+
+xx
+
+
+
+language in general includes the following partsletter syllable
+
+connecting word noun verb inflexion or case sentence or phrase
+
+
+
+a letter is an indivisible sound yet not every such sound but only
+
+one which can form part of a group of sounds for even brutes utter
+
+indivisible sounds none of which i call a letter the sound i mean
+
+may be either a vowel a semivowel or a mute a vowel is that which
+
+without impact of tongue or lip has an audible sound a semivowel that
+
+which with such impact has an audible sound as s and r a mute that
+
+which with such impact has by itself no sound but joined to a vowel
+
+sound becomes audible as g and d these are distinguished according
+
+to the form assumed by the mouth and the place where they are produced
+
+according as they are aspirated or smooth long or short as they are
+
+acute grave or of an intermediate tone which inquiry belongs in
+
+detail to the writers on metre
+
+
+
+a syllable is a nonsignificant sound composed of a mute and a
+
+vowel for gr without a is a syllable as also with agra but the
+
+investigation of these differences belongs also to metrical science
+
+
+
+a connecting word is a nonsignificant sound which neither causes nor
+
+hinders the union of many sounds into one significant sound it may
+
+be placed at either end or in the middle of a sentence or a
+
+nonsignificant sound which out of several sounds each of them
+
+significant is capable of forming one significant soundas alpha mu
+
+theta iota pi epsilon rho iota and the like or a nonsignificant
+
+sound which marks the beginning end or division of a sentence such
+
+however that it cannot correctly stand by itself at the beginning of a
+
+sentence as mu epsilon nu eta tau omicron iota delta epsilon
+
+
+
+a noun is a composite significant sound not marking time of which no
+
+part is in itself significant for in double or compound words we do not
+
+employ the separate parts as if each were in itself significant thus
+
+in theodorus godgiven the delta omega rho omicron nu or gift is
+
+not in itself significant
+
+
+
+a verb is a composite significant sound marking time in which as in
+
+the noun no part is in itself significant for man or white does
+
+not express the idea of when but he walks or he has walked does
+
+connote time present or past
+
+
+
+inflexion belongs both to the noun and verb and expresses either the
+
+relation of to or the like or that of number whether one or
+
+many as man or men  or the modes or tones in actual delivery eg
+
+a question or a command did he go and go are verbal inflexions of
+
+this kind
+
+
+
+a sentence or phrase is a composite significant sound some at least of
+
+whose parts are in themselves significant for not every such group
+
+of words consists of verbs and nounsthe definition of man for
+
+examplebut it may dispense even with the verb still it will always
+
+have some significant part as in walking or cleon son of cleon a
+
+sentence or phrase may form a unity in two wayseither as signifying
+
+one thing or as consisting of several parts linked together thus the
+
+iliad is one by the linking together of parts the definition of man by
+
+the unity of the thing signified
+
+
+
+
+
+
+
+
+
+xxi
+
+
+
+words are of two kinds simple and double by simple i mean those
+
+composed of nonsignificant elements such as gamma eta by double
+
+or compound those composed either of a significant and nonsignificant
+
+element though within the whole word no element is significant or
+
+of elements that are both significant a word may likewise be triple
+
+quadruple or multiple in form like so many massilian expressions eg
+
+hermocaicoxanthus who prayed to father zeus
+
+
+
+every word is either current or strange or metaphorical or
+
+ornamental or newlycoined or lengthened or contracted or altered
+
+
+
+by a current or proper word i mean one which is in general use among
+
+a people by a strange word one which is in use in another country
+
+plainly therefore the same word may be at once strange and current
+
+but not in relation to the same people the word sigma iota gamma
+
+upsilon nu omicron nu lance is to the cyprians a current term but
+
+to us a strange one
+
+
+
+metaphor is the application of an alien name by transference either from
+
+genus to species or from species to genus or from species to species
+
+or by analogy that is proportion thus from genus to species as
+
+there lies my ship for lying at anchor is a species of lying from
+
+species to genus as verily ten thousand noble deeds hath odysseus
+
+wrought for ten thousand is a species of large number and is here
+
+used for a large number generally from species to species as with
+
+blade of bronze drew away the life and cleft the water with the
+
+vessel of unyielding bronze here alpha rho upsilon rho alpha iota
+
+to draw away is used for tau alpha mu epsilon iota nu to cleave
+
+and tau alpha mu epsilon iota nu again for alpha rho upsilon alpha
+
+iotaeach being a species of taking away analogy or proportion is
+
+when the second term is to the first as the fourth to the third we
+
+may then use the fourth for the second or the second for the fourth
+
+sometimes too we qualify the metaphor by adding the term to which the
+
+proper word is relative thus the cup is to dionysus as the shield to
+
+ares the cup may therefore be called the shield of dionysus and
+
+the shield the cup of ares or again as old age is to life so is
+
+evening to day evening may therefore be called the old age of
+
+the day and old age the evening of life or in the phrase
+
+of empedocles lifes setting sun for some of the terms of the
+
+proportion there is at times no word in existence still the metaphor
+
+may be used for instance to scatter seed is called sowing but the
+
+action of the sun in scattering his rays is nameless still this process
+
+bears to the sun the same relation as sowing to the seed hence the
+
+expression of the poet sowing the godcreated light there is another
+
+way in which this kind of metaphor may be employed we may apply an
+
+alien term and then deny of that term one of its proper attributes as
+
+if we were to call the shield not the cup of ares but the wineless
+
+cup
+
+
+
+an ornamental word
+
+
+
+a newlycoined word is one which has never been even in local use but
+
+is adopted by the poet himself some such words there appear to be as
+
+epsilon rho nu upsilon gamma epsilon sigma sprouters for kappa
+
+epsilon rho alpha tau alpha horns and alpha rho eta tau eta rho
+
+supplicator for iota epsilon rho epsilon upsilon sigma priest
+
+
+
+a word is lengthened when its own vowel is exchanged for a longer one
+
+or when a syllable is inserted a word is contracted when some part of
+
+it is removed instances of lengthening arepi omicron lambda eta
+
+omicron sigma for pi omicron lambda epsilon omega sigma and pi eta
+
+lambda eta iota alpha delta epsilon omega for pi eta lambda epsilon
+
+iota delta omicron upsilon of contractionkappa rho iota delta
+
+omega and omicron psi as in mu iota alpha  gamma iota nu epsilon
+
+tau alpha iota  alpha mu phi omicron tau episilon rho omega nu 
+
+omicron psi
+
+
+
+an altered word is one in which part of the ordinary form is left
+
+unchanged and part is recast as in delta epsilon xi iotatau epsilon
+
+rho omicron nu  kappa alpha tau alpha  mu alpha zeta omicron nu
+
+delta epsilon xi iota tau epsilon rho omicron nu is for delta epsilon
+
+xi iota omicron nu
+
+
+
+nouns in themselves are either masculine feminine or neuter
+
+masculine are such as end in nu rho sigma or in some letter
+
+compounded with sigmathese being two and xi feminine such as
+
+end in vowels that are always long namely eta and omega andof
+
+vowels that admit of lengtheningthose in alpha thus the number of
+
+letters in which nouns masculine and feminine end is the same for psi
+
+and xi are equivalent to endings in sigma no noun ends in a mute
+
+or a vowel short by nature three only end in iotamu eta lambda
+
+iota kappa omicron mu mu iota pi epsilon pi epsilon rho iota
+
+five end in upsilon neuter nouns end in these two latter vowels also
+
+in nu and sigma
+
+
+
+
+
+
+
+
+
+xxii
+
+
+
+the perfection of style is to be clear without being mean the clearest
+
+style is that which uses only current or proper words at the same
+
+time it is meanwitness the poetry of cleophon and of sthenelus that
+
+diction on the other hand is lofty and raised above the commonplace
+
+which employs unusual words by unusual i mean strange or rare words
+
+metaphorical lengthenedanything in short that differs from the
+
+normal idiom yet a style wholly composed of such words is either a
+
+riddle or a jargon a riddle if it consists of metaphors a jargon if
+
+it consists of strange or rare words for the essence of a riddle is
+
+to express true facts under impossible combinations now this cannot be
+
+done by any arrangement of ordinary words but by the use of metaphor it
+
+can such is the riddlea man i saw who on another man had glued the
+
+bronze by aid of fire and others of the same kind a diction that
+
+is made up of strange or rare terms is a jargon a certain infusion
+
+therefore of these elements is necessary to style for the strange or
+
+rare word the metaphorical the ornamental and the other kinds above
+
+mentioned will raise it above the commonplace and mean while the use
+
+of proper words will make it perspicuous but nothing contributes more
+
+to produce a clearness of diction that is remote from commonness than
+
+the lengthening contraction and alteration of words for by deviating
+
+in exceptional cases from the normal idiom the language will gain
+
+distinction while at the same time the partial conformity with usage
+
+will give perspicuity the critics therefore are in error who censure
+
+these licenses of speech and hold the author up to ridicule thus
+
+eucleides the elder declared that it would be an easy matter to be
+
+a poet if you might lengthen syllables at will he caricatured the
+
+practice in the very form of his diction as in the verse epsilon pi
+
+iota chi alpha rho eta nu  epsilon iota delta omicron nu  mu alpha rho
+
+alpha theta omega nu alpha delta epsilon  beta alpha delta iota zeta
+
+omicron nu tau alpha or omicron upsilon kappa  alpha nu  gamma 
+
+epsilon rho alpha mu epsilon nu omicron sigma  tau omicron nu  epsilon
+
+kappa epsilon iota nu omicron upsilon epsilon lambda lambda epsilon
+
+beta omicron rho omicron nu to employ such license at all obtrusively
+
+is no doubt grotesque but in any mode of poetic diction there must
+
+be moderation even metaphors strange or rare words or any similar
+
+forms of speech would produce the like effect if used without propriety
+
+and with the express purpose of being ludicrous how great a difference
+
+is made by the appropriate use of lengthening may be seen in epic
+
+poetry by the insertion of ordinary forms in the verse so again if
+
+we take a strange or rare word a metaphor or any similar mode of
+
+expression and replace it by the current or proper term the truth of
+
+our observation will be manifest for example aeschylus and euripides
+
+each composed the same iambic line but the alteration of a single word
+
+by euripides who employed the rarer term instead of the ordinary one
+
+makes one verse appear beautiful and the other trivial aeschylus in his
+
+philoctetes says phi alpha gamma epsilon delta alpha iota nu alpha 
+
+delta  eta  mu omicron upsilon  sigma alpha rho kappa alpha sigma 
+
+epsilon rho theta iota epsilon iota  pi omicron delta omicron sigma
+
+
+
+euripides substitutes theta omicron iota nu alpha tau alpha iota
+
+feasts on for epsilon sigma theta iota epsilon iota feeds on
+
+again in the line nu upsilon nu  delta epsilon  mu epsilon omega
+
+nu  omicron lambda iota gamma iota gamma upsilon sigma  tau epsilon 
+
+kappa alpha iota  omicron upsilon tau iota delta alpha nu omicron sigma
+
+ kappa alpha iota  alpha epsilon iota kappa eta sigma the difference
+
+will be felt if we substitute the common words nu upsilon nu  delta
+
+epsilon  mu  epsilon omega nu  mu iota kappa rho omicron sigma 
+
+tau epsilon  kappa alpha iota  alpha rho theta epsilon nu iota kappa
+
+omicron sigma  kappa alpha iota  alpha epsilon iota delta gamma
+
+sigma or if for the line delta iota phi rho omicron nu  alpha
+
+epsilon iota kappa epsilon lambda iota omicron nu  kappa alpha tau
+
+alpha theta epsilon iota sigma  omicron lambda iota gamma eta nu 
+
+tau epsilon  tau rho alpha pi epsilon iota sigma  omicron lambda iota
+
+gamma eta nu  tau epsilon  tau rho alpha pi epsilon zeta alpha nu
+
+we read delta iota phi rho omicron nu  mu omicron chi theta eta rho
+
+omicron nu  kappa alpha tau alpha theta epsilon iota sigma  mu iota
+
+kappa rho alpha nu  tau epsilon  tau rho alpha pi epsilon zeta alpha
+
+nu
+
+
+
+or for eta iota omicron nu epsilon sigma  beta omicron omicron omega
+
+rho iota nu eta iota omicron nu epsilon sigma kappa rho alpha zeta
+
+omicron upsilon rho iota nu
+
+
+
+again ariphrades ridiculed the tragedians for using phrases which no
+
+one would employ in ordinary speech for example delta omega mu alpha
+
+tau omega nu  alpha pi omicron instead of alpha pi omicron  delta
+
+omega mu alpha tau omega nu rho epsilon theta epsilon nu epsilon
+
+gamma omega  delta epsilon  nu iota nu alpha chi iota lambda lambda
+
+epsilon omega sigma  pi epsilon rho iota instead of pi epsilon rho
+
+iota  alpha chi iota lambda lambda epsilon omega sigma and the like
+
+it is precisely because such phrases are not part of the current idiom
+
+that they give distinction to the style this however he failed to
+
+see
+
+
+
+it is a great matter to observe propriety in these several modes of
+
+expression as also in compound words strange or rare words and so
+
+forth but the greatest thing by far is to have a command of metaphor
+
+this alone cannot be imparted by another it is the mark of genius for
+
+to make good metaphors implies an eye for resemblances
+
+
+
+of the various kinds of words the compound are best adapted to
+
+dithyrambs rare words to heroic poetry metaphors to iambic in heroic
+
+poetry indeed all these varieties are serviceable but in iambic
+
+verse which reproduces as far as may be familiar speech the most
+
+appropriate words are those which are found even in prose these
+
+arethe current or proper the metaphorical the ornamental
+
+
+
+concerning tragedy and imitation by means of action this may suffice
+
+
+
+
+
+
+
+
+
+xxiii
+
+
+
+as to that poetic imitation which is narrative in form and employs
+
+a single metre the plot manifestly ought as in a tragedy to be
+
+constructed on dramatic principles it should have for its subject a
+
+single action whole and complete with a beginning a middle and
+
+an end it will thus resemble a living organism in all its unity and
+
+produce the pleasure proper to it it will differ in structure from
+
+historical compositions which of necessity present not a single action
+
+but a single period and all that happened within that period to one
+
+person or to many little connected together as the events may be for
+
+as the seafight at salamis and the battle with the carthaginians in
+
+sicily took place at the same time but did not tend to any one result
+
+so in the sequence of events one thing sometimes follows another and
+
+yet no single result is thereby produced such is the practice we may
+
+say of most poets here again then as has been already observed the
+
+transcendent excellence of homer is manifest he never attempts to make
+
+the whole war of troy the subject of his poem though that war had
+
+a beginning and an end it would have been too vast a theme and not
+
+easily embraced in a single view if again he had kept it within
+
+moderate limits it must have been overcomplicated by the variety of
+
+the incidents as it is he detaches a single portion and admits as
+
+episodes many events from the general story of the warsuch as the
+
+catalogue of the ships and othersthus diversifying the poem all other
+
+poets take a single hero a single period or an action single indeed
+
+but with a multiplicity of parts thus did the author of the cypria
+
+and of the little iliad for this reason the iliad and the odyssey
+
+each furnish the subject of one tragedy or at most of two while the
+
+cypria supplies materials for many and the little iliad for eightthe
+
+award of the arms the philoctetes the neoptolemus the eurypylus the
+
+mendicant odysseus the laconian women the fall of ilium the departure
+
+of the fleet
+
+
+
+
+
+
+
+
+
+xxiv
+
+
+
+again epic poetry must have as many kinds as tragedy it must be
+
+simple or complex or ethical or pathetic the parts also with
+
+the exception of song and spectacle are the same for it requires
+
+reversals of the situation recognitions and scenes of suffering
+
+moreover the thoughts and the diction must be artistic in all these
+
+respects homer is our earliest and sufficient model indeed each of
+
+his poems has a twofold character the iliad is at once simple and
+
+pathetic and the odyssey complex for recognition scenes run through
+
+it and at the same time ethical moreover in diction and thought
+
+they are supreme
+
+
+
+epic poetry differs from tragedy in the scale on which it is
+
+constructed and in its metre as regards scale or length we have
+
+already laid down an adequate limitthe beginning and the end must be
+
+capable of being brought within a single view this condition will be
+
+satisfied by poems on a smaller scale than the old epics and answering
+
+in length to the group of tragedies presented at a single sitting
+
+
+
+epic poetry has however a greata specialcapacity for enlarging
+
+its dimensions and we can see the reason in tragedy we cannot imitate
+
+several lines of actions carried on at one and the same time we must
+
+confine ourselves to the action on the stage and the part taken by the
+
+players but in epic poetry owing to the narrative form many events
+
+simultaneously transacted can be presented and these if relevant to
+
+the subject add mass and dignity to the poem the epic has here an
+
+advantage and one that conduces to grandeur of effect to diverting the
+
+mind of the hearer and relieving the story with varying episodes for
+
+sameness of incident soon produces satiety and makes tragedies fail on
+
+the stage
+
+
+
+as for the metre the heroic measure has proved its fitness by the test
+
+of experience if a narrative poem in any other metre or in many metres
+
+were now composed it would be found incongruous for of all measures
+
+the heroic is the stateliest and the most massive and hence it most
+
+readily admits rare words and metaphors which is another point in which
+
+the narrative form of imitation stands alone on the other hand the
+
+iambic and the trochaic tetrameter are stirring measures the latter
+
+being akin to dancing the former expressive of action still more
+
+absurd would it be to mix together different metres as was done by
+
+chaeremon hence no one has ever composed a poem on a great scale in any
+
+other than heroic verse nature herself as we have said teaches the
+
+choice of the proper measure
+
+
+
+homer admirable in all respects has the special merit of being the
+
+only poet who rightly appreciates the part he should take himself the
+
+poet should speak as little as possible in his own person for it is not
+
+this that makes him an imitator other poets appear themselves upon the
+
+scene throughout and imitate but little and rarely homer after a few
+
+prefatory words at once brings in a man or woman or other personage
+
+none of them wanting in characteristic qualities but each with a
+
+character of his own
+
+
+
+the element of the wonderful is required in tragedy the irrational on
+
+which the wonderful depends for its chief effects has wider scope in
+
+epic poetry because there the person acting is not seen thus the
+
+pursuit of hector would be ludicrous if placed upon the stagethe
+
+greeks standing still and not joining in the pursuit and achilles
+
+waving them back but in the epic poem the absurdity passes unnoticed
+
+now the wonderful is pleasing as may be inferred from the fact that
+
+every one tells a story with some addition of his own knowing that his
+
+hearers like it it is homer who has chiefly taught other poets the
+
+art of telling lies skilfully the secret of it lies in a fallacy for
+
+assuming that if one thing is or becomes a second is or becomes men
+
+imagine that if the second is the first likewise is or becomes but
+
+this is a false inference hence where the first thing is untrue it is
+
+quite unnecessary provided the second be true to add that the first
+
+is or has become for the mind knowing the second to be true falsely
+
+infers the truth of the first there is an example of this in the bath
+
+scene of the odyssey
+
+
+
+accordingly the poet should prefer probable impossibilities to
+
+improbable possibilities the tragic plot must not be composed of
+
+irrational parts everything irrational should if possible be
+
+excluded or at all events it should lie outside the action of the
+
+play as in the oedipus the heros ignorance as to the manner of
+
+laius death not within the dramaas in the electra the messengers
+
+account of the pythian games or as in the mysians the man who
+
+has come from tegea to mysia and is still speechless the plea that
+
+otherwise the plot would have been ruined is ridiculous such a plot
+
+should not in the first instance be constructed but once the irrational
+
+has been introduced and an air of likelihood imparted to it we must
+
+accept it in spite of the absurdity take even the irrational incidents
+
+in the odyssey where odysseus is left upon the shore of ithaca how
+
+intolerable even these might have been would be apparent if an inferior
+
+poet were to treat the subject as it is the absurdity is veiled by the
+
+poetic charm with which the poet invests it
+
+
+
+the diction should be elaborated in the pauses of the action where
+
+there is no expression of character or thought for conversely
+
+character and thought are merely obscured by a diction that is over
+
+brilliant
+
+
+
+
+
+
+
+
+
+xxv
+
+
+
+with respect to critical difficulties and their solutions the number
+
+and nature of the sources from which they may be drawn may be thus
+
+exhibited
+
+
+
+the poet being an imitator like a painter or any other artist must
+
+of necessity imitate one of three objectsthings as they were or are
+
+things as they are said or thought to be or things as they ought to be
+
+the vehicle of expression is languageeither current terms or it
+
+may be rare words or metaphors there are also many modifications of
+
+language which we concede to the poets add to this that the standard
+
+of correctness is not the same in poetry and politics any more than in
+
+poetry and any other art within the art of poetry itself there are
+
+two kinds of faults those which touch its essence and those which are
+
+accidental if a poet has chosen to imitate something but has imitated
+
+it incorrectly through want of capacity the error is inherent in
+
+the poetry but if the failure is due to a wrong choice if he has
+
+represented a horse as throwing out both his off legs at once or
+
+introduced technical inaccuracies in medicine for example or in any
+
+other art the error is not essential to the poetry these are the points
+
+of view from which we should consider and answer the objections raised
+
+by the critics
+
+
+
+first as to matters which concern the poets own art if he describes
+
+the impossible he is guilty of an error but the error may be
+
+justified if the end of the art be thereby attained the end being that
+
+already mentioned if that is the effect of this or any other part of
+
+the poem is thus rendered more striking a case in point is the pursuit
+
+of hector if however the end might have been as well or better
+
+attained without violating the special rules of the poetic art the
+
+error is not justified for every kind of error should if possible be
+
+avoided
+
+
+
+again does the error touch the essentials of the poetic art or some
+
+accident of it for examplenot to know that a hind has no horns is a
+
+less serious matter than to paint it inartistically
+
+
+
+further if it be objected that the description is not true to fact the
+
+poet may perhaps replybut the objects are as they ought to be just
+
+as sophocles said that he drew men as they ought to be euripides
+
+as they are in this way the objection may be met if however the
+
+representation be of neither kind the poet may answerthis is how men
+
+say the thing is this applies to tales about the gods it may well be
+
+that these stories are not higher than fact nor yet true to fact they
+
+are very possibly what xenophanes says of them but anyhow this
+
+is what is said again a description may be no better than the fact
+
+still it was the fact as in the passage about the arms upright
+
+upon their buttends stood the spears this was the custom then as it
+
+now is among the illyrians
+
+
+
+again in examining whether what has been said or done by some one is
+
+poetically right or not we must not look merely to the particular act
+
+or saying and ask whether it is poetically good or bad we must also
+
+consider by whom it is said or done to whom when by what means or
+
+for what end whether for instance it be to secure a greater good or
+
+avert a greater evil
+
+
+
+other difficulties may be resolved by due regard to the usage of
+
+language we may note a rare word as in omicron upsilon rho eta alpha
+
+sigma  mu epsilon nu  pi rho omega tau omicron nu where the poet
+
+perhaps employs omicron upsilon rho eta alpha sigma not in the sense
+
+of mules but of sentinels so again of dolon illfavoured indeed
+
+he was to look upon it is not meant that his body was illshaped but
+
+that his face was ugly for the cretans use the word epsilon upsilon
+
+epsilon iota delta epsilon sigma wellfavoured to denote a fair
+
+face again zeta omega rho omicron tau epsilon rho omicron nu 
+
+delta epsilon  kappa epsilon rho alpha iota epsilon mix the drink
+
+livelier does not mean mix it stronger as for hard drinkers but
+
+mix it quicker
+
+
+
+sometimes an expression is metaphorical as now all gods and men were
+
+sleeping through the nightwhile at the same time the poet says
+
+often indeed as he turned his gaze to the trojan plain he marvelled
+
+at the sound of flutes and pipes all is here used metaphorically for
+
+many all being a species of many so in the versealone she hath
+
+no part omicron iota eta alone is metaphorical for the best
+
+known may be called the only one
+
+
+
+again the solution may depend upon accent or breathing thus hippias of
+
+thasos solved the difficulties in the linesdelta iota delta omicron
+
+mu epsilon nu delta iota delta omicron mu epsilon nu delta epsilon
+
+ omicron iota and  tau omicron  mu epsilon nu  omicron upsilon
+
+omicron upsilon kappa alpha tau alpha pi upsilon theta epsilon tau
+
+alpha iota  omicron mu beta rho omega
+
+
+
+or again the question may be solved by punctuation as in
+
+empedoclesof a sudden things became mortal that before had learnt to
+
+be immortal and things unmixed before mixed
+
+
+
+or again by ambiguity of meaningas pi alpha rho omega chi eta kappa
+
+epsilon nu  delta epsilon  pi lambda epsilon omega  nu upsilon xi
+
+where the word pi lambda epsilon omega is ambiguous
+
+
+
+or by the usage of language thus any mixed drink is called omicron
+
+iota nu omicron sigma wine hence ganymede is said to pour the wine
+
+to zeus though the gods do not drink wine so too workers in iron
+
+are called chi alpha lambda kappa epsilon alpha sigma or workers in
+
+bronze this however may also be taken as a metaphor
+
+
+
+again when a word seems to involve some inconsistency of meaning we
+
+should consider how many senses it may bear in the particular passage
+
+for example there was stayed the spear of bronzewe should ask
+
+in how many ways we may take being checked there the true mode
+
+of interpretation is the precise opposite of what glaucon mentions
+
+critics he says jump at certain groundless conclusions they pass
+
+adverse judgment and then proceed to reason on it and assuming that
+
+the poet has said whatever they happen to think find fault if a thing
+
+is inconsistent with their own fancy the question about icarius
+
+has been treated in this fashion the critics imagine he was a
+
+lacedaemonian they think it strange therefore that telemachus should
+
+not have met him when he went to lacedaemon but the cephallenian story
+
+may perhaps be the true one they allege that odysseus took a wife from
+
+among themselves and that her father was icadius not icarius it is
+
+merely a mistake then that gives plausibility to the objection
+
+
+
+in general the impossible must be justified by reference to artistic
+
+requirements or to the higher reality or to received opinion with
+
+respect to the requirements of art a probable impossibility is to
+
+be preferred to a thing improbable and yet possible again it may be
+
+impossible that there should be men such as zeuxis painted yes we
+
+say but the impossible is the higher thing for the ideal type must
+
+surpass the reality to justify the irrational we appeal to what is
+
+commonly said to be in addition to which we urge that the irrational
+
+sometimes does not violate reason just as it is probable that a thing
+
+may happen contrary to probability
+
+
+
+things that sound contradictory should be examined by the same rules as
+
+in dialectical refutation whether the same thing is meant in the same
+
+relation and in the same sense we should therefore solve the question
+
+by reference to what the poet says himself or to what is tacitly
+
+assumed by a person of intelligence
+
+
+
+the element of the irrational and similarly depravity of character
+
+are justly censured when there is no inner necessity for introducing
+
+them such is the irrational element in the introduction of aegeus by
+
+euripides and the badness of menelaus in the orestes
+
+
+
+thus there are five sources from which critical objections are drawn
+
+things are censured either as impossible or irrational or morally
+
+hurtful or contradictory or contrary to artistic correctness the
+
+answers should be sought under the twelve heads above mentioned
+
+
+
+
+
+
+
+
+
+xxvi
+
+
+
+the question may be raised whether the epic or tragic mode of imitation
+
+is the higher if the more refined art is the higher and the more
+
+refined in every case is that which appeals to the better sort of
+
+audience the art which imitates anything and everything is manifestly
+
+most unrefined the audience is supposed to be too dull to comprehend
+
+unless something of their own is thrown in by the performers who
+
+therefore indulge in restless movements bad fluteplayers twist and
+
+twirl if they have to represent the quoitthrow or hustle the
+
+coryphaeus when they perform the scylla tragedy it is said has
+
+this same defect we may compare the opinion that the older actors
+
+entertained of their successors mynniscus used to call callippides
+
+ape on account of the extravagance of his action and the same view
+
+was held of pindarus tragic art then as a whole stands to epic in
+
+the same relation as the younger to the elder actors so we are told
+
+that epic poetry is addressed to a cultivated audience who do not need
+
+gesture tragedy to an inferior public being then unrefined it is
+
+evidently the lower of the two
+
+
+
+now in the first place this censure attaches not to the poetic but to
+
+the histrionic art for gesticulation may be equally overdone in
+
+epic recitation as by sosistratus or in lyrical competition as by
+
+mnasitheus the opuntian next all action is not to be condemned any
+
+more than all dancingbut only that of bad performers such was the
+
+fault found in callippides as also in others of our own day who are
+
+censured for representing degraded women again tragedy like epic
+
+poetry produces its effect even without action it reveals its power
+
+by mere reading if then in all other respects it is superior this
+
+fault we say is not inherent in it
+
+
+
+and superior it is because it has all the epic elementsit may even
+
+use the epic metrewith the music and spectacular effects as important
+
+accessories and these produce the most vivid of pleasures further
+
+it has vividness of impression in reading as well as in representation
+
+moreover the art attains its end within narrower limits for the
+
+concentrated effect is more pleasurable than one which is spread over a
+
+long time and so diluted what for example would be the effect of the
+
+oedipus of sophocles if it were cast into a form as long as the iliad
+
+once more the epic imitation has less unity as is shown by this that
+
+any epic poem will furnish subjects for several tragedies thus if
+
+the story adopted by the poet has a strict unity it must either be
+
+concisely told and appear truncated or if it conform to the epic canon
+
+of length it must seem weak and watery such length implies some loss
+
+of unity if i mean the poem is constructed out of several actions
+
+like the iliad and the odyssey which have many such parts each with a
+
+certain magnitude of its own yet these poems are as perfect as possible
+
+in structure each is in the highest degree attainable an imitation of
+
+a single action
+
+
+
+if then tragedy is superior to epic poetry in all these respects and
+
+moreover fulfils its specific function better as an art for each art
+
+ought to produce not any chance pleasure but the pleasure proper to
+
+it as already stated it plainly follows that tragedy is the higher art
+
+as attaining its end more perfectly
+
+
+
+thus much may suffice concerning tragic and epic poetry in general
+
+their several kinds and parts with the number of each and their
+
+differences the causes that make a poem good or bad the objections of
+
+the critics and the answers to these objections
+
+
+
+
+
+
+
+
+
+
+
+end of the project gutenberg ebook of poetics by aristotle
+
+
+
+ end of this project gutenberg ebook poetics 
+
+
+
+ this file should be named 1974txt or 1974zip 
+
+this and all associated files of various formats will be found in
+
+        httpwwwgutenbergorg1971974
+
+
+
+produced by an anonymous volunteer
+
+
+
+updated editions will replace the previous onethe old editions
+
+will be renamed
+
+
+
+creating the works from public domain print editions means that no
+
+one owns a united states copyright in these works so the foundation
+
+and you can copy and distribute it in the united states without
+
+permission and without paying copyright royalties  special rules
+
+set forth in the general terms of use part of this license apply to
+
+copying and distributing project gutenbergtm electronic works to
+
+protect the project gutenbergtm concept and trademark  project
+
+gutenberg is a registered trademark and may not be used if you
+
+charge for the ebooks unless you receive specific permission  if you
+
+do not charge anything for copies of this ebook complying with the
+
+rules is very easy  you may use this ebook for nearly any purpose
+
+such as creation of derivative works reports performances and
+
+research  they may be modified and printed and given awayyou may do
+
+practically anything with public domain ebooks  redistribution is
+
+subject to the trademark license especially commercial
+
+redistribution
+
+
+
+
+
+
+
+ start full license 
+
+
+
+the full project gutenberg license
+
+please read this before you distribute or use this work
+
+
+
+to protect the project gutenbergtm mission of promoting the free
+
+distribution of electronic works by using or distributing this work
+
+or any other work associated in any way with the phrase project
+
+gutenberg you agree to comply with all the terms of the full project
+
+gutenbergtm license available with this file or online at
+
+httpgutenbergorglicense
+
+
+
+
+
+section 1  general terms of use and redistributing project gutenbergtm
+
+electronic works
+
+
+
+1a  by reading or using any part of this project gutenbergtm
+
+electronic work you indicate that you have read understand agree to
+
+and accept all the terms of this license and intellectual property
+
+trademarkcopyright agreement  if you do not agree to abide by all
+
+the terms of this agreement you must cease using and return or destroy
+
+all copies of project gutenbergtm electronic works in your possession
+
+if you paid a fee for obtaining a copy of or access to a project
+
+gutenbergtm electronic work and you do not agree to be bound by the
+
+terms of this agreement you may obtain a refund from the person or
+
+entity to whom you paid the fee as set forth in paragraph 1e8
+
+
+
+1b  project gutenberg is a registered trademark  it may only be
+
+used on or associated in any way with an electronic work by people who
+
+agree to be bound by the terms of this agreement  there are a few
+
+things that you can do with most project gutenbergtm electronic works
+
+even without complying with the full terms of this agreement  see
+
+paragraph 1c below  there are a lot of things you can do with project
+
+gutenbergtm electronic works if you follow the terms of this agreement
+
+and help preserve free future access to project gutenbergtm electronic
+
+works  see paragraph 1e below
+
+
+
+1c  the project gutenberg literary archive foundation the foundation
+
+or pglaf owns a compilation copyright in the collection of project
+
+gutenbergtm electronic works  nearly all the individual works in the
+
+collection are in the public domain in the united states  if an
+
+individual work is in the public domain in the united states and you are
+
+located in the united states we do not claim a right to prevent you from
+
+copying distributing performing displaying or creating derivative
+
+works based on the work as long as all references to project gutenberg
+
+are removed  of course we hope that you will support the project
+
+gutenbergtm mission of promoting free access to electronic works by
+
+freely sharing project gutenbergtm works in compliance with the terms of
+
+this agreement for keeping the project gutenbergtm name associated with
+
+the work  you can easily comply with the terms of this agreement by
+
+keeping this work in the same format with its attached full project
+
+gutenbergtm license when you share it without charge with others
+
+
+
+1d  the copyright laws of the place where you are located also govern
+
+what you can do with this work  copyright laws in most countries are in
+
+a constant state of change  if you are outside the united states check
+
+the laws of your country in addition to the terms of this agreement
+
+before downloading copying displaying performing distributing or
+
+creating derivative works based on this work or any other project
+
+gutenbergtm work  the foundation makes no representations concerning
+
+the copyright status of any work in any country outside the united
+
+states
+
+
+
+1e  unless you have removed all references to project gutenberg
+
+
+
+1e1  the following sentence with active links to or other immediate
+
+access to the full project gutenbergtm license must appear prominently
+
+whenever any copy of a project gutenbergtm work any work on which the
+
+phrase project gutenberg appears or with which the phrase project
+
+gutenberg is associated is accessed displayed performed viewed
+
+copied or distributed
+
+
+
+this ebook is for the use of anyone anywhere at no cost and with
+
+almost no restrictions whatsoever  you may copy it give it away or
+
+reuse it under the terms of the project gutenberg license included
+
+with this ebook or online at wwwgutenbergorg
+
+
+
+1e2  if an individual project gutenbergtm electronic work is derived
+
+from the public domain does not contain a notice indicating that it is
+
+posted with permission of the copyright holder the work can be copied
+
+and distributed to anyone in the united states without paying any fees
+
+or charges  if you are redistributing or providing access to a work
+
+with the phrase project gutenberg associated with or appearing on the
+
+work you must comply either with the requirements of paragraphs 1e1
+
+through 1e7 or obtain permission for the use of the work and the
+
+project gutenbergtm trademark as set forth in paragraphs 1e8 or
+
+1e9
+
+
+
+1e3  if an individual project gutenbergtm electronic work is posted
+
+with the permission of the copyright holder your use and distribution
+
+must comply with both paragraphs 1e1 through 1e7 and any additional
+
+terms imposed by the copyright holder  additional terms will be linked
+
+to the project gutenbergtm license for all works posted with the
+
+permission of the copyright holder found at the beginning of this work
+
+
+
+1e4  do not unlink or detach or remove the full project gutenbergtm
+
+license terms from this work or any files containing a part of this
+
+work or any other work associated with project gutenbergtm
+
+
+
+1e5  do not copy display perform distribute or redistribute this
+
+electronic work or any part of this electronic work without
+
+prominently displaying the sentence set forth in paragraph 1e1 with
+
+active links or immediate access to the full terms of the project
+
+gutenbergtm license
+
+
+
+1e6  you may convert to and distribute this work in any binary
+
+compressed marked up nonproprietary or proprietary form including any
+
+word processing or hypertext form  however if you provide access to or
+
+distribute copies of a project gutenbergtm work in a format other than
+
+plain vanilla ascii or other format used in the official version
+
+posted on the official project gutenbergtm web site wwwgutenbergorg
+
+you must at no additional cost fee or expense to the user provide a
+
+copy a means of exporting a copy or a means of obtaining a copy upon
+
+request of the work in its original plain vanilla ascii or other
+
+form  any alternate format must include the full project gutenbergtm
+
+license as specified in paragraph 1e1
+
+
+
+1e7  do not charge a fee for access to viewing displaying
+
+performing copying or distributing any project gutenbergtm works
+
+unless you comply with paragraph 1e8 or 1e9
+
+
+
+1e8  you may charge a reasonable fee for copies of or providing
+
+access to or distributing project gutenbergtm electronic works provided
+
+that
+
+
+
+ you pay a royalty fee of 20 of the gross profits you derive from
+
+     the use of project gutenbergtm works calculated using the method
+
+     you already use to calculate your applicable taxes  the fee is
+
+     owed to the owner of the project gutenbergtm trademark but he
+
+     has agreed to donate royalties under this paragraph to the
+
+     project gutenberg literary archive foundation  royalty payments
+
+     must be paid within 60 days following each date on which you
+
+     prepare or are legally required to prepare your periodic tax
+
+     returns  royalty payments should be clearly marked as such and
+
+     sent to the project gutenberg literary archive foundation at the
+
+     address specified in section 4 information about donations to
+
+     the project gutenberg literary archive foundation
+
+
+
+ you provide a full refund of any money paid by a user who notifies
+
+     you in writing or by email within 30 days of receipt that she
+
+     does not agree to the terms of the full project gutenbergtm
+
+     license  you must require such a user to return or
+
+     destroy all copies of the works possessed in a physical medium
+
+     and discontinue all use of and all access to other copies of
+
+     project gutenbergtm works
+
+
+
+ you provide in accordance with paragraph 1f3 a full refund of any
+
+     money paid for a work or a replacement copy if a defect in the
+
+     electronic work is discovered and reported to you within 90 days
+
+     of receipt of the work
+
+
+
+ you comply with all other terms of this agreement for free
+
+     distribution of project gutenbergtm works
+
+
+
+1e9  if you wish to charge a fee or distribute a project gutenbergtm
+
+electronic work or group of works on different terms than are set
+
+forth in this agreement you must obtain permission in writing from
+
+both the project gutenberg literary archive foundation and michael
+
+hart the owner of the project gutenbergtm trademark  contact the
+
+foundation as set forth in section 3 below
+
+
+
+1f
+
+
+
+1f1  project gutenberg volunteers and employees expend considerable
+
+effort to identify do copyright research on transcribe and proofread
+
+public domain works in creating the project gutenbergtm
+
+collection  despite these efforts project gutenbergtm electronic
+
+works and the medium on which they may be stored may contain
+
+defects such as but not limited to incomplete inaccurate or
+
+corrupt data transcription errors a copyright or other intellectual
+
+property infringement a defective or damaged disk or other medium a
+
+computer virus or computer codes that damage or cannot be read by
+
+your equipment
+
+
+
+1f2  limited warranty disclaimer of damages  except for the right
+
+of replacement or refund described in paragraph 1f3 the project
+
+gutenberg literary archive foundation the owner of the project
+
+gutenbergtm trademark and any other party distributing a project
+
+gutenbergtm electronic work under this agreement disclaim all
+
+liability to you for damages costs and expenses including legal
+
+fees  you agree that you have no remedies for negligence strict
+
+liability breach of warranty or breach of contract except those
+
+provided in paragraph f3  you agree that the foundation the
+
+trademark owner and any distributor under this agreement will not be
+
+liable to you for actual direct indirect consequential punitive or
+
+incidental damages even if you give notice of the possibility of such
+
+damage
+
+
+
+1f3  limited right of replacement or refund  if you discover a
+
+defect in this electronic work within 90 days of receiving it you can
+
+receive a refund of the money if any you paid for it by sending a
+
+written explanation to the person you received the work from  if you
+
+received the work on a physical medium you must return the medium with
+
+your written explanation  the person or entity that provided you with
+
+the defective work may elect to provide a replacement copy in lieu of a
+
+refund  if you received the work electronically the person or entity
+
+providing it to you may choose to give you a second opportunity to
+
+receive the work electronically in lieu of a refund  if the second copy
+
+is also defective you may demand a refund in writing without further
+
+opportunities to fix the problem
+
+
+
+1f4  except for the limited right of replacement or refund set forth
+
+in paragraph 1f3 this work is provided to you asis with no other
+
+warranties of any kind express or implied including but not limited to
+
+warranties of merchantibility or fitness for any purpose
+
+
+
+1f5  some states do not allow disclaimers of certain implied
+
+warranties or the exclusion or limitation of certain types of damages
+
+if any disclaimer or limitation set forth in this agreement violates the
+
+law of the state applicable to this agreement the agreement shall be
+
+interpreted to make the maximum disclaimer or limitation permitted by
+
+the applicable state law  the invalidity or unenforceability of any
+
+provision of this agreement shall not void the remaining provisions
+
+
+
+1f6  indemnity  you agree to indemnify and hold the foundation the
+
+trademark owner any agent or employee of the foundation anyone
+
+providing copies of project gutenbergtm electronic works in accordance
+
+with this agreement and any volunteers associated with the production
+
+promotion and distribution of project gutenbergtm electronic works
+
+harmless from all liability costs and expenses including legal fees
+
+that arise directly or indirectly from any of the following which you do
+
+or cause to occur a distribution of this or any project gutenbergtm
+
+work b alteration modification or additions or deletions to any
+
+project gutenbergtm work and c any defect you cause
+
+
+
+
+
+section  2  information about the mission of project gutenbergtm
+
+
+
+project gutenbergtm is synonymous with the free distribution of
+
+electronic works in formats readable by the widest variety of computers
+
+including obsolete old middleaged and new computers  it exists
+
+because of the efforts of hundreds of volunteers and donations from
+
+people in all walks of life
+
+
+
+volunteers and financial support to provide volunteers with the
+
+assistance they need is critical to reaching project gutenbergtms
+
+goals and ensuring that the project gutenbergtm collection will
+
+remain freely available for generations to come  in 2001 the project
+
+gutenberg literary archive foundation was created to provide a secure
+
+and permanent future for project gutenbergtm and future generations
+
+to learn more about the project gutenberg literary archive foundation
+
+and how your efforts and donations can help see sections 3 and 4
+
+and the foundation web page at httpwwwpglaforg
+
+
+
+
+
+section 3  information about the project gutenberg literary archive
+
+foundation
+
+
+
+the project gutenberg literary archive foundation is a non profit
+
+501c3 educational corporation organized under the laws of the
+
+state of mississippi and granted tax exempt status by the internal
+
+revenue service  the foundations ein or federal tax identification
+
+number is 646221541  its 501c3 letter is posted at
+
+httppglaforgfundraising  contributions to the project gutenberg
+
+literary archive foundation are tax deductible to the full extent
+
+permitted by us federal laws and your states laws
+
+
+
+the foundations principal office is located at 4557 melan dr s
+
+fairbanks ak 99712 but its volunteers and employees are scattered
+
+throughout numerous locations  its business office is located at
+
+809 north 1500 west salt lake city ut 84116 801 5961887 email
+
+businesspglaforg  email contact links and up to date contact
+
+information can be found at the foundations web site and official
+
+page at httppglaforg
+
+
+
+for additional contact information
+
+     dr gregory b newby
+
+     chief executive and director
+
+     gbnewbypglaforg
+
+
+
+
+
+section 4  information about donations to the project gutenberg
+
+literary archive foundation
+
+
+
+project gutenbergtm depends upon and cannot survive without wide
+
+spread public support and donations to carry out its mission of
+
+increasing the number of public domain and licensed works that can be
+
+freely distributed in machine readable form accessible by the widest
+
+array of equipment including outdated equipment  many small donations
+
+1 to 5000 are particularly important to maintaining tax exempt
+
+status with the irs
+
+
+
+the foundation is committed to complying with the laws regulating
+
+charities and charitable donations in all 50 states of the united
+
+states  compliance requirements are not uniform and it takes a
+
+considerable effort much paperwork and many fees to meet and keep up
+
+with these requirements  we do not solicit donations in locations
+
+where we have not received written confirmation of compliance  to
+
+send donations or determine the status of compliance for any
+
+particular state visit httppglaforg
+
+
+
+while we cannot and do not solicit contributions from states where we
+
+have not met the solicitation requirements we know of no prohibition
+
+against accepting unsolicited donations from donors in such states who
+
+approach us with offers to donate
+
+
+
+international donations are gratefully accepted but we cannot make
+
+any statements concerning tax treatment of donations received from
+
+outside the united states  us laws alone swamp our small staff
+
+
+
+please check the project gutenberg web pages for current donation
+
+methods and addresses  donations are accepted in a number of other
+
+ways including checks online payments and credit card donations
+
+to donate please visit httppglaforgdonate
+
+
+
+
+
+section 5  general information about project gutenbergtm electronic
+
+works
+
+
+
+professor michael s hart is the originator of the project gutenbergtm
+
+concept of a library of electronic works that could be freely shared
+
+with anyone  for thirty years he produced and distributed project
+
+gutenbergtm ebooks with only a loose network of volunteer support
+
+
+
+
+
+project gutenbergtm ebooks are often created from several printed
+
+editions all of which are confirmed as public domain in the us
+
+unless a copyright notice is included  thus we do not necessarily
+
+keep ebooks in compliance with any particular paper edition
+
+
+
+
+
+most people start at our web site which has the main pg search facility
+
+
+
+     httpwwwgutenbergorg
+
+
+
+this web site includes information about project gutenbergtm
+
+including how to make donations to the project gutenberg literary
+
+archive foundation how to help produce our new ebooks and how to
+
+subscribe to our email newsletter to hear about new ebooks
+

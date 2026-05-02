@@ -1,0 +1,4104 @@
+ start of the project gutenberg ebook 23042 
+
+
+
+
+transcribers note
+
+this text uses utf8 unicode file encoding if the apostrophes and
+quotation marks in this paragraph appear as garbage make sure your
+text readers character set or file encoding is set to unicode
+utf8 you may also need to change the default font as a last
+resort use the ascii7 version of the file instead
+
+the text of the tempest is from volume i of the ninevolume 1863
+cambridge edition of shakespeare the preface etext 23041 and the
+other plays from this volume are each available as separate etexts
+
+general notes are in their original location at the end of the play
+textcritical notes are grouped at the end of each scene all line
+numbers are from the original text line breaks in dialogueincluding
+prose passagesare unchanged brackets are also unchanged to avoid
+ambiguity footnotes and linenotes are given without added brackets
+in the notes numerals printed as subscripts are shown inline as
+f1 f2 q1
+
+texts cited in the notes are listed at the end of the etext
+
+
+
+
+  the works
+
+  of
+
+  william shakespeare
+
+
+  edited by
+
+  william george clark ma
+  fellow and tutor of trinity college and public orator
+  in the university of cambridge
+
+  and john glover ma
+  librarian of trinity college cambridge
+
+
+  volume i
+
+
+  cambridge and london
+  macmillan and co
+  1863
+
+
+
+
+the tempest
+
+
+
+
+dramatis personæ1
+
+
+  alonso king of naples
+  sebastian his brother
+  prospero the right duke of milan
+  antonio his brother the usurping duke of milan
+  ferdinand son to the king of naples
+  gonzalo an honest old counsellor
+  adrian lord
+  francisco „
+  caliban a savage and deformed slave
+  trinculo a jester
+  stephano a drunken butler
+  master of a ship
+  boatswain
+  mariners
+
+  miranda daughter to prospero
+
+  ariel an airy spirit
+  iris presented by2 spirits
+  ceres     „             „
+  juno      „             „
+  nymphs    „             „
+  reapers   „             „
+
+  other spirits attending on prospero3
+
+scenea ship at sea4 an uninhabited island
+
+
+  footnotes
+
+  1 dramatis personæ names of the actors f1 at the end of the play
+  2 presented by edd
+  3 other  prospero theobald
+  4 a ship at sea at sea capell
+
+
+
+
+the tempest
+
+
+
+
+act i
+
+
+scene i on a ship at sea a tempestuous noise of thunder
+and lightning heard
+
+  enter a shipmaster and a boatswain
+
+mast boatswain
+
+boats here master what cheer
+
+mast good speak to the mariners fall tot yarely or
+we run ourselves aground bestir bestir    exit
+
+  enter mariners
+
+boats heigh my hearts cheerly cheerly my hearts              5
+yare yare take in the topsail tend to the masters
+whistle blow till thou burst thy wind if room enough
+
+  enter alonso sebastian antonio ferdinand gonzalo
+  and others
+
+alon good boatswain have care wheres the master
+play the men
+
+boats i pray now keep below                                    10
+
+ant where is the master boatswain
+
+boats do you not hear him you mar our labour
+keep your cabins you do assist the storm
+
+gon nay good be patient
+
+boats when the sea is hence what cares these                   15
+roarers for the name of king to cabin silence trouble
+us not
+
+gon good yet remember whom thou hast aboard
+
+boats none that i more love than myself you are a
+counsellor if you can command these elements to silence           20
+and work the peace of the present we will not hand a rope
+more use your authority if you cannot give thanks you
+have lived so long and make yourself ready in your cabin
+for the mischance of the hour if it so hap cheerly good
+hearts out of our way i say    exit                          25
+
+gon i have great comfort from this fellow methinks
+he hath no drowning mark upon him his complexion is
+perfect gallows stand fast good fate to his hanging
+make the rope of his destiny our cable for our own doth
+little advantage if he be not born to be hanged our case          30
+is miserable    exeunt
+
+  reenter boatswain
+
+boats down with the topmast yare lower lower
+bring her to try with maincourse a cry within a
+plague upon this howling they are louder than the weather
+or our office                                                      35
+
+  reenter sebastian antonio and gonzalo
+
+yet again what do you here shall we give oer and
+drown have you a mind to sink
+
+seb a pox o your throat you bawling blasphemous
+incharitable dog
+
+boats work you then                                            40
+
+ant hang cur hang you whoreson insolent noisemaker
+we are less afraid to be drowned than thou art
+
+gon ill warrant him for drowning though the ship
+were no stronger than a nutshell and as leaky as an unstanched
+wench                                                              45
+
+boats lay her ahold ahold set her two courses off
+to sea again lay her off
+
+  enter mariners wet
+
+mariners all lost to prayers to prayers all lost
+
+boats what must our mouths be cold
+
+gon the king and prince at prayers lets assist them           50
+for our case is as theirs
+
+seb                   im out of patience
+
+ant we are merely cheated of our lives by drunkards
+this widechappd rascalwould thou mightst lie drowning
+the washing of ten tides
+
+gon                  hell be hangd yet
+though every drop of water swear against it                        55
+and gape at widest to glut him
+
+  a confused noise within mercy on us
+  we split we split farewell my wife and children
+  farewell brother we split we split we split
+
+ant lets all sink with the king                                60
+
+seb lets take leave of him exeunt ant and seb
+
+gon now would i give a thousand furlongs of sea for
+an acre of barren ground long heath brown furze any
+thing the wills above be done but i would fain die a
+dry death    exeunt                                            65
+
+
+  notes i 1
+
+  sc i on a ship at sea pope
+  enter  boatswain collier ms adds shaking off wet
+  3 good rowe good ff good collier
+  7 till thou burst thy wind till thou burst wind johnson conj
+    till thou burst thee wind steevens conj
+  8 capell adds stage direction exeunt mariners aloft
+  11 boatswain pope boson ff
+  1118 verse s walker conj
+  15 cares care rowe see note i
+  31  exeunt theobald exit ff
+  33 bring her to try f4 bring her to try f1 f2 f3
+    bring her to try story conj
+  3335 text as in capell a plaguea cry within enter sebastian
+    anthonio and gonzalo upon this howling ff
+  3437 verse s walker conj
+  43 for from theobald
+  46 two courses off to sea two courses off to sea steevens
+    holt conj
+  46 enter reenter dyce
+  47 exeunt theobald
+  50 at are at rowe
+  5054 printed as prose in ff
+  56 to glut t englut johnson conj
+  57 see note ii
+  59 farewell brother brother farewell theobald
+  60 with the rowe with f1 f2 with f3 f4
+  61 exeunt a and s exit ff
+  63 furze rowe firrs f1 f2 f3 firs f4
+  long heath brown furze ling heath broom furze hanmer
+  65 exeunt exit f1 om f2 f3 f4
+
+
+scene ii the island before prosperos cell
+
+  enter prospero and miranda
+
+mir if by your art my dearest father you have
+put the wild waters in this roar allay them
+the sky it seems would pour down stinking pitch
+but that the sea mounting to the welkins cheek
+dashes the fire out o i have sufferd                              5
+with those that i saw suffer a brave vessel
+who had no doubt some noble creature in her
+dashd all to pieces o the cry did knock
+against my very heart poor souls they perishd
+had i been any god of power i would                                10
+have sunk the sea within the earth or ere
+it should the good ship so have swallowd and
+the fraughting souls within her
+
+pros                        be collected
+no more amazement tell your piteous heart
+theres no harm done
+
+mir              o woe the day
+
+pros                           no harm                          15
+i have done nothing but in care of thee
+of thee my dear one thee my daughter who
+art ignorant of what thou art nought knowing
+of whence i am nor that i am more better
+than prospero master of a full poor cell                          20
+and thy no greater father
+
+mir                   more to know
+did never meddle with my thoughts
+
+pros                          tis time
+i should inform thee farther lend thy hand
+and pluck my magic garment from me so
+                                lays down his mantle
+lie there my art wipe thou thine eyes have comfort              25
+the direful spectacle of the wreck which touchd
+the very virtue of compassion in thee
+i have with such provision in mine art
+so safely orderd that there is no soul
+no not so much perdition as an hair                                30
+betid to any creature in the vessel
+which thou heardst cry which thou sawst sink sit down
+for thou must now know farther
+
+mir                        you have often
+begun to tell me what i am but stoppd
+and left me to a bootless inquisition                              35
+concluding stay not yet
+
+pros                the hours now come
+the very minute bids thee ope thine ear
+obey and be attentive canst thou remember
+a time before we came unto this cell
+i do not think thou canst for then thou wast not                   40
+out three years old
+
+mir             certainly sir i can
+
+pros by what by any other house or person
+of any thing the image tell me that
+hath kept with thy remembrance
+
+mir                        tis far off
+and rather like a dream than an assurance                           45
+that my remembrance warrants had i not
+four or five women once that tended me
+
+pros thou hadst and more miranda but how is it
+that this lives in thy mind what seest thou else
+in the dark backward and abysm of time                             50
+if thou rememberst ought ere thou camest here
+how thou camest here thou mayst
+
+mir                         but that i do not
+
+pros twelve year since miranda twelve year since
+thy father was the duke of milan and
+a prince of power
+
+mir           sir are not you my father                        55
+
+pros thy mother was a piece of virtue and
+she said thou wast my daughter and thy father
+was duke of milan and his only heir
+and princess no worse issued
+
+mir                       o the heavens
+what foul play had we that we came from thence                    60
+or blessed wast we did
+
+pros                both both my girl
+by foul play as thou sayst were we heaved thence
+but blessedly holp hither
+
+mir                   o my heart bleeds
+to think o the teen that i have turnd you to
+which is from my remembrance please you farther                  65
+
+pros my brother and thy uncle calld antonio
+i pray thee mark methat a brother should
+be so perfidioushe whom next thyself
+of all the world i loved and to him put
+the manage of my state as at that time                           70
+through all the signories it was the first
+and prospero the prime duke being so reputed
+in dignity and for the liberal arts
+without a parallel those being all my study
+the government i cast upon my brother                              75
+and to my state grew stranger being transported
+and rapt in secret studies thy false uncle
+dost thou attend me
+
+mir             sir most heedfully
+
+pros being once perfected how to grant suits
+how to deny them whom to advance and whom                         80
+to trash for overtopping new created
+the creatures that were mine i say or changed em
+or else new formd em having both the key
+of officer and office set all hearts i the state
+to what tune pleased his ear that now he was                       85
+the ivy which had hid my princely trunk
+and suckd my verdure out ont thou attendst not
+
+mir o good sir i do
+
+pros                 i pray thee mark me
+i thus neglecting worldly ends all dedicated
+to closeness and the bettering of my mind                           90
+with that which but by being so retired
+oerprized all popular rate in my false brother
+awaked an evil nature and my trust
+like a good parent did beget of him
+a falsehood in its contrary as great                               95
+as my trust was which had indeed no limit
+a confidence sans bound he being thus lorded
+not only with what my revenue yielded
+but what my power might else exact like one
+who having into truth by telling of it                           100
+made such a sinner of his memory
+to credit his own lie he did believe
+he was indeed the duke out o the substitution
+and executing the outward face of royalty
+with all prerogativehence his ambition growing               105
+dost thou hear
+
+mir        your tale sir would cure deafness
+
+pros to have no screen between this part he playd
+and him he playd it for he needs will be
+absolute milan me poor man my library
+was dukedom large enough of temporal royalties                    110
+he thinks me now incapable confederates
+so dry he was for sway wi the king of naples
+to give him annual tribute do him homage
+subject his coronet to his crown and bend
+the dukedom yet unbowdalas poor milan                     115
+to most ignoble stooping
+
+mir                  o the heavens
+
+pros mark his condition and th event then tell me
+if this might be a brother
+
+mir                    i should sin
+to think but nobly of my grandmother
+good wombs have borne bad sons
+
+pros                       now the condition                   120
+this king of naples being an enemy
+to me inveterate hearkens my brothers suit
+which was that he in lieu o the premises
+of homage and i know not how much tribute
+should presently extirpate me and mine                             125
+out of the dukedom and confer fair milan
+with all the honours on my brother whereon
+a treacherous army levied one midnight
+fated to the purpose did antonio open
+the gates of milan and i the dead of darkness                  130
+the ministers for the purpose hurried thence
+me and thy crying self
+
+mir                alack for pity
+i not remembering how i cried out then
+will cry it oer again it is a hint
+that wrings mine eyes tot
+
+pros                   hear a little further                   135
+and then ill bring thee to the present business
+which nows upon s without the which this story
+were most impertinent
+
+mir               wherefore did they not
+that hour destroy us
+
+pros             well demanded wench
+my tale provokes that question dear they durst not              140
+so dear the love my people bore me nor set
+a mark so bloody on the business but
+with colours fairer painted their foul ends
+in few they hurried us aboard a bark
+bore us some leagues to sea where they prepared                   145
+a rotten carcass of a boat not riggd
+nor tackle sail nor mast the very rats
+instinctively have quit it there they hoist us
+to cry to the sea that roard to us to sigh
+to the winds whose pity sighing back again                      150
+did us but loving wrong
+
+mir                 alack what trouble
+was i then to you
+
+pros          o a cherubin
+thou wast that did preserve me thou didst smile
+infused with a fortitude from heaven
+when i have deckd the sea with drops full salt                   155
+under my burthen groand which raised in me
+an undergoing stomach to bear up
+against what should ensue
+
+mir                   how came we ashore
+
+pros by providence divine
+some food we had and some fresh water that                       160
+a noble neapolitan gonzalo
+out of his charity who being then appointed
+master of this design did give us with
+rich garments linens stuffs and necessaries
+which since have steaded much so of his gentleness              165
+knowing i loved my books he furnishd me
+from mine own library with volumes that
+i prize above my dukedom
+
+mir                  would i might
+but ever see that man
+
+pros              now i arise  resumes his mantle
+sit still and hear the last of our seasorrow                    170
+here in this island we arrived and here
+have i thy schoolmaster made thee more profit
+than other princesses can that have more time
+for vainer hours and tutors not so careful
+
+mir heavens thank you fort and now i pray you sir          175
+for still tis beating in my mind your reason
+for raising this seastorm
+
+pros                   know thus far forth
+by accident most strange bountiful fortune
+now my dear lady hath mine enemies
+brought to this shore and by my prescience                        180
+i find my zenith doth depend upon
+a most auspicious star whose influence
+if now i court not but omit my fortunes
+will ever after droop here cease more questions
+thou art inclined to sleep tis a good dulness                   185
+and give it way i know thou canst not choose
+                                        miranda sleeps
+come away servant come i am ready now
+approach my ariel come
+
+  enter ariel
+
+ari all hail great master grave sir hail i come
+to answer thy best pleasure bet to fly                          190
+to swim to dive into the fire to ride
+on the curld clouds to thy strong bidding task
+ariel and all his quality
+
+pros                  hast thou spirit
+performd to point the tempest that i bade thee
+
+ari to every article                                           195
+i boarded the kings ship now on the beak
+now in the waist the deck in every cabin
+i flamed amazement sometime ild divide
+and burn in many places on the topmast
+the yards and bowsprit would i flame distinctly                  200
+then meet and join joves lightnings the precursors
+o the dreadful thunderclaps more momentary
+and sightoutrunning were not the fire and cracks
+of sulphurous roaring the most mighty neptune
+seem to besiege and make his bold waves tremble                  205
+yea his dread trident shake
+
+pros                     my brave spirit
+who was so firm so constant that this coil
+would not infect his reason
+
+ari                     not a soul
+but felt a fever of the mad and playd
+some tricks of desperation all but mariners                       210
+plunged in the foaming brine and quit the vessel
+then all afire with me the kings son ferdinand
+with hair upstaringthen like reeds not hair
+was the first man that leapd cried hell is empty
+and all the devils are here
+
+pros                 why thats my spirit                     215
+but was not this nigh shore
+
+ari                    close by my master
+
+pros but are they ariel safe
+
+ari                           not a hair perishd
+on their sustaining garments not a blemish
+but fresher than before and as thou badest me
+in troops i have dispersed them bout the isle                    220
+the kings son have i landed by himself
+whom i left cooling of the air with sighs
+in an odd angle of the isle and sitting
+his arms in this sad knot
+
+pros                  of the kings ship
+the mariners say how thou hast disposed                          225
+and all the rest o the fleet
+
+ari                       safely in harbour
+is the kings ship in the deep nook where once
+thou calldst me up at midnight to fetch dew
+from the stillvexd bermoothes there shes hid
+the mariners all under hatches stowd                             230
+who with a charm joind to their sufferd labour
+i have left asleep and for the rest o the fleet
+which i dispersed they all have met again
+and are upon the mediterranean flote
+bound sadly home for naples                                       235
+supposing that they saw the kings ship wreckd
+and his great person perish
+
+pros                    ariel thy charge
+exactly is performd but theres more work
+what is the time o the day
+
+ari                     past the mid season
+
+pros at least two glasses the time twixt six and now          240
+must by us both be spent most preciously
+
+ari is there more toil since thou dost give me pains
+let me remember thee what thou hast promised
+which is not yet performd me
+
+pros                      how now moody
+what ist thou canst demand
+
+ari                     my liberty                             245
+
+pros before the time be out no more
+
+ari                                 i prithee
+remember i have done thee worthy service
+told thee no lies made thee no mistakings served
+without or grudge or grumblings thou didst promise
+to bate me a full year
+
+pros               dost thou forget                             250
+from what a torment i did free thee
+
+ari                             no
+
+pros thou dost and thinkst it much to tread the ooze
+of the salt deep
+to run upon the sharp wind of the north
+to do me business in the veins o the earth                        255
+when it is baked with frost
+
+ari                     i do not sir
+
+pros thou liest malignant thing hast thou forgot
+the foul witch sycorax who with age and envy
+was grown into a hoop hast thou forgot her
+
+ari no sir
+
+pros       thou hast where was she born speak tell me       260
+
+ari sir in argier
+
+pros              o was she so i must
+once in a month recount what thou hast been
+which thou forgetst this damnd witch sycorax
+for mischiefs manifold and sorceries terrible
+to enter human hearing from argier                               265
+thou knowst was banishd for one thing she did
+they would not take her life is not this true
+
+ari ay sir
+
+pros this blueeyed hag was hither brought with child
+and here was left by the sailors thou my slave                  270
+as thou reportst thyself wast then her servant
+and for thou wast a spirit too delicate
+to act her earthy and abhorrd commands
+refusing her grand hests she did confine thee
+by help of her more potent ministers                              275
+and in her most unmitigable rage
+into a cloven pine within which rift
+imprisond thou didst painfully remain
+a dozen years within which space she died
+and left thee there where thou didst vent thy groans              280
+as fast as millwheels strike then was this island
+save for the son that she did litter here
+a freckled whelp hagbornnot honourd with
+a human shape
+
+ari       yes caliban her son
+
+pros dull thing i say so he that caliban                    285
+whom now i keep in service thou best knowst
+what torment i did find thee in thy groans
+did make wolves howl and penetrate the breasts
+of everangry bears it was a torment
+to lay upon the damnd which sycorax                              290
+could not again undo it was mine art
+when i arrived and heard thee that made gape
+the pine and let thee out
+
+ari                    i thank thee master
+
+pros if thou more murmurst i will rend an oak
+and peg thee in his knotty entrails till                          295
+thou hast howld away twelve winters
+
+ari                              pardon master
+i will be correspondent to command
+and do my spiriting gently
+
+pros                   do so and after two days
+i will discharge thee
+
+ari               thats my noble master
+what shall i do say what what shall i do                        300
+
+pros go make thyself like a nymph o the sea
+be subject to no sight but thine and mine invisible
+to every eyeball else go take this shape
+and hither come int go hence with diligence
+
+    exit ariel
+
+awake dear heart awake thou hast slept well                    305
+awake
+
+mir the strangeness of your story put
+heaviness in me
+
+pros        shake it off come on
+well visit caliban my slave who never
+yields us kind answer
+
+mir               tis a villain sir
+i do not love to look on
+
+pros                 but as tis                              310
+we cannot miss him he does make our fire
+fetch in our wood and serves in offices
+that profit us what ho slave caliban
+thou earth thou speak
+
+cal within theres wood enough within
+
+pros come forth i say theres other business for thee        315
+come thou tortoise when
+
+  reenter ariel like a waternymph
+
+fine apparition my quaint ariel
+hark in thine ear
+
+ari           my lord it shall be done    exit
+
+pros thou poisonous slave got by the devil himself
+upon thy wicked dam come forth                                   320
+
+  enter caliban
+
+cal as wicked dew as eer my mother brushd
+with ravens feather from unwholesome fen
+drop on you both a southwest blow on ye
+and blister you all oer
+
+pros for this be sure tonight thou shalt have cramps        325
+sidestitches that shall pen thy breath up urchins
+shall for that vast of night that they may work
+all exercise on thee thou shalt be pinchd
+as thick as honeycomb each pinch more stinging
+than bees that made em
+
+cal                 i must eat my dinner                       330
+this islands mine by sycorax my mother
+which thou takest from me when thou camest first
+thou strokedst me and madest much of me wouldst give me
+water with berries int and teach me how
+to name the bigger light and how the less                        335
+that burn by day and night and then i loved thee
+and showd thee all the qualities o th isle
+the fresh springs brinepits barren place and fertile
+cursd be i that did so all the charms
+of sycorax toads beetles bats light on you                    340
+for i am all the subjects that you have
+which first was mine own king and here you sty me
+in this hard rock whiles you do keep from me
+the rest o th island
+
+pros               thou most lying slave
+whom stripes may move not kindness i have used thee             345
+filth as thou art with human care and lodged thee
+in mine own cell till thou didst seek to violate
+the honour of my child
+
+cal o ho o ho would t had been done
+thou didst prevent me i had peopled else                          350
+this isle with calibans
+
+pros                abhorred slave
+which any print of goodness wilt not take
+being capable of all ill i pitied thee
+took pains to make thee speak taught thee each hour
+one thing or other when thou didst not savage                   355
+know thine own meaning but wouldst gabble like
+a thing most brutish i endowd thy purposes
+with words that made them known but thy vile race
+though thou didst learn had that int which good natures
+could not abide to be with therefore wast thou                    360
+deservedly confined into this rock
+who hadst deserved more than a prison
+
+cal you taught me language and my profit ont
+is i know how to curse the red plague rid you
+for learning me your language
+
+pros                      hagseed hence                      365
+fetch us in fuel and be quick thourt best
+to answer other business shrugst thou malice
+if thou neglectst or dost unwillingly
+what i command ill rack thee with old cramps
+fill all thy bones with aches make thee roar                     370
+that beasts shall tremble at thy din
+
+cal                              no pray thee
+aside i must obey his art is of such power
+it would control my dams god setebos
+and make a vassal of him
+
+pros                 so slave hence    exit caliban
+
+  reenter ariel invisible playing and singing ferdinand
+  following
+
+ariels song
+
+    come unto these yellow sands                                  375
+        and then take hands
+    courtsied when you have and kissd
+        the wild waves whist
+    foot it featly here and there
+    and sweet sprites the burthen bear                          380
+
+ burthen dispersedly hark hark
+                           bowwow
+        the watchdogs bark
+                            bowwow
+
+ari  hark hark i hear
+        the strain of strutting chanticleer                        385
+        cry cockadiddledow
+
+fer where should this music be i th air or th earth
+it sounds no more and sure it waits upon
+some god o th island sitting on a bank
+weeping again the king my fathers wreck                          390
+this music crept by me upon the waters
+allaying both their fury and my passion
+with its sweet air thence i have followd it
+or it hath drawn me rather but tis gone
+no it begins again                                               395
+
+ariel sings
+
+    full fathom five thy father lies
+        of his bones are coral made
+    those are pearls that were his eyes
+        nothing of him that doth fade
+    but doth suffer a seachange                                   400
+    into something rich and strange
+    seanymphs hourly ring his knell
+
+                    burthen dingdong
+
+ari hark now i hear themdingdong bell
+
+fer the ditty does remember my drownd father                  405
+this is no mortal business nor no sound
+that the earth owesi hear it now above me
+
+pros the fringed curtains of thine eye advance
+and say what thou seest yond
+
+mir                      what ist a spirit
+lord how it looks about believe me sir                         410
+it carries a brave form but tis a spirit
+
+pros no wench it eats and sleeps and hath such senses
+as we have such this gallant which thou seest
+was in the wreck and but hes something staind
+with grief thats beautys canker thou mightst call him          415
+a goodly person he hath lost his fellows
+and strays about to find em
+
+mir                      i might call him
+a thing divine for nothing natural
+i ever saw so noble
+
+pros aside it goes on i see
+as my soul prompts it spirit fine spirit ill free thee         420
+within two days for this
+
+fer                  most sure the goddess
+on whom these airs attend vouchsafe my prayer
+may know if you remain upon this island
+and that you will some good instruction give
+how i may bear me here my prime request                          425
+which i do last pronounce is o you wonder
+if you be maid or no
+
+mir              no wonder sir
+but certainly a maid
+
+fer              my language heavens
+i am the best of them that speak this speech
+were i but where tis spoken
+
+pros                     how the best                         430
+what wert thou if the king of naples heard thee
+
+fer a single thing as i am now that wonders
+to hear thee speak of naples he does hear me
+and that he does i weep myself am naples
+who with mine eyes never since at ebb beheld                     435
+the king my father wreckd
+
+mir                    alack for mercy
+
+fer yes faith and all his lords the duke of milan
+and his brave son being twain
+
+pros                      aside the duke of milan
+and his more braver daughter could control thee
+if now twere fit to dot at the first sight                      440
+they have changed eyes delicate ariel
+ill set thee free for this to fer a word good sir
+i fear you have done yourself some wrong a word
+
+mir why speaks my father so ungently this
+is the third man that eer i saw the first                        445
+that eer i sighd for pity move my father
+to be inclined my way
+
+fer               o if a virgin
+and your affection not gone forth ill make you
+the queen of naples
+
+pros            soft sir one word more
+aside they are both in eithers powers
+        but this swift business                                    450
+i must uneasy make lest too light winning
+make the prize light to fer one word more i charge thee
+that thou attend me thou dost here usurp
+the name thou owest not and hast put thyself
+upon this island as a spy to win it                               455
+from me the lord ont
+
+fer                no as i am a man
+
+mir theres nothing ill can dwell in such a temple
+if the ill spirit have so fair a house
+good things will strive to dwell witht
+
+pros                                follow me
+speak not you for him hes a traitor come                       460
+ill manacle thy neck and feet together
+seawater shalt thou drink thy food shall be
+the freshbrook muscles witherd roots and husks
+wherein the acorn cradled follow
+
+fer                           no
+i will resist such entertainment till                              465
+mine enemy has more power
+            draws and is charmed from moving
+
+mir                o dear father
+make not too rash a trial of him for
+hes gentle and not fearful
+
+pros                     what i say
+my foot my tutor put thy sword up traitor
+who makest a show but darest not strike thy conscience           470
+is so possessd with guilt come from thy ward
+for i can here disarm thee with this stick
+and make thy weapon drop
+
+mir                  beseech you father
+
+pros hence hang not on my garments
+
+mir                                sir have pity
+ill be his surety
+
+pros           silence one word more                           475
+shall make me chide thee if not hate thee what
+an advocate for an impostor hush
+thou thinkst there is no more such shapes as he
+having seen but him and caliban foolish wench
+to the most of men this is a caliban                              480
+and they to him are angels
+
+mir                    my affections
+are then most humble i have no ambition
+to see a goodlier man
+
+pros              come on obey
+thy nerves are in their infancy again
+and have no vigour in them
+
+fer             so they are                                    485
+my spirits as in a dream are all bound up
+my fathers loss the weakness which i feel
+the wreck of all my friends nor this mans threats
+to whom i am subdued are but light to me
+might i but through my prison once a day                           490
+behold this maid all corners else o th earth
+let liberty make use of space enough
+have i in such a prison
+
+pros aside      it works to fer come on
+thou hast done well fine ariel to fer follow me
+to ari hark what thou else shalt do me
+
+mir                                     be of comfort          495
+my fathers of a better nature sir
+than he appears by speech this is unwonted
+which now came from him
+
+pros                thou shalt be as free
+as mountain winds but then exactly do
+all points of my command
+
+ari                  to the syllable                           500
+
+pros come follow speak not for him    exeunt
+
+
+  notes i 2
+
+  3 stinking flaming singer conj kindling s verges conj
+  4 cheek heat collier ms crack staunton conj
+  7 creature creatures theobald
+  13 fraughting ff fraighted pope fraighting theobald
+    freighting steevens
+  15 mir o woe the day pros no harm mir o woe the day
+    no harm johnson conj
+  19 i am more better im more or better pope
+  24 lays  mantle pope
+  28 provision f1 compassion f2 f3 f4 prevision hunter conj
+  29 soul soul lost rowe foyle theobald soil johnson conj
+    loss capell foul wright conj
+  31 betid f1 betide f2 f3 f4
+  35 a f1 the f2 f3 f4
+  38 thou om pope
+  41 out full pope after dryden quite collier ms
+  44 with in pope after dryden
+  53 twelve year  year tis twelve years  years pope
+  58 59 and his only heir and princess and his only heir
+    a princess pope thou his only heir and princess steevens
+    and though his only heir a princess johnson conj
+  63 holp helpd pope
+  o my heart my heart pope
+  78 me om f3 f4
+  80 whom  whom f2 f3 f4 who  who f1
+  81 trash plash hanmer
+  82 83 em  em them  them capell
+  84 i the state ith state f1 eth state f2
+    oth state f3 f4 om pope
+  88 o good sir  mark me good sir  mark me then pope
+    o yes good sir  mark me capell
+  mir o  do pros i  me i  me mir o  do
+    steevens
+  89 dedicated dedicate steevens ritson conj
+  91 so f1 om f2 f3 f4
+  97 lorded loaded collier ms
+  99 exact like exact like ff
+  100 having into truth  of it loving an untruth and telling
+    t oft hanmer having unto truth  oft warburton having to
+    untruth  of it collier ms having sinnd to truth  oft
+    musgrave conj
+  telling quelling s verges conj
+  101 made  memory makes  memory hanmer makes 
+    memory too musgrave conj
+  103 indeed the duke the duke steevens indeed duke s walker
+    conj
+  out o the from pope
+  105 his is f2
+  105 106 ambition growing ambition growing steevens
+  106 hear hear child hanmer
+  109 milan millanie f1 capells copy
+  112 wi the capell with ff wi th rowe with the
+    steevens
+  116 most f1 much f2 f3 f4
+  119 but not pope
+  120 good  sons theobald suggested that these words should be
+    given to prospero hanmer prints them so
+  122 hearkens hears pope hearks theobald
+  129 fated mated drydens version
+  purpose practise collier ms
+  131 ministers minister rowe
+  133 out ont steevens conj
+  135 to t om steevens farmer conj
+  138 wherefore why pope
+  141 me om pope
+  146 boat rowe after dryden butt f1 f2 f3 but f4
+    busse black conj
+  147 sail f1 nor sail f2 f3 f4
+  148 have had rowe after dryden
+  150 the winds winds pope
+  155 deckd brackd hanmer mockd warburton fleckd
+    johnson conj deggd anon ap reed conj
+  162 who om pope he steevens conj
+  169 now i arise continued to miranda blackstone conj
+  resumes his mantle om ff put on robe again collier ms
+  173 princesses princesse f1 f2 f3 princess f4
+    princes rowe princess dyce s walker conj see note iii
+  186 m sleeps theobald
+  189 scene iii pope
+  190 bet f1 be it f2 f3 f4
+  193 quality qualities pope after dryden
+  198 sometime f1 sometimes f2 f3 f4
+  200 bowsprit boresprit ff boltsprit rowe
+  201 lightnings theobald lightning ff
+  202 o the of pope
+  thunderclaps thunderclap johnson
+  205 seem seemd theobald
+  206 dread f1 dead f2 f3 f4
+  my brave my brave brave theobald thats my brave hanmer
+  209 mad mind pope after dryden
+  211 212 vessel  son vessell then all a fire with me
+    the kings sonne ff
+  218 sustaining seastained edwards conj unstaining or
+    seastaining spedding conj
+  229 bermoothes bermudas theobald
+  231 who whom hanmer
+  234 are all collier ms
+  upon on pope
+  239240 ari past the mid season pros at least two glasses
+    ari past the mid season at least two glasses warburton
+    pros  past the mid season ari at least two glasses
+    johnson conj
+  244 how now moody how now moody dyce so dryden ed 1808
+  245 what f1 which f2 f3 f4
+  248 made thee ff made pope
+  249 didst f3 f4 did f1 f2
+  264 and sorceries sorceries too hanmer
+  267 is not this true is this not true pope
+  271 wast then rowe after dryden was then ff
+  273 earthy earthly pope
+  282 son f1 sunne f2 sun f3 f4
+  she rowe after dryden he ff
+  298 see note iv
+  301 like f1 like to f2 f3 f4
+  302 be subject to be subject to malone
+  but thine and mine but mine pope
+  304 int in it pope
+  go hence goe hence ff go hence pope hence hanmer
+  307 heaviness strange heaviness edd conj
+  312 serves in offices f1 serves offices f2 f3 f4
+    serveth offices collier ms
+  316 come thou tortoise when om pope
+  come come forth steevens
+  320 come forth come forth thou tortoise pope
+  321 scene iv pope
+  332 camest rowe camst ff camst here ritson conj
+  333 madest rowe after dryden made ff
+  339 cursd be i that f1 cursd be i that i f2 f3 f4
+    cursed be i that steevens
+  342 which who pope and at line 351
+  346 thee om f4
+  349 would t ff i woud it pope
+  351 pros theobald after dryden mira ff
+  352 wilt f1 will f2 f3 f4
+  355 356 didst not  know couldst not  shew hanmer
+  356 wouldst didst hanmer
+  361 362 deservedly  deserved justly  who hadst deservd
+    s walker conj confind  deservd id conj
+  362 who  prison om pope after dryden
+  366 thourt f1 f2 f3 thou art f4 thou wert rowe
+  375 scene v pope
+  following malone
+  378 the wild waves whist printed as a parenthesis by steevens
+    see note v
+  380 the burthen bear pope bear the burthen ff
+  381383 steevens gives hark hark the watchdogs bark to ariel
+  387 i th air or th earth in air or earth pope
+  390 again against rowe after dryden
+  407 owes owns pope after dryden but leaves owst 454
+  408 scene vi pope
+  419 it goes on i see it goes i see capell it goes on
+    steevens
+  420 fine spirit om hanmer
+  427 maid f3 mayd f1 f2 made f4
+  443 see note vi
+  444 ungently f1 urgently f2 f3 f4
+  451 lest f4 least f1 f2 f3
+  452 one sir one pope
+    i charge thee i charge thee to ariel pope
+  460 pros prefixed again to this line in ff
+  468 and tho hanmer
+  469 foot fool s walker conj child drydens version
+  470 makest makst f1 makes f2 f3 f4
+  471 so f1 om f2 f3 f4 all pope
+  478 is are rowe
+  488 nor and rowe after dryden or capell
+  489 are were malone conj
+
+
+
+
+act ii
+
+
+scene i another part of the island
+
+  enter alonso sebastian antonio gonzalo adrian francisco
+  and others
+
+gon beseech you sir be merry you have cause
+so have we all of joy for our escape
+is much beyond our loss our hint of woe
+is common every day some sailors wife
+the masters of some merchant and the merchant                      5
+have just our theme of woe but for the miracle
+i mean our preservation few in millions
+can speak like us then wisely good sir weigh
+our sorrow with our comfort
+
+alon                    prithee peace
+
+seb he receives comfort like cold porridge                      10
+
+ant the visitor will not give him oer so
+
+seb look hes winding up the watch of his wit by
+and by it will strike
+
+gon sir
+
+seb one tell                                                   15
+
+gon when every grief is entertaind thats offerd
+comes to the entertainer
+
+seb a dollar
+
+gon dolour comes to him indeed you have spoken
+truer than you purposed                                            20
+
+seb you have taken it wiselier than i meant you should
+
+gon therefore my lord
+
+ant fie what a spendthrift is he of his tongue
+
+alon i prithee spare
+
+gon well i have done but yet                                25
+
+seb he will be talking
+
+ant which of he or adrian for a good wager first
+begins to crow
+
+seb the old cock
+
+ant the cockerel                                                30
+
+seb done the wager
+
+ant a laughter
+
+seb a match
+
+adr though this island seem to be desert
+
+seb ha ha haso youre paid                                35
+
+adr uninhabitable and almost inaccessible
+
+seb yet
+
+adr yet
+
+ant he could not misst
+
+adr it must needs be of subtle tender and delicate              40
+temperance
+
+ant temperance was a delicate wench
+
+seb ay and a subtle as he most learnedly delivered
+
+adr the air breathes upon us here most sweetly
+
+seb as if it had lungs and rotten ones                         45
+
+ant or as twere perfumed by a fen
+
+gon here is every thing advantageous to life
+
+ant true save means to live
+
+seb of that theres none or little
+
+gon how lush and lusty the grass looks how green               50
+
+ant the ground indeed is tawny
+
+seb with an eye of green int
+
+ant he misses not much
+
+seb no he doth but mistake the truth totally
+
+gon but the rarity of it iswhich is indeed almost             55
+beyond credit
+
+seb as many vouched rarities are
+
+gon that our garments being as they were drenched
+in the sea hold notwithstanding their freshness and glosses
+being rather newdyed than stained with salt water                 60
+
+ant if but one of his pockets could speak would it
+not say he lies
+
+seb ay or very falsely pocket up his report
+
+gon methinks our garments are now as fresh as when
+we put them on first in afric at the marriage of the kings        65
+fair daughter claribel to the king of tunis
+
+seb twas a sweet marriage and we prosper well in
+our return
+
+adr tunis was never graced before with such a paragon
+to their queen                                                     70
+
+gon not since widow didos time
+
+ant widow a pox o that how came that widow
+in widow dido
+
+seb what if he had said widower æneas too good
+lord how you take it                                              75
+
+adr widow dido said you you make me study of
+that she was of carthage not of tunis
+
+gon this tunis sir was carthage
+
+adr carthage
+
+gon i assure you carthage                                      80
+
+seb his word is more than the miraculous harp he
+hath raised the wall and houses too
+
+ant what impossible matter will he make easy next
+
+seb i think he will carry this island home in his
+pocket and give it his son for an apple                           85
+
+ant and sowing the kernels of it in the sea bring
+forth more islands
+
+gon ay
+
+ant why in good time
+
+gon sir we were talking that our garments seem now              90
+as fresh as when we were at tunis at the marriage of your
+daughter who is now queen
+
+ant and the rarest that eer came there
+
+seb bate i beseech you widow dido
+
+ant o widow dido ay widow dido                               95
+
+gon is not sir my doublet as fresh as the first day i
+wore it i mean in a sort
+
+ant that sort was well fished for
+
+gon when i wore it at your daughters marriage
+
+alon you cram these words into mine ears against                100
+the stomach of my sense would i had never
+married my daughter there for coming thence
+my son is lost and in my rate she too
+who is so far from italy removed
+i neer again shall see her o thou mine heir                      105
+of naples and of milan what strange fish
+hath made his meal on thee
+
+fran                   sir he may live
+i saw him beat the surges under him
+and ride upon their backs he trod the water
+whose enmity he flung aside and breasted                          110
+the surge most swoln that met him his bold head
+bove the contentious waves he kept and oard
+himself with his good arms in lusty stroke
+to the shore that oer his waveworn basis bowd
+as stooping to relieve him i not doubt                            115
+he came alive to land
+
+alon              no no hes gone
+
+seb sir you may thank yourself for this great loss
+that would not bless our europe with your daughter
+but rather lose her to an african
+where she at least is banishd from your eye                    120
+who hath cause to wet the grief ont
+
+alon                             prithee peace
+
+seb you were kneeld to and importuned otherwise
+by all of us and the fair soul herself
+weighd between loathness and obedience at
+which end o the beam should bow we have lost your son           125
+i fear for ever milan and naples have
+more widows in them of this business making
+than we bring men to comfort them
+the faults your own
+
+alon             so is the dearst o the loss
+
+gon my lord sebastian                                          130
+the truth you speak doth lack some gentleness
+and time to speak it in you rub the sore
+when you should bring the plaster
+
+seb                           very well
+
+ant and most chirurgeonly
+
+gon it is foul weather in us all good sir                     135
+when you are cloudy
+
+seb             foul weather
+
+ant                         very foul
+
+gon had i plantation of this isle my lord
+
+ant held sowt with nettleseed
+
+seb                             or docks or mallows
+
+gon and were the king ont what would i do
+
+seb scape being drunk for want of wine                        140
+
+gon i the commonwealth i would by contraries
+execute all things for no kind of traffic
+would i admit no name of magistrate
+letters should not be known riches poverty
+and use of service none contract succession                    145
+bourn bound of land tilth vineyard none
+no use of metal corn or wine or oil
+no occupation all men idle all
+and women too but innocent and pure
+no sovereignty                                                  150
+
+seb      yet he would be king ont
+
+ant the latter end of his commonwealth forgets the
+beginning
+
+gon all things in common nature should produce
+without sweat or endeavour treason felony
+sword pike knife gun or need of any engine                    155
+would i not have but nature should bring forth
+of its own kind all foison all abundance
+to feed my innocent people
+
+seb no marrying mong his subjects
+
+ant none man all idle whores and knaves                     160
+
+gon i would with such perfection govern sir
+to excel the golden age
+
+seb                 save his majesty
+
+ant long live gonzalo
+
+gon                  anddo you mark me sir
+
+alon prithee no more thou dost talk nothing to me
+
+gon i do well believe your highness and did it to minister     165
+occasion to these gentlemen who are of such sensible
+and nimble lungs that they always use to laugh at nothing
+
+ant twas you we laughed at
+
+gon who in this kind of merry fooling am nothing to
+you so you may continue and laugh at nothing still              170
+
+ant what a blow was there given
+
+seb an it had not fallen flatlong
+
+gon you are gentlemen of brave mettle you would
+lift the moon out of her sphere if she would continue in it
+five weeks without changing                                       175
+
+
+  enter ariel invisible playing solemn music
+
+seb we would so and then go a batfowling
+
+ant nay good my lord be not angry
+
+gon no i warrant you i will not adventure my discretion
+so weakly will you laugh me asleep for i am very
+heavy                                                             180
+
+ant go sleep and hear us
+            all sleep except alon seb and ant
+
+alon what all so soon asleep i wish mine eyes
+would with themselves shut up my thoughts i find
+they are inclined to do so
+
+seb                    please you sir
+do not omit the heavy offer of it                                 185
+it seldom visits sorrow when it doth
+it is a comforter
+
+ant           we two my lord
+will guard your person while you take your rest
+and watch your safety
+
+alon              thank youwondrous heavy
+                                alonso sleeps exit ariel
+
+seb what a strange drowsiness possesses them                   190
+
+ant it is the quality o the climate
+
+seb                                 why
+doth it not then our eyelids sink i find not
+myself disposed to sleep
+
+ant                  nor i my spirits are nimble
+they fell together all as by consent
+they droppd as by a thunderstroke what might                  195
+worthy sebastiano what mightno more
+and yet methinks i see it in thy face
+what thou shouldst be the occasion speaks thee and
+my strong imagination sees a crown
+dropping upon thy head
+
+seb                what art thou waking                       200
+
+ant do you not hear me speak
+
+seb                         i do and surely
+it is a sleepy language and thou speakst
+out of thy sleep what is it thou didst say
+this is a strange repose to be asleep
+with eyes wide open standing speaking moving                   205
+and yet so fast asleep
+
+ant                noble sebastian
+thou letst thy fortune sleepdie rather winkst
+whiles thou art waking
+
+seb                thou dost snore distinctly
+theres meaning in thy snores
+
+ant i am more serious than my custom you                       210
+must be so too if heed me which to do
+trebles thee oer
+
+seb           well i am standing water
+
+ant ill teach you how to flow
+
+seb                           do so to ebb
+hereditary sloth instructs me
+
+ant                       o
+if you but knew how you the purpose cherish                        215
+whiles thus you mock it how in stripping it
+you more invest it ebbing men indeed
+most often do so near the bottom run
+by their own fear or sloth
+
+seb                    prithee say on
+the setting of thine eye and cheek proclaim                        220
+a matter from thee and a birth indeed
+which throes thee much to yield
+
+ant                         thus sir
+although this lord of weak remembrance this
+who shall be of as little memory
+when he is earthd hath here almost persuaded                  225
+for hes a spirit of persuasion only
+professes to persuadethe king his sons alive
+tis as impossible that hes undrownd
+as he that sleeps here swims
+
+seb                      i have no hope
+that hes undrownd
+
+ant             o out of that no hope                        230
+what great hope have you no hope that way is
+another way so high a hope that even
+ambition cannot pierce a wink beyond
+but doubt discovery there will you grant with me
+that ferdinand is drownd
+
+seb                   hes gone
+
+ant                            then tell me                   235
+whos the next heir of naples
+
+seb                       claribel
+
+ant she that is queen of tunis she that dwells
+ten leagues beyond mans life she that from naples
+can have no note unless the sun were post
+the man i the moons too slowtill newborn chins               240
+be rough and razorable she that from whom
+we all were seaswallowd though some cast again
+and by that destiny to perform an act
+whereof whats past is prologue what to come
+in yours and my discharge
+
+seb                   what stuff is this how say you          245
+tis true my brothers daughters queen of tunis
+so is she heir of naples twixt which regions
+there is some space
+
+ant             a space whose every cubit
+seems to cry out how shall that claribel
+measure us back to naples keep in tunis                          250
+and let sebastian wake say this were death
+that now hath seized them why they were no worse
+than now they are there be that can rule naples
+as well as he that sleeps lords that can prate
+as amply and unnecessarily                                         255
+as this gonzalo i myself could make
+a chough of as deep chat o that you bore
+the mind that i do what a sleep were this
+for your advancement do you understand me
+
+seb methinks i do
+
+ant              and how does your content                      260
+tender your own good fortune
+
+seb                      i remember
+you did supplant your brother prospero
+
+ant                                true
+and look how well my garments sit upon me
+much feater than before my brothers servants
+were then my fellows now they are my men                         265
+
+seb but for your conscience
+
+ant ay sir where lies that if twere a kibe
+twould put me to my slipper but i feel not
+this deity in my bosom twenty consciences
+that stand twixt me and milan candied be they                   270
+and melt ere they molest here lies your brother
+no better than the earth he lies upon
+if he were that which now hes like thats dead
+whom i with this obedient steel three inches of it
+can lay to bed for ever whiles you doing thus                   275
+to the perpetual wink for aye might put
+this ancient morsel this sir prudence who
+should not upbraid our course for all the rest
+theyll take suggestion as a cat laps milk
+theyll tell the clock to any business that                        280
+we say befits the hour
+
+seb                thy case dear friend
+shall be my precedent as thou gotst milan
+ill come by naples draw thy sword one stroke
+shall free thee from the tribute which thou payest
+and i the king shall love thee
+
+ant                        draw together                       285
+and when i rear my hand do you the like
+to fall it on gonzalo
+
+seb               o but one word      they talk apart
+
+  reenter ariel invisible
+
+ari my master through his art foresees the danger
+that you his friend are in and sends me forth
+for else his project diesto keep them living                   290
+                            sings in gonzalos ear
+
+while you here do snoring lie
+openeyed conspiracy
+    his time doth take
+if of life you keep a care
+shake off slumber and beware                                     295
+    awake awake
+
+ant then let us both be sudden
+
+gon                           now good angels
+preserve the king                          they wake
+
+alon why how now ho awakewhy are you drawn
+wherefore this ghastly looking
+
+gon                        whats the matter                   300
+
+seb whiles we stood here securing your repose
+even now we heard a hollow burst of bellowing
+like bulls or rather lions didt not wake you
+it struck mine ear most terribly
+
+alon                         i heard nothing
+
+ant o twas a din to fright a monsters ear                   305
+to make an earthquake sure it was the roar
+of a whole herd of lions
+
+alon                 heard you this gonzalo
+
+gon upon mine honour sir i heard a humming
+and that a strange one too which did awake me
+i shaked you sir and cried as mine eyes opend                 310
+i saw their weapons drawnthere was a noise
+thats verily tis best we stand upon our guard
+or that we quit this place lets draw our weapons
+
+alon lead off this ground and lets make further search
+for my poor son
+
+gon         heavens keep him from these beasts                 315
+for he is sure i th island
+
+alon                       lead away
+
+ari prospero my lord shall know what i have done
+so king go safely on to seek thy son    exeunt
+
+
+  notes ii 1
+
+  3 hint stint warburton
+  5 masters master johnson mistress steevens conj
+    masters edd conj
+  6 of woe om steevens conj
+  1199 marked as interpolated by pope
+  11 visitor viser warburton
+  him om rowe
+  15 one f1 on f2 f3 f4
+  16 entertaind  comes capell entertaind thats offerd
+    comes ff printed as prose by pope
+  27 of he ff of them he pope or he collier ms
+    see note vii
+  35 seb ha ha haso youre paid theobald seb ha ha ha
+    ant so your paid ff ant so youve paid capell
+  81 82 seb his  too edd ant his  harp
+    seb he  too ff
+  88 ay i ff ay pope
+  96 sir my doublet f1 my doublet sir f2 f3 f4
+  113 stroke f1 f2 f3 strokes f4
+  124 weighd swayd s verges conj
+  at as collier ms
+  125 o the the pope
+  should shed malone
+  129 the faults your own the faults your own at the end
+    of 128 capell the faults your own malone
+  137 plantation the plantation rowe the planting hanmer
+  139 ont of it hanmer
+  144 riches poverty wealth poverty pope poverty riches
+    capell
+  145 contract succession succession contract malone conj
+    succession none id conj
+  146 none olives none hanmer
+  157 its f3 f4 it f1 f2 see note viii
+  162 save f1 f2 f3 save f4 god save edd conj
+  175 enter  invisible  music malone enter ariel playing
+    solemn music ff om pope solemn music capell
+  181 all sleep  ant stage direction to the same effect
+    first inserted by capell
+  182189 text as in pope in ff the lines begin would  i find
+     do not  it seldom  we two  while  thank
+  189 exit ariel malone
+  192 find not pope find not ff
+  211 so too if heed so too if you heed rowe
+    so if you heed pope
+  212 trebles thee oer troubles thee oer pope
+    troubles thee not hanmer
+  222 throes pope throwes f1 f2 f3 throws f4
+  thus sir why then thus sir hanmer
+  226 hes heas hanmer he johnson conj
+  227 professes to persuade om steevens
+  234 doubt drops hanmer doubts capell
+  241 she that from whom ff she from whom rowe
+    she for whom pope she from whom coming singer
+    she thatfrom whom spedding conj see note ix
+  242 all om pope
+  243 and  to perform may  perform pope and by that
+    destind to perform musgrave conj and that by destiny
+    to perform staunton conj
+  244 is f1 in f2 f3 f4
+  245 in is pope
+  250 to f1 by f2 f3 f4
+  keep sleep johnson conj
+  251 see note x
+  267 twere it were singer
+  267271 pope ends the lines with that  slipper  bosom 
+    milan  molest  brother
+  267 see note xi
+  269 twenty ten pope
+  270 stand stood hanmer
+  candied discandyd upton conj
+  271 and melt would melt johnson conj or melt id conj
+  273 274 like thats dead whom i with like whom i with
+    steevens farmer conj
+  275 whiles om pope
+  277 morsel moral warburton
+  280 281 business  hour hour  business farmer conj
+  282 precedent pope president ff
+  o om pope
+  they talk apart capell
+  reenter ariel invisible capell enter ariel with music and
+    song ff
+  289 you his friend these his friends steevens
+    johnson conj
+  289 290 friend  project dies  them friend  projects
+    dies  you hanmer friend  projects die  them
+    malone conj friend  project dies  thee dyce
+  298 they wake rowe
+  300 this thus collier ms
+  307 gonzalo om pope
+  312 verily verity pope
+  upon our guard on guard pope
+
+
+scene ii another part of the island
+
+  enter caliban with a burden of wood a noise of thunder heard
+
+cal all the infections that the sun sucks up
+from bogs fens flats on prosper fall and make him
+by inchmeal a disease his spirits hear me
+and yet i needs must curse but theyll nor pinch
+fright me with urchinshows pitch me i the mire                   5
+nor lead me like a firebrand in the dark
+out of my way unless he bid em but
+for every trifle are they set upon me
+sometime like apes that mow and chatter at me
+and after bite me then like hedgehogs which                       10
+lie tumbling in my barefoot way and mount
+their pricks at my footfall sometime am i
+all wound with adders who with cloven tongues
+do hiss me into madness
+
+  enter trinculo
+
+                        lo now lo
+here comes a spirit of his and to torment me                       15
+for bringing wood in slowly ill fall flat
+perchance he will not mind me
+
+trin heres neither bush nor shrub to bear off any
+weather at all and another storm brewing i hear it sing i
+the wind yond same black cloud yond huge one looks               20
+like a foul bombard that would shed his liquor if it should
+thunder as it did before i know not where to hide my head
+yond same cloud cannot choose but fall by pailfuls what
+have we here a man or a fish dead or alive a fish he
+smells like a fish a very ancient and fishlike smell a kind      25
+of not of the newest poorjohn a strange fish were i
+in england now as once i was and had but this fish
+painted not a holiday fool there but would give a piece of
+silver there would this monster make a man any strange
+beast there makes a man when they will not give a doit to          30
+relieve a lame beggar they will lay out ten to see a dead
+indian legged like a man and his fins like arms warm
+o my troth i do now let loose my opinion hold it no
+longer this is no fish but an islander that hath lately
+suffered by a thunderbolt thunder alas the storm is come     35
+again my best way is to creep under his gaberdine there
+is no other shelter hereabout misery acquaints a man with
+strange bedfellows i will here shroud till the dregs of the
+storm be past
+
+  enter stephano singing a bottle in his hand
+
+ste i shall no more to sea to sea                              40
+                here shall i die ashore
+
+this is a very scurvy tune to sing at a mans funeral well
+heres my comfort                                  drinks
+
+
+sings the master the swabber the boatswain and i
+                       the gunner and his mate                    45
+               loved mall meg and marian and margery
+                   but none of us cared for kate
+                   for she had a tongue with a tang
+                   would cry to a sailor go hang
+               she loved not the savour of tar nor of pitch        50
+               yet a tailor might scratch her whereer she did itch
+                   then to sea boys and let her go hang
+
+this is a scurvy tune too but heres my comfort drinks
+
+cal do not torment meo
+
+ste whats the matter have we devils here do                   55
+you put tricks upon s with savages and men of ind ha i
+have not scaped drowning to be afeard now of your four
+legs for it hath been said as proper a man as ever went
+on four legs cannot make him give ground and it shall be
+said so again while stephano breathes ats nostrils               60
+
+cal the spirit torments meo
+
+ste this is some monster of the isle with four legs who
+hath got as i take it an ague where the devil should he
+learn our language i will give him some relief if it be
+but for that if i can recover him and keep him tame and          65
+get to naples with him hes a present for any emperor that
+ever trod on neatsleather
+
+cal do not torment me prithee ill bring my wood
+home faster
+
+ste hes in his fit now and does not talk after the             70
+wisest he shall taste of my bottle if he have never drunk
+wine afore it will go near to remove his fit if i can recover
+him and keep him tame i will not take too much for
+him he shall pay for him that hath him and that soundly
+
+cal thou dost me yet but little hurt thou wilt anon i          75
+know it by thy trembling now prosper works upon thee
+
+ste come on your ways open your mouth here is that
+which will give language to you cat open your mouth this
+will shake your shaking i can tell you and that soundly
+you cannot tell whos your friend open your chaps again           80
+
+trin i should know that voice it should bebut he
+is drowned and these are devilso defend me
+
+ste four legs and two voicesa most delicate monster
+his forward voice now is to speak well of his friend
+his backward voice is to utter foul speeches and to detract        85
+if all the wine in my bottle will recover him i will help
+his ague comeamen i will pour some in thy other
+mouth
+
+trin stephano
+
+ste doth thy other mouth call me mercy mercy                  90
+this is a devil and no monster i will leave him i have
+no long spoon
+
+trin stephano if thou beest stephano touch me
+and speak to me for i am trinculobe not afeardthy
+good friend trinculo                                               95
+
+ste if thou beest trinculo come forth ill pull thee
+by the lesser legs if any be trinculos legs these are they
+thou art very trinculo indeed how earnest thou to be
+the siege of this mooncalf can he vent trinculos
+
+trin i took him to be killed with a thunderstroke             100
+but art thou not drowned stephano i hope now thou
+art not drowned is the storm overblown i hid me
+under the dead mooncalfs gaberdine for fear of the storm
+and art thou living stephano o stephano two neapolitans
+scaped                                                            105
+
+ste prithee do not turn me about my stomach is not
+constant
+
+cal aside these be fine things an if they be not sprites
+thats a brave god and bears celestial liquor
+i will kneel to him                                               110
+
+ste how didst thou scape how camest thou hither
+swear by this bottle how thou camest hither i escaped
+upon a butt of sack which the sailors heaved oerboard by
+this bottle which i made of the bark of a tree with mine
+own hands since i was cast ashore                                115
+
+cal ill swear upon that bottle to be thy true subject
+for the liquor is not earthly
+
+ste here swear then how thou escapedst
+
+trin swum ashore man like a duck i can swim
+like a duck ill be sworn                                        120
+
+ste here kiss the book though thou canst swim
+like a duck thou art made like a goose
+
+trin o stephano hast any more of this
+
+ste the whole butt man my cellar is in a rock by
+the seaside where my wine is hid how now mooncalf            125
+how does thine ague
+
+cal hast thou not droppd from heaven
+
+ste out o the moon i do assure thee i was the man
+i the moon when time was
+
+cal i have seen thee in her and i do adore thee               130
+my mistress showd me thee and thy dog and thy bush
+
+ste come swear to that kiss the book i will furnish
+it anon with new contents swear
+
+trin by this good light this is a very shallow monster
+i afeard of him a very weak monster the                          135
+man i the moon a most poor credulous monster well
+drawn monster in good sooth
+
+cal ill show thee every fertile inch o th island
+and i will kiss thy foot i prithee be my god
+
+trin by this light a most perfidious and drunken               140
+monster whens gods asleep hell rob his bottle
+
+cal ill kiss thy foot ill swear myself thy subject
+
+ste come on then down and swear
+
+trin i shall laugh myself to death at this puppyheaded
+monster a most scurvy monster i could find in                    145
+my heart to beat him
+
+ste come kiss
+
+trin but that the poor monsters in drink an abominable
+monster
+
+cal ill show thee the best springs ill pluck thee berries   150
+ill fish for thee and get thee wood enough
+a plague upon the tyrant that i serve
+ill bear him no more sticks but follow thee
+thou wondrous man
+
+trin a most ridiculous monster to make a wonder                155
+of a poor drunkard
+
+cal i prithee let me bring thee where crabs grow
+and i with my long nails will dig thee pignuts
+show thee a jays nest and instruct thee how
+to snare the nimble marmoset ill bring thee                      160
+to clustering filberts and sometimes ill get thee
+young scamels from the rock wilt thou go with me
+
+ste i prithee now lead the way without any more
+talking trinculo the king and all our company else being
+drowned we will inherit here here bear my bottle fellow        165
+trinculo well fill him by and by again
+
+cal sings drunkenly farewell master farewell farewell
+
+trin a howling monster a drunken monster
+
+cal no more dams ill make for fish
+                nor fetch in firing                                170
+                at requiring
+             nor scrape trencher nor wash dish
+                ban ban cacaliban
+                has a new masterget a new man
+
+freedom heyday heyday freedom freedom heyday              175
+freedom
+
+ste o brave monster lead the way    exeunt
+
+
+  notes ii 2
+
+  4 nor f1 f2 not f3 f4
+  15 and now pope sent edd conj so dryden
+  21 foul full upton conj
+  35 thunder capell
+  38 dregs drench collier ms
+  40 scene iii pope
+  a bottle in his hand capell
+  46 and marian mirian pope
+  56 savages salvages ff
+  60 ats nostrils edd at nostrils f1 at nostrils f2 f3 f4
+    at his nostrils pope
+  78 you cat you cat ff a cat hanmer your cat edd conj
+  84 well f1 om f2 f3 f4
+  115 116 steevens prints as verse ill  thy true  earthly
+  118 swear then how thou escapedst swear then how escapedst
+    thou pope
+  119 swum swom ff
+  131 and thy dog and thy bush thy dog and bush steevens
+  133 new f1 the new f2 f3 f4
+  135 weak f1 shallow f2 f3 f4
+  138 island f1 isle f2 f3 f4
+  150154 157162 printed as verse by pope after dryden
+  162 scamels shamois theobald seamalls stannels id conj
+  163 ste f1 cal f2 f3 f4
+  165 before here bear my bottle capell inserts to cal
+    see note xii
+  172 trencher pope after dryden trenchering ff
+  175 heyday rowe highday ff
+
+
+
+
+act iii
+
+
+scene i before prosperos cell
+
+  enter ferdinand bearing a log
+
+fer there be some sports are painful and their labour
+delight in them sets off some kinds of baseness
+are nobly undergone and most poor matters
+point to rich ends this my mean task
+would be as heavy to me as odious but                               5
+the mistress which i serve quickens whats dead
+and makes my labours pleasures o she is
+ten times more gentle than her fathers crabbed
+and hes composed of harshness i must remove
+some thousands of these logs and pile them up                     10
+upon a sore injunction my sweet mistress
+weeps when she sees me work and says such baseness
+had never like executor i forget
+but these sweet thoughts do even refresh my labours
+most busy lest when i do it
+
+  enter miranda and prospero at a distance unseen
+
+mir                  alas now pray you                        15
+work not so hard i would the lightning had
+burnt up those logs that you are enjoind to pile
+pray set it down and rest you when this burns
+twill weep for having wearied you my father
+is hard at study pray now rest yourself                         20
+hes safe for these three hours
+
+fer                         o most dear mistress
+the sun will set before i shall discharge
+what i must strive to do
+
+mir                  if youll sit down
+ill bear your logs the while pray give me that
+ill carry it to the pile
+
+fer                   no precious creature                     25
+i had rather crack my sinews break my back
+than you should such dishonour undergo
+while i sit lazy by
+
+mir             it would become me
+as well as it does you and i should do it
+with much more ease for my good will is to it                     30
+and yours it is against
+
+pros                poor worm thou art infected
+this visitation shows it
+
+mir                  you look wearily
+
+fer no noble mistress tis fresh morning with me
+when you are by at night i do beseech you
+chiefly that i might set it in my prayers                        35
+what is your name
+
+mir           miranda o my father
+i have broke your hest to say so
+
+fer                          admired miranda
+indeed the top of admiration worth
+whats dearest to the world full many a lady
+i have eyed with best regard and many a time                       40
+the harmony of their tongues hath into bondage
+brought my too diligent ear for several virtues
+have i liked several women never any
+with so full soul but some defect in her
+did quarrel with the noblest grace she owed                        45
+and put it to the foil but you o you
+so perfect and so peerless are created
+of every creatures best
+
+mir             i do not know
+one of my sex no womans face remember
+save from my glass mine own nor have i seen                      50
+more that i may call men than you good friend
+and my dear father how features are abroad
+i am skilless of but by my modesty
+the jewel in my dower i would not wish
+any companion in the world but you                                 55
+nor can imagination form a shape
+besides yourself to like of but i prattle
+something too wildly and my fathers precepts
+i therein do forget
+
+fer             i am in my condition
+a prince miranda i do think a king                              60
+i would not soand would no more endure
+this wooden slavery than to suffer
+the fleshfly blow my mouth hear my soul speak
+the very instant that i saw you did
+my heart fly to your service there resides                        65
+to make me slave to it and for your sake
+am i this patient logman
+
+mir                   do you love me
+
+fer o heaven o earth bear witness to this sound
+and crown what i profess with kind event
+if i speak true if hollowly invert                                70
+what best is boded me to mischief i
+beyond all limit of what else i the world
+do love prize honour you
+
+mir                    i am a fool
+to weep at what i am glad of
+
+pros                     fair encounter
+of two most rare affections heavens rain grace                     75
+on that which breeds between em
+
+fer                          wherefore weep you
+
+mir at mine unworthiness that dare not offer
+what i desire to give and much less take
+what i shall die to want but this is trifling
+and all the more it seeks to hide itself                           80
+the bigger bulk it shows hence bashful cunning
+and prompt me plain and holy innocence
+i am your wife if you will marry me
+if not ill die your maid to be your fellow
+you may deny me but ill be your servant                          85
+whether you will or no
+
+fer                my mistress dearest
+and i thus humble ever
+
+mir                my husband then
+
+fer ay with a heart as willing
+as bondage eer of freedom heres my hand
+
+mir and mine with my heart int and now farewell               90
+till half an hour hence
+
+fer                 a thousand thousand
+
+    exeunt fer and mir severally
+
+pros so glad of this as they i cannot be
+who are surprised withal but my rejoicing
+at nothing can be more ill to my book
+for yet ere suppertime must i perform                            95
+much business appertaining    exit
+
+
+  notes iii 1
+
+  1 and but pope
+  2 sets rowe set ff
+  4 5 my  odious my mean task would be as heavy to me as
+    tis odious pope
+  9 remove move pope
+  14 labours labour hanmer
+  15 most busy lest f1 most busy least f2 f3 f4 least busy
+    pope most busieless theobald most busiest holt white conj
+    most busy felt staunton most busy still staunton conj
+    most busyblest collier ms most busiliest bullock conj
+  most busy lest when i do doe f1 f2 f3 it most busy when
+    least i do it brae conj most busiest when idlest spedding
+    conj most busy left when idlest edd conj see note xiii
+  at a distance unseen rowe
+  17 you are f1 thou art f2 f3 f4
+  31 it is is it steevens conj ed 1 2 and 3 om steevens
+    ed 4 farmer conj
+  34 35 i do beseech youchiefly i do beseech you chiefly ff
+  59 i therein do i do pope therein steevens
+  62 wooden wodden f1
+  than to than i would pope
+  72 what else aught else malone conj withdrawn
+  80 seeks seekd f3 f4
+  88 as f1 so f2 f3 f4
+  91 severally capell
+  93 withal theobald with all ff
+
+
+scene ii another part of the island
+
+  enter caliban stephano and trinculo
+
+ste tell not mewhen the butt is out we will drink
+water not a drop before therefore bear up and board em
+servantmonster drink to me
+
+trin servantmonster the folly of this island they
+say theres but five upon this isle we are three of them if        5
+th other two be brained like us the state totters
+
+ste drink servantmonster when i bid thee thy eyes
+are almost set in thy head
+
+trin where should they be set else he were a brave
+monster indeed if they were set in his tail                       10
+
+ste my manmonster hath drowned his tongue in sack
+for my part the sea cannot drown me i swam ere i could
+recover the shore fiveandthirty leagues off and on by
+this light thou shalt be my lieutenant monster or my
+standard                                                           15
+
+trin your lieutenant if you list hes no standard
+
+ste well not run monsieur monster
+
+trin nor go neither but youll lie like dogs and
+yet say nothing neither
+
+ste mooncalf speak once in thy life if thou beest a           20
+good mooncalf
+
+cal how does thy honour let me lick thy shoe
+ill not serve him he is not valiant
+
+trin thou liest most ignorant monster i am in case
+to justle a constable why thou debauched fish thou was          25
+there ever man a coward that hath drunk so much sack as
+i today wilt thou tell a monstrous lie being but half a
+fish and half a monster
+
+cal lo how he mocks me wilt thou let him my lord
+
+trin lord quoth he that a monster should be                  30
+such a natural
+
+cal lo lo again bite him to death i prithee
+
+ste trinculo keep a good tongue in your head if you
+prove a mutineerthe next tree the poor monsters my
+subject and he shall not suffer indignity                         35
+
+cal i thank my noble lord wilt thou be pleased to
+hearken once again to the suit i made to thee
+
+ste marry will i kneel and repeat it i will stand
+and so shall trinculo
+
+  enter ariel invisible
+
+cal as i told thee before i am subject to a tyrant a           40
+sorcerer that by his cunning hath cheated me of the island
+
+ari thou liest
+
+cal           thou liest thou jesting monkey thou
+i would my valiant master would destroy thee
+i do not lie
+
+ste trinculo if you trouble him any more ins tale by          45
+this hand i will supplant some of your teeth
+
+trin why i said nothing
+
+ste mum then and no more proceed
+
+cal i say by sorcery he got this isle
+from me he got it if thy greatness will                            50
+revenge it on himfor i know thou darest
+but this thing dare not
+
+ste thats most certain
+
+cal thou shalt be lord of it and ill serve thee
+
+ste how now shall this be compassed canst thou                  55
+bring me to the party
+
+cal yea yea my lord ill yield him thee asleep
+where thou mayst knock a nail into his head
+
+ari thou liest thou canst not
+
+cal what a pied ninnys this thou scurvy patch                 60
+i do beseech thy greatness give him blows
+and take his bottle from him when thats gone
+he shall drink nought but brine for ill not show him
+where the quick freshes are
+
+ste trinculo run into no further danger interrupt the          65
+monster one word further and by this hand ill turn my
+mercy out o doors and make a stockfish of thee
+
+trin why what did i i did nothing ill go farther
+off
+
+ste didst thou not say he lied                                  70
+
+ari thou liest
+
+ste do i so take thou that beats him as you
+like this give me the lie another time
+
+trin i did not give the lie out o your wits and
+hearing too a pox o your bottle this can sack and                75
+drinking do a murrain on your monster and the devil
+take your fingers
+
+cal ha ha ha
+
+ste now forward with your tale prithee stand farther
+off                                                                80
+
+cal beat him enough after a little time
+ill beat him too
+
+ste stand farther come proceed
+
+cal why as i told thee tis a custom with him
+i th afternoon to sleep there thou mayst brain him
+having first seized his books or with a log                        85
+batter his skull or paunch him with a stake
+or cut his wezand with thy knife remember
+first to possess his books for without them
+hes but a sot as i am nor hath not
+one spirit to command they all do hate him                         90
+as rootedly as i burn but his books
+he has brave utensilsfor so he calls them
+which when he has a house hell deck withal
+and that most deeply to consider is
+the beauty of his daughter he himself                              95
+calls her a nonpareil i never saw a woman
+but only sycorax my dam and she
+but she as far surpasseth sycorax
+as greatst does least
+
+ste                is it so brave a lass
+
+cal ay lord she will become thy bed i warrant               100
+and bring thee forth brave brood
+
+ste monster i will kill this man his daughter and i
+will be king and queensave our gracesand trinculo
+and thyself shall be viceroys dost thou like the plot
+trinculo                                                          105
+
+trin excellent
+
+ste give me thy hand i am sorry i beat thee but
+while thou livest keep a good tongue in thy head
+
+cal within this half hour will he be asleep
+wilt thou destroy him then
+
+ste                    ay on mine honour                      110
+
+ari this will i tell my master
+
+cal thou makest me merry i am full of pleasure
+let us be jocund will you troll the catch
+you taught me but whileere
+
+ste at thy request monster i will do reason any              115
+reason come on trinculo let us sing      sings
+
+  flout em and scout em and scout em and flout em
+  thought is free
+
+cal thats not the tune
+
+  ariel plays the tune on a tabor and pipe
+
+ste what is this same                                          120
+
+trin this is the tune of our catch played by the picture
+of nobody
+
+ste if thou beest a man show thyself in thy likeness
+if thou beest a devil taket as thou list
+
+trin o forgive me my sins                                     125
+
+ste he that dies pays all debts i defy thee mercy
+upon us
+
+cal art thou afeard
+
+ste no monster not i
+
+cal be not afeard the isle is full of noises                  130
+sounds and sweet airs that give delight and hurt not
+sometimes a thousand twangling instruments
+will hum about mine ears and sometime voices
+that if i then had waked after long sleep
+will make me sleep again and then in dreaming                   135
+the clouds methought would open and show riches
+ready to drop upon me that when i waked
+i cried to dream again
+
+ste this will prove a brave kingdom to me where i
+shall have my music for nothing                                   140
+
+cal when prospero is destroyed
+
+ste that shall be by and by i remember the story
+
+trin the sound is going away lets follow it and
+after do our work
+
+ste lead monster well follow i would i could see            145
+this taborer he lays it on
+
+trin wilt come ill follow stephano    exeunt
+
+
+  notes iii 2
+
+  scene ii another theobald the other pope
+  enter  enter s and t reeling caliban following with a bottle
+    capell enter c s and t with a bottle johnson
+  8 head f1 heart f2 f3 f4
+  13 14 on by this light thou on by this light thou ff
+    on by this light thou capell
+  25 debauched deboshd ff
+  37 to the suit i made to thee the suit i made thee steevens
+    who prints all calibans speeches as verse
+  60 johnson conjectured that this line was spoken by stephano
+  68 farther f1 no further f2 f3 f4
+  72 beats him rowe
+  84 there then collier ms
+  89 nor and pope
+  93 deck deckt hanmer
+  96 i never saw a woman i neer saw woman pope
+  99 greatst does least greatest does the least rowe
+  115 116 printed as verse in ff
+  115 any f1 and f2 f3 f4
+  117 scout em and scout em pope cout em and skowt em ff
+  125 sins sin f4
+  132 twangling twanging pope
+  133 sometime f1 sometimes f2 f3 f4
+  137 that om pope
+  147 trin will come ill follow stephano trin wilt come
+    ste ill follow capell ste  wilt come
+    trin ill follow stephano ritson conj
+
+
+scene iii another part of the island
+
+  enter alonso sebastian antonio gonzalo adrian francisco
+  and others
+
+gon byr lakin i can go no further sir
+my old bones ache heres a maze trod indeed
+through forthrights and meanders by your patience
+i needs must rest me
+
+alon             old lord i cannot blame thee
+who am myself attachd with weariness                               5
+to the dulling of my spirits sit down and rest
+even here i will put off my hope and keep it
+no longer for my flatterer he is drownd
+whom thus we stray to find and the sea mocks
+our frustrate search on land well let him go                     10
+
+ant aside to seb i am right glad that hes so out of hope
+do not for one repulse forego the purpose
+that you resolved to effect
+
+seb aside to ant the next advantage
+will we take throughly
+
+ant aside to seb let it be tonight
+for now they are oppressd with travel they                       15
+will not nor cannot use such vigilance
+as when they are fresh
+
+seb aside to ant i say tonight no more
+
+  solemn and strange music
+
+alon what harmony is thismy good friends hark
+
+gon marvellous sweet music
+
+  enter prospero above invisible enter several strange shapes
+  bringing in a banquet they dance about it with gentle actions of
+  salutation and inviting the king c to eat they depart
+
+alon give us kind keepers heavenswhat were these            20
+
+seb a living drollery now i will believe
+that there are unicorns that in arabia
+there is one tree the phœnix throne one phœnix
+at this hour reigning there
+
+ant                     ill believe both
+and what does else want credit come to me                         25
+and ill be sworn tis true travellers neer did lie
+though fools at home condemn em
+
+gon                          if in naples
+i should report this now would they believe me
+if i should say i saw such islanders
+for certes these are people of the island                      30
+who though they are of monstrous shape yet note
+their manners are more gentlekind than of
+our human generation you shall find
+many nay almost any
+
+pros              aside honest lord
+thou hast said well for some of you there present                  35
+are worse than devils
+
+alon              i cannot too much muse
+such shapes such gesture and such sound expressing
+although they want the use of tonguea kind
+of excellent dumb discourse
+
+pros                    aside praise in departing
+
+fran they vanishd strangely
+
+seb                         no matter since                     40
+they have left their viands behind for we have stomachs
+willt please you taste of what is here
+
+alon                                not i
+
+gon faith sir you need not fear when we were boys
+who would believe that there were mountaineers
+dewlappd like bulls whose throats had hanging at em             45
+wallets of flesh or that there were such men
+whose heads stood in their breasts which now we find
+each putterout of five for one will bring us
+good warrant of
+
+alon        i will stand to and feed
+although my last no matter since i feel                           50
+the best is past brother my lord the duke
+stand to and do as we
+
+  thunder and lightning enter ariel like a harpy claps his
+  wings upon the table and with a quaint device the banquet
+  vanishes
+
+ari you are three men of sin whom destiny
+that hath to instrument this lower world
+and what is intthe neversurfeited sea                          55
+hath caused to belch up you and on this island
+where man doth not inhabityou mongst men
+being most unfit to live i have made you mad
+and even with suchlike valour men hang and drown
+their proper selves    alon seb c draw their swords
+                   you fools i and my fellows                      60
+are ministers of fate the elements
+of whom your swords are temperd may as well
+wound the loud winds or with bemockdat stabs
+kill the stillclosing waters as diminish
+one dowle thats in my plume my fellowministers                   65
+are like invulnerable if you could hurt
+your swords are now too massy for your strengths
+and will not be uplifted but remember
+for thats my business to youthat you three
+from milan did supplant good prospero                              70
+exposed unto the sea which hath requit it
+him and his innocent child for which foul deed
+the powers delaying not forgetting have
+incensed the seas and shores yea all the creatures
+against your peace thee of thy son alonso                        75
+they have bereft and do pronounce by me
+lingering perditionworse than any death
+can be at onceshall step by step attend
+you and your ways whose wraths to guard you from
+which here in this most desolate isle else falls                  80
+upon your headsis nothing but heartsorrow
+and a clear life ensuing
+
+  he vanishes in thunder then to soft music enter the shapes
+  again and dance with mocks and mows and carrying out the
+  table
+
+pros bravely the figure of this harpy hast thou
+performd my ariel a grace it had devouring
+of my instruction hast thou nothing bated                           85
+in what thou hadst to say so with good life
+and observation strange my meaner ministers
+their several kinds have done my high charms work
+and these mine enemies are all knit up
+in their distractions they now are in my power                    90
+and in these fits i leave them while i visit
+young ferdinandwhom they suppose is drownd
+and his and mine loved darling    exit above
+
+gon i the name of something holy sir why stand you
+in this strange stare
+
+alon              o it is monstrous monstrous                 95
+methought the billows spoke and told me of it
+the winds did sing it to me and the thunder
+that deep and dreadful organpipe pronounced
+the name of prosper it did bass my trespass
+therefore my son i th ooze is bedded and                        100
+ill seek him deeper than eer plummet sounded
+and with him there lie mudded    exit
+
+seb                       but one fiend at a time
+ill fight their legions oer
+
+ant                       ill be thy second
+
+    exeunt seb and ant
+
+gon all three of them are desperate their great guilt
+like poison given to work a great time after                      105
+now gins to bite the spirits i do beseech you
+that are of suppler joints follow them swiftly
+and hinder them from what this ecstasy
+may now provoke them to
+
+adr                 follow i pray you    exeunt
+
+
+  notes iii 3
+
+  2 ache ake f2 f3 f4 akes f1
+  3 forthrights f2 f3 f4 fourth rights f1
+  8 flatterer f1 flatterers f2 f3 f4
+  17 prospero above malone prosper on the top ff see note xiv
+  20 were f1 f2 f3 are f4
+  26 tis true to t steevens conj
+  did lie lied hanmer
+  29 islanders f2 f3 f4 islands f1
+  32 gentlekind theobald gentle kind ff gentle kind rowe
+  36 muse f1 f2 f3 muse f4 muse capell
+  48 of five for one ff on five for one theobald
+    of one for five malone thirlby conj see note xv
+  4951 i will  past mason conjectured that these lines formed
+    a rhyming couplet
+  53 scene iv pope
+  54 instrument instruments f4
+  56 belch up you f1 f2 f3 belch you up f4 belch up theobald
+  60  draw their swords hanmer
+  65 dowle down pope
+  plume rowe plumbe f1 f2 f3 plumb f4
+  67 strengths strength f4
+  79 wraths wrath theobald
+  81 heartsorrow edd heartssorrow ff heartssorrow rowe
+    hearts sorrow pope
+  82 mocks mopps theobald
+  86 life list johnson conj
+  90 now om pope
+  92 whom who hanmer
+  93 mine my rowe
+  exit above theobald
+  94 something holy sir something holy sir f4
+  99 bass johnson base ff
+  106 do om pope
+
+
+
+
+act iv
+
+
+scene i before prosperos cell
+
+  enter prospero ferdinand and miranda
+
+pros if i have too austerely punishd you
+your compensation makes amends for i
+have given you here a third of mine own life
+or that for which i live who once again
+i tender to thy hand all thy vexations                              5
+were but my trials of thy love and thou
+hast strangely stood the test here afore heaven
+i ratify this my rich gift o ferdinand
+do not smile at me that i boast her off
+for thou shalt find she will outstrip all praise                   10
+and make it halt behind her
+
+fer                     i do believe it
+against an oracle
+
+pros          then as my gift and thine own acquisition
+worthily purchased take my daughter but
+if thou dost break her virginknot before                           15
+all sanctimonious ceremonies may
+with full and holy rite be ministerd
+no sweet aspersion shall the heavens let fall
+to make this contract grow but barren hate
+soureyed disdain and discord shall bestrew                         20
+the union of your bed with weeds so loathly
+that you shall hate it both therefore take heed
+as hymens lamps shall light you
+
+fer                          as i hope
+for quiet days fair issue and long life
+with such love as tis now the murkiest den                       25
+the most opportune place the strongst suggestion
+our worser genius can shall never melt
+mine honour into lust to take away
+the edge of that days celebration
+when i shall think or phœbus steeds are founderd                30
+or night kept chaind below
+
+pros                    fairly spoke
+sit then and talk with her she is thine own
+what ariel my industrious servant ariel
+
+  enter ariel
+
+ari what would my potent master here i am
+
+pros thou and thy meaner fellows your last service               35
+did worthily perform and i must use you
+in such another trick go bring the rabble
+oer whom i give thee power here to this place
+incite them to quick motion for i must
+bestow upon the eyes of this young couple                           40
+some vanity of mine art it is my promise
+and they expect it from me
+
+ari                    presently
+
+pros ay with a twink
+
+ari before you can say come and go
+            and breathe twice and cry so so                   45
+            each one tripping on his toe
+            will be here with mop and mow
+            do you love me master no
+
+pros dearly my delicate ariel do not approach
+till thou dost hear me call
+
+ari                     well i conceive    exit            50
+
+pros look thou be true do not give dalliance
+too much the rein the strongest oaths are straw
+to the fire i the blood be more abstemious
+or else good night your vow
+
+fer                      i warrant you sir
+the white cold virgin snow upon my heart                            55
+abates the ardour of my liver
+
+pros                      well
+now come my ariel bring a corollary
+rather than want a spirit appear and pertly
+no tongue all eyes be silent                  soft music
+
+    enter iris
+
+  iris ceres most bounteous lady thy rich leas                 60
+    of wheat rye barley vetches oats and pease
+    thy turfy mountains where live nibbling sheep
+    and flat meads thatchd with stover them to keep
+    thy banks with pioned and twilled brims
+    which spongy april at thy best betrims                         65
+    to make cold nymphs chaste crowns and thy broomgroves
+    whose shadow the dismissed bachelor loves
+    being lasslorn thy poleclipt vineyard
+    and thy seamarge sterile and rockyhard
+    where thou thyself dost airthe queen o the sky             70
+    whose watery arch and messenger am i
+    bids thee leave these and with her sovereign grace
+    here on this grassplot in this very place
+    to come and sporther peacocks fly amain
+    approach rich ceres her to entertain                         75
+
+    enter ceres
+
+  cer hail manycolourd messenger that neer
+    dost disobey the wife of jupiter
+    who with thy saffron wings upon my flowers
+    diffusest honeydrops refreshing showers
+    and with each end of thy blue bow dost crown                    80
+    my bosky acres and my unshrubbd down
+    rich scarf to my proud earthwhy hath thy queen
+    summond me hither to this shortgrassd green
+
+  iris a contract of true love to celebrate
+    and some donation freely to estate                              85
+    on the blest lovers
+
+  cer             tell me heavenly bow
+    if venus or her son as thou dost know
+    do now attend the queen since they did plot
+    the means that dusky dis my daughter got
+    her and her blind boys scandald company                       90
+    i have forsworn
+
+  iris        of her society
+    be not afraid i met her deity
+    cutting the clouds towards paphos and her son
+    dovedrawn with her here thought they to have done
+    some wanton charm upon this man and maid                       95
+    whose vows are that no bedright shall be paid
+    till hymens torch be lighted but in vain
+    marss hot minion is returned again
+    her waspishheaded son has broke his arrows
+    swears he will shoot no more but play with sparrows          100
+    and be a boy right out
+
+  cer                highst queen of state
+    great juno comes i know her by her gait
+
+    enter juno
+
+  juno how does my bounteous sister go with me
+    to bless this twain that they may prosperous be
+    and honourd in their issue         they sing             105
+
+  juno honour riches marriageblessing
+            long continuance and increasing
+            hourly joys be still upon you
+            juno sings her blessings on you
+
+  cer  earths increase foison plenty                         110
+            barns and garners never empty
+            vines with clustering bunches growing
+            plants with goodly burthen bowing
+            spring come to you at the farthest
+            in the very end of harvest                            115
+            scarcity and want shall shun you
+            ceres blessing so is on you
+
+fer this is a most majestic vision and
+harmonious charmingly may i be bold
+to think these spirits
+
+pros               spirits which by mine art                   120
+i have from their confines calld to enact
+my present fancies
+
+fer            let me live here ever
+so rare a wonderd father and a wife
+makes this place paradise
+
+    juno and ceres whisper and send iris on employment
+
+pros                  sweet now silence
+juno and ceres whisper seriously                                  125
+theres something else to do hush and be mute
+or else our spell is marrd
+
+  iris you nymphs calld naiads of the windring brooks
+            with your sedged crowns and everharmless looks
+            leave your crisp channels and on this green land      130
+            answer your summons juno does command
+            come temperate nymphs and help to celebrate
+            a contract of true love be not too late
+
+    enter certain nymphs
+
+            you sunburnt sicklemen of august weary
+            come hither from the furrow and be merry             135
+            make holiday your ryestraw hats put on
+            and these fresh nymphs encounter every one
+            in country footing
+
+    enter certain reapers properly habited they join with the
+    nymphs in a graceful dance towards the end whereof prospero
+    starts suddenly and speaks after which to a strange hollow
+    and confused noise they heavily vanish
+
+pros aside i had forgot that foul conspiracy
+of the beast caliban and his confederates                          140
+against my life the minute of their plot
+is almost come to the spirits well done avoid no more
+
+fer this is strange your fathers in some passion
+that works him strongly
+
+mir                 never till this day
+saw i him touchd with anger so distemperd                       145
+
+pros you do look my son in a moved sort
+as if you were dismayd be cheerful sir
+our revels now are ended these our actors
+as i foretold you were all spirits and
+are melted into air into thin air                                150
+and like the baseless fabric of this vision
+the cloudcappd towers the gorgeous palaces
+the solemn temples the great globe itself
+yea all which it inherit shall dissolve
+and like this insubstantial pageant faded                        155
+leave not a rack behind we are such stuff
+as dreams are made on and our little life
+is rounded with a sleep sir i am vexd
+bear with my weakness my old brain is troubled
+be not disturbd with my infirmity                                160
+if you be pleased retire into my cell
+and there repose a turn or two ill walk
+to still my beating mind
+
+fer mir           we wish your peace    exeunt
+
+pros come with a thought i thank thee ariel come
+
+  enter ariel
+
+ari thy thoughts i cleave to whats thy pleasure              165
+
+pros                                             spirit
+we must prepare to meet with caliban
+
+ari ay my commander when i presented ceres
+i thought to have told thee of it but i feard
+lest i might anger thee
+
+pros say again where didst thou leave these varlets           170
+
+ari i told you sir they were redhot with drinking
+so full of valour that they smote the air
+for breathing in their faces beat the ground
+for kissing of their feet yet always bending
+towards their project then i beat my tabor                       175
+at which like unbackd colts they prickd their ears
+advanced their eyelids lifted up their noses
+as they smelt music so i charmd their ears
+that calflike they my lowing followd through
+toothd briers sharp furzes pricking goss and thorns           180
+which enterd their frail shins at last i left them
+i the filthymantled pool beyond your cell
+there dancing up to the chins that the foul lake
+oerstunk their feet
+
+pros             this was well done my bird
+thy shape invisible retain thou still                             185
+the trumpery in my house go bring it hither
+for stale to catch these thieves
+
+ari                          i go i go    exit
+
+pros a devil a born devil on whose nature
+nurture can never stick on whom my pains
+humanely taken all all lost quite lost                         190
+and as with age his body uglier grows
+so his mind cankers i will plague them all
+even to roaring
+
+  reenter ariel loaden with glistering apparel c
+
+come hang them on this line
+
+  prospero and ariel remain invisible enter caliban stephano
+  and trinculo all wet
+
+cal pray you tread softly that the blind mole may not
+hear a foot fall we now are near his cell                        195
+
+ste monster your fairy which you say is a harmless
+fairy has done little better than played the jack with us
+
+trin monster i do smell all horsepiss at which my
+nose is in great indignation
+
+ste so is mine do you hear monster if i should               200
+take a displeasure against you look you
+
+trin thou wert but a lost monster
+
+cal good my lord give me thy favour still
+be patient for the prize ill bring thee to
+shall hoodwink this mischance therefore speak softly             205
+alls hushd as midnight yet
+
+trin ay but to lose our bottles in the pool
+
+ste there is not only disgrace and dishonour in that
+monster but an infinite loss
+
+trin thats more to me than my wetting yet this is             210
+your harmless fairy monster
+
+ste i will fetch off my bottle though i be oer ears for
+my labour
+
+cal prithee my king be quiet seest thou here
+this is the mouth o the cell no noise and enter                215
+do that good mischief which may make this island
+thine own for ever and i thy caliban
+for aye thy footlicker
+
+ste give me thy hand i do begin to have bloody
+thoughts                                                          220
+
+trin o king stephano o peer o worthy stephano
+look what a wardrobe here is for thee
+
+cal let it alone thou fool it is but trash
+
+trin o ho monster we know what belongs to a frippery
+o king stephano                                                   225
+
+ste put off that gown trinculo by this hand ill
+have that gown
+
+trin thy grace shall have it
+
+cal the dropsy drown this fool what do you mean
+to dote thus on such luggage lets alone                         230
+and do the murder first if he awake
+from toe to crown hell fill our skins with pinches
+make us strange stuff
+
+ste be you quiet monster mistress line is not this
+my jerkin now is the jerkin under the line now jerkin          235
+you are like to lose your hair and prove a bald jerkin
+
+trin do do we steal by line and level ant like your
+grace
+
+ste i thank thee for that jest heres a garment fort
+wit shall not go unrewarded while i am king of this country       240
+steal by line and level is an excellent pass of pate
+theres another garment fort
+
+trin monster come put some lime upon your fingers
+and away with the rest
+
+cal i will have none ont we shall lose our time              245
+and all be turnd to barnacles or to apes
+with foreheads villanous low
+
+ste monster layto your fingers help to bear this
+away where my hogshead of wine is or ill turn you out
+of my kingdom go to carry this                                  250
+
+trin and this
+
+ste ay and this
+
+  a noise of hunters heard enter divers spirits in shape of
+  dogs and hounds and hunt them about prospero and ariel setting
+  them on
+
+pros hey mountain hey
+
+ari silver there it goes silver
+
+pros fury fury there tyrant there hark hark              255
+                        cal ste and trin are driven out
+
+go charge my goblins that they grind their joints
+with dry convulsions shorten up their sinews
+with aged cramps and more pinchspotted make them
+then pard or cat o mountain
+
+ari                      hark they roar
+
+pros let them be hunted soundly at this hour                   260
+lie at my mercy all mine enemies
+shortly shall all my labours end and thou
+shalt have the air at freedom for a little
+follow and do me service    exeunt
+
+
+  notes iv 1
+
+  3 a third a thread theobald the thread williams conj
+  4 who whom pope
+  7 test f1 rest f2 f3 f4
+  9 off f2 f3 f4 of f1
+  11 do om pope
+  13 gift rowe guest ff
+  14 but f1 om f2 f3 f4
+  25 tis is capell
+  30 phœbus phœbus f1 phœdus f2 f3 phœduus f4
+  34 scene ii pope
+  41 vanity rarity s walker conj
+  48 no no rowe
+  53 abstemious abstenious f1
+  60 scene iii a masque pope
+  thy f1 the f2 f3 f4
+  64 pioned pionied warburton peonied steevens
+  twilled tulipd rowe tilled capell holt conj lilied
+    steevens
+  66 broomgroves brown groves hanmer
+  68 poleclipt paleclipt hanmer
+  72 after this line ff have the stage direction juno descends
+  74 her rowe here ff
+  83 shortgrassd f3 f4 short grasd f1 f2 shortgrass pope
+  96 bedright bedrite singer
+  101 highst high pope
+  102 enter juno om ff
+  110 cer theobald om ff
+  foison f1 and foison f2 f3 f4
+  114 spring rain collier ms
+  119 charmingly charming lay hanmer charming lays warburton
+    harmoniously charming steevens conj
+  121 from their f1 from all their f2 f3 f4
+  123 wife f1 var rowe wise f1 var f2 f3 f4
+  124 makes make pope
+  sweet now silence now silence sweet hanmer
+  124 in ff the stage direction juno c follows line 127
+    capell made the change
+  128 windring winding rowe wandring steevens
+  129 sedged sedge collier ms
+  136 holiday holly day f1 f2 f3 holyday f4
+  139 scene iv pope
+  143 this is this for this s s walker conj
+  strange most strange hanmer
+  145 ff put a comma after anger warburton omitted it
+  146 do om pope see note xvi
+  151 this f1 their f2 f3 f4 th air visions warburton
+  156 rack f3 f4 racke f1 f2 track hanmer wreck dyce
+    malone conj
+  163 your f1 f2 f3 you f4
+  164 i thank thee ariel come i thank youariel come
+    theobald
+  169 lest f4 least f1 f2 f3
+  170 say again well say again capell
+  180 furzes rowe firzes ff
+  181 shins skins warburton conj note v 1 p 87
+  182 filthymantled filthy mantled ff filthymantled
+    steevens conj
+  184 feet fear spedding conj
+  190 all all are all malone conj
+  193 them on rowe on them ff
+  prospero  invisible theobald capell om ff
+  194 scene v pope
+  230 lets alone lets along theobald let it alone hanmer
+    let t alone collier see note xvii
+  246 to apes om to pope
+  255 stage direction added by theobald
+  256 they f1 f3 f4 thou f2
+  261 lie rowe lies ff
+
+
+
+
+act v
+
+
+scene i before the cell of prospero
+
+  enter prospero in his magic robes and ariel
+
+pros now does my project gather to a head
+my charms crack not my spirits obey and time
+goes upright with his carriage hows the day
+
+ari on the sixth hour at which time my lord
+you said our work should cease
+
+pros                       i did say so                          5
+when first i raised the tempest say my spirit
+how fares the king ands followers
+
+ari                            confined together
+in the same fashion as you gave in charge
+just as you left them all prisoners sir
+in the linegrove which weatherfends your cell                    10
+they cannot budge till your release the king
+his brother and yours abide all three distracted
+and the remainder mourning over them
+brimful of sorrow and dismay but chiefly
+him that you termd sir the good old lord gonzalo             15
+his tears run down his beard like winters drops
+from eaves of reeds your charm so strongly works em
+that if you now beheld them your affections
+would become tender
+
+pros            dost thou think so spirit
+
+ari mine would sir were i human
+
+pros                             and mine shall                 20
+hast thou which art but air a touch a feeling
+of their afflictions and shall not myself
+one of their kind that relish all as sharply
+passion as they be kindlier moved than thou art
+though with their high wrongs i am struck to the quick             25
+yet with my nobler reason gainst my fury
+do i take part the rarer action is
+in virtue than in vengeance they being penitent
+the sole drift of my purpose doth extend
+not a frown further go release them ariel                        30
+my charms ill break their senses ill restore
+and they shall be themselves
+
+ari                      ill fetch them sir    exit
+
+pros ye elves of hills brooks standing lakes and groves
+and ye that on the sands with printless foot
+do chase the ebbing neptune and do fly him                         35
+when he comes back you demipuppets that
+by moonshine do the green sour ringlets make
+whereof the ewe not bites and you whose pastime
+is to make midnight mushrooms that rejoice
+to hear the solemn curfew by whose aid                           40
+weak masters though ye bei have bedimmd
+the noontide sun calld forth the mutinous winds
+and twixt the green sea and the azured vault
+set roaring war to the dread rattling thunder
+have i given fire and rifted joves stout oak                      45
+with his own bolt the strongbased promontory
+have i made shake and by the spurs pluckd up
+the pine and cedar graves at my command
+have waked their sleepers oped and let em forth
+by my so potent art but this rough magic                           50
+i here abjure and when i have required
+some heavenly musicwhich even now i do
+to work mine end upon their senses that
+this airy charm is for ill break my staff
+bury it certain fathoms in the earth                               55
+and deeper than did ever plummet sound
+ill drown my book                    solemn music
+
+  reenter ariel before then alonso with a frantic gesture
+  attended by gonzalo sebastian and antonio in like manner
+  attended by adrian and francisco they all enter the circle
+  which prospero had made and there stand charmed which prospero
+  observing speaks
+
+a solemn air and the best comforter
+to an unsettled fancy cure thy brains
+now useless boild within thy skull there stand                  60
+for you are spellstoppd
+holy gonzalo honourable man
+mine eyes even sociable to the show of thine
+fall fellowly drops the charm dissolves apace
+and as the morning steals upon the night                           65
+melting the darkness so their rising senses
+begin to chase the ignorant fumes that mantle
+their clearer reason o good gonzalo
+my true preserver and a loyal sir
+to him thou followst i will pay thy graces                        70
+home both in word and deed most cruelly
+didst thou alonso use me and my daughter
+thy brother was a furtherer in the act
+thou art pinchd fort now sebastian flesh and blood
+you brother mine that entertaind ambition                       75
+expelld remorse and nature who with sebastian
+whose inward pinches therefore are most strong
+would here have killd your king i do forgive thee
+unnatural though thou art their understanding
+begins to swell and the approaching tide                           80
+will shortly fill the reasonable shore
+that now lies foul and muddy not one of them
+that yet looks on me or would know me ariel
+fetch me the hat and rapier in my cell
+i will discase me and myself present                               85
+as i was sometime milan quickly spirit
+thou shalt ere long be free
+
+ariel sings and helps to attire him
+
+    where the bee sucks there suck i
+    in a cowslips bell i lie
+    there i couch when owls do cry                                 90
+    on the bats back i do fly
+    after summer merrily
+merrily merrily shall i live now
+under the blossom that hangs on the bough
+
+pros why thats my dainty ariel i shall miss thee             95
+but yet thou shalt have freedom so so so
+to the kings ship invisible as thou art
+there shalt thou find the mariners asleep
+under the hatches the master and the boatswain
+being awake enforce them to this place                           100
+and presently i prithee
+
+ari i drink the air before me and return
+or ere your pulse twice beat    exit
+
+gon all torment trouble wonder and amazement
+inhabits here some heavenly power guide us                        105
+out of this fearful country
+
+pros                    behold sir king
+the wronged duke of milan prospero
+for more assurance that a living prince
+does now speak to thee i embrace thy body
+and to thee and thy company i bid                                  110
+a hearty welcome
+
+alon         whether thou best he or no
+or some enchanted trifle to abuse me
+as late i have been i not know thy pulse
+beats as of flesh and blood and since i saw thee
+the affliction of my mind amends with which                      115
+i fear a madness held me this must crave
+an if this be at alla most strange story
+thy dukedom i resign and do entreat
+thou pardon me my wrongs but how should prospero
+be living and be here
+
+pros              first noble friend                          120
+let me embrace thine age whose honour cannot
+be measured or confined
+
+gon                 whether this be
+or be not ill not swear
+
+pros                  you do yet taste
+some subtilties o the isle that will not let you
+believe things certain welcome my friends all                   125
+aside to seb and ant
+    but you my brace of lords were i so minded
+i here could pluck his highness frown upon you
+and justify you traitors at this time
+i will tell no tales
+
+seb aside    the devil speaks in him
+
+pros                                    no
+for you most wicked sir whom to call brother                     130
+would even infect my mouth i do forgive
+thy rankest faultall of them and require
+my dukedom of thee which perforce i know
+thou must restore
+
+alon          if thou best prospero
+give us particulars of thy preservation                           135
+how thou hast met us here who three hours since
+were wreckd upon this shore where i have lost
+how sharp the point of this remembrance is
+my dear son ferdinand
+
+pros              i am woe fort sir
+
+alon irreparable is the loss and patience                      140
+says it is past her cure
+
+pros                 i rather think
+you have not sought her help of whose soft grace
+for the like loss i have her sovereign aid
+and rest myself content
+
+alon                you the like loss
+
+pros as great to me as late and supportable                   145
+to make the dear loss have i means much weaker
+than you may call to comfort you for i
+have lost my daughter
+
+alon              a daughter
+o heavens that they were living both in naples
+the king and queen there that they were i wish                   150
+myself were mudded in that oozy bed
+where my son lies when did you lose you daughter
+
+pros in this last tempest i perceive these lords
+at this encounter do so much admire
+that they devour their reason and scarce think                    155
+their eyes do offices of truth their words
+are natural breath but howsoeer you have
+been justled from your senses know for certain
+that i am prospero and that very duke
+which was thrust forth of milan who most strangely                160
+upon this shore where you were wreckd was landed
+to be the lord ont no more yet of this
+for tis a chronicle of day by day
+not a relation for a breakfast nor
+befitting this first meeting welcome sir                        165
+this cells my court here have i few attendants
+and subjects none abroad pray you look in
+my dukedom since you have given me again
+i will requite you with as good a thing
+at least bring forth a wonder to content ye                       170
+as much as me my dukedom
+
+  here prospero discovers ferdinand and miranda playing at chess
+
+mir sweet lord you play me false
+
+fer                              no my dearst love
+i would not for the world
+
+mir yes for a score of kingdoms you should wrangle
+and i would call it fair play
+
+alon                      if this prove                         175
+a vision of the island one dear son
+shall i twice lose
+
+seb            a most high miracle
+
+fer though the seas threaten they are merciful
+i have cursed them without cause               kneels
+
+alon                          now all the blessings
+of a glad father compass thee about                               180
+arise and say how thou camest here
+
+mir                             o wonder
+how many goodly creatures are there here
+how beauteous mankind is o brave new world
+that has such people int
+
+pros                  tis new to thee
+
+alon what is this maid with whom thou wast at play             185
+your eldst acquaintance cannot be three hours
+is she the goddess that hath severd us
+and brought us thus together
+
+fer                      sir she is mortal
+but by immortal providence shes mine
+i chose her when i could not ask my father                         190
+for his advice nor thought i had one she
+is daughter to this famous duke of milan
+of whom so often i have heard renown
+but never saw before of whom i have
+received a second life and second father                          195
+this lady makes him to me
+
+alon                  i am hers
+but o how oddly will it sound that i
+must ask my child forgiveness
+
+pros                      there sir stop
+let us not burthen our remembrances with
+a heaviness thats gone
+
+gon                 i have inly wept                           200
+or should have spoke ere this look down you gods
+and on this couple drop a blessed crown
+for it is you that have chalkd forth the way
+which brought us hither
+
+alon                i say amen gonzalo
+
+gon was milan thrust from milan that his issue                 205
+should become kings of naples o rejoice
+beyond a common joy and set it down
+with gold on lasting pillars in one voyage
+did claribel her husband find at tunis
+and ferdinand her brother found a wife                           210
+where he himself was lost prospero his dukedom
+in a poor isle and all of us ourselves
+when no man was his own
+
+alon to fer and mir give me your hands
+let grief and sorrow still embrace his heart
+that doth not wish you joy
+
+gon                    be it so amen                          215
+
+  reenter ariel with the master and boatswain amazedly
+  following
+
+o look sir look sir here is more of us
+i prophesied if a gallows were on land
+this fellow could not drown now blasphemy
+that swearst grace oerboard not an oath on shore
+hast thou no mouth by land what is the news                      220
+
+boats the best news is that we have safely found
+our king and company the next our ship
+which but three glasses since we gave out split
+is tight and yare and bravely riggd as when
+we first put out to sea
+
+ari aside to pros sir all this service                    225
+have i done since i went
+
+pros aside to ari my tricksy spirit
+
+alon these are not natural events they strengthen
+from strange to stranger say how came you hither
+
+boats if i did think sir i were well awake
+ild strive to tell you we were dead of sleep                    230
+andhow we know notall clappd under hatches
+where but even now with strange and several noises
+of roaring shrieking howling jingling chains
+and more diversity of sounds all horrible
+we were awaked straightway at liberty                           235
+where we in all her trim freshly beheld
+our royal good and gallant ship our master
+capering to eye heron a trice so please you
+even in a dream were we divided from them
+and were brought moping hither
+
+ari aside to pros wast well done                         240
+
+pros aside to ari bravely my diligence thou shalt be free
+
+alon this is as strange a maze as eer men trod
+and there is in this business more than nature
+was ever conduct of some oracle
+must rectify our knowledge
+
+pros                   sir my liege                           245
+do not infest your mind with beating on
+the strangeness of this business at pickd leisure
+which shall be shortly single ill resolve you
+which to you shall seem probable of every
+these happend accidents till when be cheerful                  250
+and think of each thing well
+    aside to ari come hither spirit
+set caliban and his companions free
+untie the spell exit ariel how fares my gracious sir
+there are yet missing of your company
+some few odd lads that you remember not                           255
+
+  reenter ariel driving in caliban stephano and trinculo
+  in their stolen apparel
+
+ste every man shift for all the rest and let no man
+take care for himself for all is but fortune coragio
+bullymonster coragio
+
+trin if these be true spies which i wear in my head
+heres a goodly sight                                             260
+
+cal o setebos these be brave spirits indeed
+how fine my master is i am afraid
+he will chastise me
+
+seb             ha ha
+what things are these my lord antonio
+will money buy em
+
+ant            very like one of them                           265
+is a plain fish and no doubt marketable
+
+pros mark but the badges of these men my lords
+then say if they be true this misshapen knave
+his mother was a witch and one so strong
+that could control the moon make flows and ebbs                  270
+and deal in her command without her power
+these three have robbd me and this demidevil
+for hes a bastard onehad plotted with them
+to take my life two of these fellows you
+must know and own this thing of darkness i                        275
+acknowledge mine
+
+cal          i shall be pinchd to death
+
+alon is not this stephano my drunken butler
+
+seb he is drunk now where had he wine
+
+alon and trinculo is reeling ripe where should they
+find this grand liquor that hath gilded em                     280
+how camest thou in this pickle
+
+trin i have been in such a pickle since i saw you
+last that i fear me will never out of my bones i shall not
+fear flyblowing
+
+seb why how now stephano                                     285
+
+ste o touch me noti am not stephano but a cramp
+
+pros yould be king o the isle sirrah
+
+ste i should have been a sore one then
+
+alon this is a strange thing as eer i lookd on
+                                pointing to caliban
+
+pros he is as disproportiond in his manners                    290
+as in his shape go sirrah to my cell
+take with you your companions as you look
+to have my pardon trim it handsomely
+
+cal ay that i will and ill be wise hereafter
+and seek for grace what a thricedouble ass                       295
+was i to take this drunkard for a god
+and worship this dull fool
+
+pros                go to away
+
+alon hence and bestow your luggage where you found it
+
+seb or stole it rather    exeunt cal ste and trin
+
+pros sir i invite your highness and your train                 300
+to my poor cell where you shall take your rest
+for this one night which part of it ill waste
+with such discourse as i not doubt shall make it
+go quick away the story of my life
+and the particular accidents gone by                               305
+since i came to this isle and in the morn
+ill bring you to your ship and so to naples
+where i have hope to see the nuptial
+of these our dearbeloved solemnized
+and thence retire me to my milan where                            310
+every third thought shall be my grave
+
+alon                              i long
+to hear the story of your life which must
+take the ear strangely
+
+pros               ill deliver all
+and promise you calm seas auspicious gales
+and sail so expeditious that shall catch
+your royal fleet far off aside to ari my ariel chick       315
+that is thy charge then to the elements
+be free and fare thou well please you draw near
+    exeunt
+
+
+  notes v 1
+
+  7 together om pope
+  9 all all your pope
+  10 linegrove limegrove rowe
+  11 your f1 f2 you f3 f4
+  15 sir om pope
+  16 run runs f1
+  winters winter f4
+  23 f1 f2 put a comma after sharply f3 f4 omit it
+  24 passion passiond pope
+  26 gainst pope gainst f1 f2 against f3 f4
+  33 scene ii pope
+  37 green sour greensward douce conj
+  46 strongbased rowe strongbassd ff
+  58 scene iii pope
+  60 boild pope boile f1 f2 boil f3 f4
+  62 holy noble collier ms
+  63 show shew ff flow collier ms
+  64 fellowly fellow pope
+  68 o o my pope o thou s walker conj
+  69 sir servant collier ms
+  72 didst f3 f4 did f1 f2
+  74 sebastian flesh and blood sebastian flesh and blood
+    theobald
+  75 entertaind entertaine f1
+  76 who rowe whom ff
+  82 lies f3 f4 ly f1 f2
+  83 or eer collier ms
+  84 theobald gives as stage direction exit ariel and returns
+    immediately
+  88 suck lurk theobald
+  90 couch crowch f3 f4
+  capell punctuates there i couch when owls do cry
+  92 summer sunset theobald
+  106 behold lo pope
+  111 whether thou best where thou beest ff best thou pope
+    wher thou best capell
+  112 trifle devil collier ms
+  119 my thy collier ms
+  124 not f3 f4 nor f1 f2
+  132 fault faults f4
+  136 who f2 f3 f4 whom f1
+  145 and sir and capell
+  supportable f1 f2 insupportable f3 f4 portable steevens
+  148 my my only hanmer
+  a daughter only daughter hanmer daughter capell
+  156 eyes f1 eye f2 f3 f4
+  their these capell
+  172 scene iv pope
+  here prospero discovers ff scene opens to the entrance of
+    the cell here prospero discovers theobald cell opens and
+    discovers capell
+  172 dearst dearest ff
+  179 kneels theobald
+  191 advice f4 advise f1 f2 f3
+  199 200 remembrances with remembrance with pope
+    remembrances with malone
+  213 when where johnson conj
+  and om capell
+  216 scene v pope
+  sir look sir sir look f3 f4
+  is are pope
+  221 safely safe f3 f4
+  230 of sleep asleep pope
+  234 more rowe mo f1 f2 moe f3 f4
+  236 her theobald thirlby conj our ff
+  242245 given to ariel in f2 f3 f4
+  247 leisure f1 seisure f2 seizure f3 f4
+  248 which shall be shortly single pope which shall be
+    shortly single ff
+  253 exit ariel capell
+  256 scene vi pope
+  258 coragio corasio f1
+  268 misshapen misshapd pope
+  271 command without her power command without her power
+    anon conj
+  without with all collier ms
+  280 liquor lixir theobald
+  282284 printed as verse in ff
+  289 this is f1 f2 tis f3 f4
+  eer i i ever hanmer
+  pointing to caliban steevens
+  299 exeunt trin capell
+  308 nuptial nuptiall f1 nuptials f2 f3 f4
+  309 see note xviii
+
+
+
+
+epilogue
+
+spoken by prospero
+
+now my charms are all oerthrown
+and what strength i haves mine own
+which is most faint now tis true
+i must be here confined by you
+or sent to naples let me not                                       5
+since i have my dukedom got
+and pardond the deceiver dwell
+in this bare island by your spell
+but release me from my bands
+with the help of your good hands                                   10
+gentle breath of yours my sails
+must fill or else my project fails
+which was to please now i want
+spirits to enforce art to enchant
+and my ending is despair                                           15
+unless i be relieved by prayer
+which pierces so that it assaults
+mercy itself and frees all faults
+as you from crimes would pardond be
+let your indulgence set me free                                    20
+
+
+  notes epilogue
+
+  epilogue  prospero advancing capell
+  1 now now now f3 f4
+  3 now and now pope
+  13 now for now pope
+
+
+
+
+notes
+
+
+note i
+
+i 1 15 what cares these roarers this grammatical inaccuracy which
+escaped correction in the later folios probably came from shakespeares
+pen similar cases occur frequently especially when the verb precedes
+its nominative for example tempest iv 1 262 lies at my mercy
+all mine enemies and measure for measure ii 1 22 what knows the
+laws c we correct it in those passages where the occurrence of a
+vulgarism would be likely to annoy the reader in the mouth of a
+boatswain it can offend no one we therefore leave it
+
+
+note ii
+
+i 1 5759 mercy on uswe split c it may be doubtful whether
+the printer of the first folio intended these broken speeches to express
+a confused noise within without question such was the authors
+meaning rowe however and subsequent editors printed them as part of
+gonzalos speech capell was the first editor who gave the true
+arrangement
+
+
+note iii
+
+i 2 173 princesses see mr sidney walkers shakespeares
+versification p 243 sqq the plurals of substantives ending in s
+in certain instances in se ss ce and sometimes ge  are
+found without the usual addition of s or es in pronunciation at
+least although in many instances the plural affix is added in printing
+where the metre shows that it is not to be pronounced
+
+in this and other instances we have thought it better to trust to the
+ear of the reader for the rhythm than to introduce an innovation in
+orthography which might perplex him as to the sense the form
+princesses the use of which in shakespeares time was doubted by one
+of our correspondents is found in the history of king leir
+
+rowes reading princes might be defended on the ground that the
+sentiment is general and applicable to royal children of both sexes or
+that sir philip sidney in the first book of the arcadia calls pamela
+and philoclea princes
+
+
+note iv
+
+i 2 298 the metre of this line as well as of lines 301 302 is
+defective but as no mode of correction can be regarded as completely
+satisfactory we have in accordance with our custom left the lines as
+they are printed in the folio the defect indeed in the metre of line
+298 has not been noticed except by hanmer who makes a line thus
+
+  do so and after two days ill discharge thee
+
+possibly it ought to be printed thus
+
+              do so and
+  after two days
+  i will discharge thee
+
+there is a broken line also of four syllables 253 of the same scene
+another of seven 235
+
+there is no reason to doubt that the words are as shakespeare wrote
+them for although the action of the play terminates in less than four
+hours i 2 240 and v 1 186 yet ariels ministry is not to end till
+the voyage to naples shall be over prospero too repeats his promise
+and marks his contentment by further shortening the time of servitude
+within two days i 2 420 possibly invisible 301 should have a
+line to itself words thus occupying a broken line acquire a marked
+emphasis
+
+but the truth is that in dialogue shakespeares language passes so
+rapidly from verse to prose and from prose to verse sometimes even
+hovering as it were over the confines being rhythmical rather than
+metrical that all attempts to give regularity to the metre must be made
+with diffidence and received with doubt
+
+
+note v
+
+i 2 377 378
+
+  courtsied when you have and kissd
+  the wild waves whist
+
+this punctuation seems to be supported by what ferdinand says 391
+392
+
+  the music crept by me upon the waters
+  allaying both their fury and my passion c
+
+at the end of the stanza we have printed hark hark  the watchdogs
+bark as that part of the burthen which sweet sprites bear the other
+part is borne by distant watchdogs
+
+
+note vi
+
+i 2 443 i fear you have done yourself some wrong see this phrase
+used in a similar sense measure for measure i 11 39
+
+
+note vii
+
+ii 1 27 which of he or adrian of is found in the same
+construction midsummer nights dream iii 2 336
+
+  now follow if thou darest to try whose right
+  of thine or mine is most in helena
+
+
+note viii
+
+ii 1 157 of its own kind there is no doubt as dr guest has shewn
+that it which is the reading of the 1st and 2nd folios was commonly
+used as a genitive in shakespeares time as it is still in some
+provincial dialects its however was coming into use one instance
+occurs in this play i 11 95 in its contrary
+
+
+note ix
+
+ii 1 241 she that from whom mr spedding writes the received
+emendation is not satisfactory to me i would rather read she
+thatfrom whom all were seaswallowd c ie from whom should she
+have note the report from naples will be that all were drowned we
+shall be the only survivors the break in the construction seems to me
+characteristic of the speaker but you must read the whole speech to
+feel the effect
+
+
+note x
+
+ii 1 249251 all editors except mr staunton have printed in italics
+or between inverted commas only as far as naples but as keep
+is printed with a small k in the folios they seem to sanction the
+arrangement given in our text
+
+
+note xi
+
+ii 1 267 ay sir where lies that if twere a kibe mr singer and
+mr dyce have changed twere to it were for the sake of the metre
+but then the first part of the line must be read with a wrong emphasis
+the proper emphasis clearly falls on the first third and fifth
+syllables aý sir whére lies thát see preface
+
+
+note xii
+
+ii 2 165 before here bear my bottle capell inserts a stage
+direction to cal but it appears from iii 2 62 that trinculo was
+entrusted with the office of bottlebearer
+
+
+note xiii
+
+iii 1 15 most busy lest when i do it as none of the proposed
+emendations can be regarded as certain we have left the reading of f1
+though it is manifestly corrupt the spelling doe makes mr speddings
+conjecture idlest for i doe it more probable
+
+
+note xiv
+
+iii 3 17 the stage direction which we have divided into two parts
+is placed all at once in the folios after as when they are fresh
+solemne and strange musicke and prosper on the top invisible enter
+ depart
+
+pope transferred it to follow sebastians words i say to night no
+more
+
+
+note xv
+
+iii 3 48 each putter out of five for one see beaumont and
+fletcher the noble gentleman i 1 vol ii p 261 ed moxon
+the return will give you five for one marine is about to travel
+
+
+note xvi
+
+iv 1 146 you do look my son in a moved sort seymour suggests a
+transposition you do my son look in a moved sort this line however
+can scarcely have come from shakespeares pen perhaps the writer who
+composed the masque was allowed to join it as best he might to
+shakespeares words which recommence at our revels now are ended
+c
+
+
+note xvii
+
+iv 1 230 lets alone see stauntons shakespeare vol i p 81
+note b
+
+
+note xviii
+
+v 1 309 of these our dearbeloved solemnized the folios have
+belovd a mode of spelling which in this case is convenient as
+indicating the probable rhythm of the verse we have written beloved
+in accordance with the general rule mentioned in the preface
+
+solemnized occurs in four other verse passages of shakespeare it is
+three times to be accented sólemnized and once loves labours
+lost ii 1 41 solémnized
+
+                                   
+                                
+                                   
+
+sources
+
+the editors preface etext 23041 discusses the 17th and
+18thcentury editions in detail the newer 19thcentury editions
+are simply listed by name the following editions may appear in the
+notes all inset text is quoted from the preface
+
+  folios
+  f1 1623 f2 no date given f3 1663 f4 1685
+    the five plays contained in this volume occur in the first folio
+    in the same order and  were there printed for the first time
+
+  early editions
+  rowe 1709
+  pope 1715
+    pope was the first to indicate the place of each new scene
+    as for instance tempest i 1 on a ship at sea he also
+    subdivided the scenes as given by the folios and rowe making
+    a fresh scene whenever a new character enteredan arrangement
+    followed by hanmer warburton and johnson for convenience of
+    reference to these editions we have always recorded the
+    commencement of popes scenes
+  theobald 1733
+  hanmer oxford edition 1744
+  warburton 1747
+  johnson 1765
+  capell 1768 also capells annotated copy of f2
+  steevens 1773
+  malone 1790
+  reed 1803
+
+  later editions
+  singer knight cornwall collier phelps halliwell dyce staunton
+
+  dryden
+    the tempest was altered by dryden and davenant and published
+    as the tempest or the enchanted island in 1669 we mark the
+    emendations derived from it drydens version
+
+
+errors and inconsistencies
+
+  reenter boatswain
+    printed boatswain in small capitals
+  enter ariel
+    printed ariel in lower case
+  where my son lies when did you lose you daughter
+    text unchanged error for your
+
+  textcritical notes
+
+  i 2 135 to t om steevens farmer conj
+    here and elsewhere in the volume body text has unspaced tot
+    while line notes have spaced to t
+  i 2 202 o the of pope
+    text unchanged body text is capitalized o the
+  ii 1 88 ay i ff ay pope
+    text unchanged apparent error for italic i
+  iii 3 17 prospero above
+    text unchanged stage direction is after l 19
+
+  endnotes
+
+  i i 1 15  i 1 16
+  v 377 378  376377
+  xvi iv 1 146  iv 1 147
+
+ end of the project gutenberg ebook 23042 

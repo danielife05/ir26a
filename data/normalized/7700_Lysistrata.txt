@@ -1,0 +1,7812 @@
+the project gutenberg ebook of lysistrata by aristophanes
+
+
+
+this ebook is for the use of anyone anywhere at no cost and with
+
+almost no restrictions whatsoever  you may copy it give it away or
+
+reuse it under the terms of the project gutenberg license included
+
+with this ebook or online at wwwgutenbergorg
+
+
+
+
+
+title lysistrata
+
+
+
+author aristophanes
+
+
+
+commentator jack lindsay
+
+
+
+illustrator norman lindsay
+
+
+
+release date april 6 2008 ebook 7700
+
+
+
+language english
+
+
+
+character set encoding ascii
+
+
+
+ start of this project gutenberg ebook lysistrata 
+
+
+
+
+
+
+
+
+
+produced by ted garvin and the distributed proofreaders team
+
+
+
+
+
+
+
+
+
+
+
+
+
+lysistrata
+
+
+
+
+
+translated from the greek of
+
+
+
+aristophanes
+
+
+
+illustrations by norman lindsay
+
+
+
+
+
+
+
+
+
+foreword
+
+
+
+lysistrata is the greatest work by aristophanes this blank and rash
+
+statement is made that it may be rejected but first let it be
+
+understood that i do not mean it is a better written work than the
+
+birds or the frogs or that to descend to the scale of values that
+
+will be naturally imputed to me it has any more appeal to the
+
+collectors of curious literature than the ecclesiazusae or the
+
+thesmophoriazusae on the mere grounds of taste i can see an at least
+
+equally good case made out for the birds that brightly plumaged
+
+fantasy has an aerial wit and colour all its own but there are certain
+
+works in which a man finds himself at an angle of vision where there is
+
+an especially felicitous union of the aesthetic and emotional elements
+
+which constitute the basic qualities of his uniqueness we recognize
+
+these works as being welded into a strange unity as having a
+
+homogeneous texture of ecstasy over them that surpasses any aesthetic
+
+surface of harmonic colour though that harmony also is understood by
+
+the deeper welling of imagery from the core of creative exaltation and
+
+i think that this occurs in lysistrata the intellectual and spiritual
+
+tendrils of the poem are more truly interwoven the operation of their
+
+centres more nearly unified and so the work goes deeper into life it
+
+is his greatest play because of this because it holds an intimate
+
+perfume of femininity and gives the finest sense of the charm of a
+
+cluster of girls the sweet sense of their chatter and the contact of
+
+their bodies that is to be found before shakespeare because that
+
+mocking gaiety we call aristophanies reaches here its most positive
+
+acclamation of life vitalizing sex with a deep delight a rare
+
+happiness of the spirit
+
+
+
+indeed it is precisely for these reasons that it is not considered
+
+aristophanes greatest play
+
+
+
+to take a case which is sufficiently near to the point in question to
+
+make clear what i mean the supremacy of antony and cleopatra in the
+
+shakespearean aesthetic is yet jealously disputed and it seems silly to
+
+the academic to put it up against a work like hamlet but it is the
+
+comparatively more obvious achievement of hamlet its surface
+
+intellectuality which made it the favourite of actors and critics it
+
+is much more difficult to realize the complex and delicately passionate
+
+edge of the former plays rhythm its tides of hugely wandering emotion
+
+the restless proud gay and agonized reaction from life of the blood
+
+of the mind of the heart which is its unity than to follow the
+
+relatively straightforward definition of hamlets nerves not that
+
+anything derogatory to hamlet or the birds is intended but the
+
+value of such works is not enhanced by forcing them into contrast with
+
+other works which cover deeper and wider nexus of aesthetic and
+
+spiritual material it is the very subtlety of the vitality of such
+
+works as antony and cleopatra and lysistrata that makes it so easy
+
+to undervalue them to see only a phallic play and political pamphlet in
+
+one only a chronicle play in a grandiose method in the other for we
+
+have to be in a highly sensitized condition before we can get to that
+
+subtle point where life and the image mix and so really perceive the
+
+work at all whereas we can command the response to a lesser work which
+
+does not call so finely on the full breadth and depth of our spiritual
+
+resources
+
+
+
+i amuse myself at times with the fancy that homer sappho and
+
+aristophanes are the inviolable trinity of poetry even to the extent of
+
+being reducible to one for the fiery and lucid directness of sappho if
+
+her note of personal lyricism is abstracted is seen to be an element of
+
+homer as is the profoundly balanced humour of aristophanes at once
+
+tenderly human and cruelly hard as of a god to whom all sympathies and
+
+tolerances are known but who is invulnerable somewhere who sees from a
+
+point in space where the pressure of earths fear and pain and so its
+
+pity is lifted it is here that the shakespearean and homeric worlds
+
+impinge and merge not to be separated by any academic classifications
+
+they meet in this sensitivity equally involved and aloof sympathetic
+
+and arrogant suffering and joyous and in this relation we see
+
+aristophanes as the forerunner of shakespeare his only one we see also
+
+that the whole present aesthetic of earth is based in homer we live and
+
+grow in the world of consciousness bequeathed to us by him and if we
+
+grow beyond it through deeper shakespearean ardours it is because those
+
+beyond are rooted in the broad basis of the homeric imagination to
+
+shift that basis is to find the marshes of primitive night and fear
+
+alone beneath the feet christianity
+
+
+
+and here we return to the question of the immorality of lysistrata
+
+first we may inquire is it possible for a man whose work has so
+
+tremendous a significance in the spiritual development of mankindand i
+
+do not think anyone nowadays doubts that a work of art is the sole
+
+stabilizing force that exists for lifeis it possible for a man who
+
+stands so grandly at head of an immense stream of liberating effort to
+
+write an immoral work surely the only enduring moral virtue which can
+
+be claimed is for that which moves to more power beauty and delight in
+
+the future the plea that the question of changing customs arises is not
+
+valid for customs ratified by aristophanes by rabelais by
+
+shakespeare have no right to change if they have changed let us try
+
+immediately to return from our disgraceful refinements to the nobler and
+
+more rarefied heights of lyric laughter tragic intensity and wit for
+
+we cannot have the first two without the last and anyhow how can a
+
+social custom claim precedence over the undying material of the senses
+
+and the emotions of man over the very generating forces of life
+
+
+
+how could the humanistic emotions such as pity justice sympathy
+
+exist save as pacifistic quietings of the desire to slay to hurt to
+
+torment where the desire to hurt is gone pity ceases to be a
+
+significant a central emotion it must of course continue to exist but
+
+it is displaced in the spiritual hierarchy and all that moves
+
+courageously desirously and vitally into the action of life takes on a
+
+deeper and subtler intention lust then which on the lower plane was
+
+something to be very frightened of becomes a symbol of the highest
+
+spirituality it is right for paul to be terrified of sex and so to hate
+
+it because he has so freshly escaped a bestial condition of life that
+
+it threatens to plunge him back if he listens to one whisper but it is
+
+also right for a shakespeare to suck every drop of desire from life
+
+for he is building into a higher condition one selfwilled
+
+selfresponsible the discipline of which comes from joy not fear
+
+
+
+sex therefore is an animal function one admits one insists it may
+
+be only that but also in the bewildering and humorous and tragic
+
+duality of all lifes energies it is the bridge to every eternity which
+
+is not merely a spectral condition of earth disembowelled of its lusts
+
+for sex holds the substance of the image but we must remember with
+
+heine that aristophanes is the god of this ironic earth and that all
+
+argument is apparently vitiated from the start by the simple fact that
+
+wagner and a rooster are given an analogous method of making love and
+
+therefore it seems impeccable logic to say that all that is most unlike
+
+the rooster is the most spiritual part of love all will agree on that
+
+schisms only arise when one tries to decide what does go farthest from
+
+the birds automatic mechanism certainly not a dantebeatrice affair
+
+which is only the negation of the rooster in terms of the swooning
+
+bombast of adolescence the first onslaught of a force which the
+
+sufferer cannot control or inhabit with all the potentialities of his
+
+body and soul but the rooster is troubled by no dreams of a divine
+
+orgy no carnivalloves like beethovens fourth symphony no heroic
+
+and shining lust gathering and swinging into a merry embrace like the
+
+third act of siegfried it is desire in this sense that goes farthest
+
+from the animal
+
+
+
+consciously no one can achieve the act of love on earth as a completed
+
+thing of grace with whatever delirium of delight with whatever
+
+ingenious preciosity we go through its process only as an image of
+
+beauty mated in some strange hermaphroditic ecstasy is that possible i
+
+mean only as a dream projected into a hypothetical a real heaven but
+
+on earth we cannot complete the cycle in consciousness that would give
+
+us the freedom of an image in which two identities mysteriously realize
+
+their separate unities by the absorption of a third thing the
+
+constructive rhythm of a work of art it is thus that tristan and isolde
+
+become wholly distinct individuals yet wholly submerged in the unity
+
+that is wagner and so reconcile lifes duality by balancing its
+
+opposing laughters in a definite formthereby sending out into life a
+
+profounder duality than existed before a platonic equipoise
+
+nietzsches eternal recurrencethe only real philosophic problem
+
+therefore one of which these two philosophers alone are aware
+
+
+
+but though wagner with mathilde wesendonck in his arms was tristan in
+
+the arms of isolde he did not find a melody instead of a kiss on his
+
+lips he did not find a progression of harmonies melting through the
+
+contours of a warm beauty with a blur of desperate ecstasies semitones
+
+of desire he found only the anxious happiness of any other lover
+
+nevertheless he was gathering the substance of the second act of
+
+tristan und isolde and it is this that plato means when he says that
+
+fornication is something immortal in mortality he does not mean that
+
+the act itself is a godlike thing a claim which any bedroom mirror
+
+would quickly deride he means that it is a symbol an essential
+
+condition and a part of something that goes deeper into life than any
+
+geometry of earths absurd passionate futile and very necessary
+
+antics would suggest
+
+
+
+it is a universal fallacy that because works like the comedies of
+
+aristophanes discuss certain social or ethical problems they are
+
+inspired by them aristophanes wrote to express his vision on life his
+
+delight in life itself seen behind the warping screen of contemporary
+
+event and for his purposes anything from euripides to cleon served as
+
+ground work not that he would think in those terms naturally but the
+
+rationalizing process that goes on in consciousness during the creation
+
+of a work of art for all its appearance of directing matters is the
+
+merest weathercock in the wind of the subconscious intention as an
+
+example of how utterly it is possible to misunderstand the springs of
+
+inspiration in a poem we may take the following remark of b b rogers
+
+it is much to be regretted that the phallus element should be so
+
+conspicuous in this play this coarseness so repulsive to
+
+ourselves was introduced it is impossible to doubt for the express
+
+purpose of counterbalancing the extreme earnestness and gravity of the
+
+play it seems so logical so irrefutable and so completely
+
+misinterprets every creative force of aristophanes psyche that it
+
+certainly deserves a little admiration it is in the best academic
+
+tradition and everyone respects a man for writing so mendaciously the
+
+effort of these castrators is always to show that the parts considered
+
+offensive are not the natural expression of the poet that they are
+
+dictated externally they argue that shakespeares coarseness is the
+
+result of the age and not personal predilection completely ignoring the
+
+work of men like sir philip sidney and spenser indeed practically all
+
+the preshakespearean writers in whom none of this socalled grossness
+
+exists shakespeare wrote sculduddery because he liked it and for no
+
+other reason his sensuality is the measure of his vitality these liars
+
+pretend similarly that because rabelais had a humanistic reason for much
+
+of his workthe destructior mediaevalism and the church which purpose
+
+they construe of course as an effort to purify etctherefore he only
+
+put the lewdery to make the rest palatable when it should be obvious
+
+even to an academic how he glories in his wild humour
+
+
+
+what the academic cannot understand is that in such works while
+
+attacking certain conditions the creative power of the vigorous spirits
+
+is so great that it overflows and saturates the intellectual conception
+
+with their own passionate sense of life it is for this reason that
+
+these works have an eternal significance if rabelais were merely a
+
+social reformer then the value of his work would not have outlived his
+
+generation if lysistrata were but a wise political tract it would
+
+have merely an historical interest and it would have ceased spiritually
+
+at 404 bc
+
+
+
+but panurge is as fantastic and fascinating a character now as he was
+
+300 years ago lysistrata and her girls as freshly bodied as any girl
+
+kissed today therefore the serious part of the play is that which
+
+deals with them the frivolous part that in which rogers detects gravity
+
+and earnestness
+
+
+
+aristophanes is the lord of all who take life as a gay adventure who
+
+defy all efforts to turn life into a social economic or moral
+
+abstraction is it therefore just that the critics who by some dark
+
+instinct unerringly pick out the exact opposite of any creators real
+
+virtues as his chief characteristics should praise him as an idealistic
+
+reformer an ideal state of society was the last thing aristophanes
+
+desired he wished certainly to eliminate inhumanities and baseness
+
+but only that there might be free play for laughter for individual
+
+happiness
+
+
+
+consequently the critics lay the emphasis on the effort to cleanse
+
+society not the method of laughter aristophanes wished to destroy
+
+cleon because that demagogue failed to realize the poets conception of
+
+dignified government and tended to upset the stability of hellas but it
+
+was the stability of life the vindication of all individual freedoms
+
+in which he was ultimately interested
+
+
+
+jack lindsay
+
+
+
+
+
+                                   
+
+
+
+
+
+lysistrata
+
+
+
+the persons of the drama
+
+
+
+lysistrata
+
+calonice
+
+myrrhine
+
+lampito
+
+stratyllis etc
+
+chorus of women
+
+magistrate
+
+cinesias
+
+spartan herald
+
+envoys
+
+athenians
+
+porter market idlers etc
+
+chorus of old men
+
+
+
+
+
+lysistrata stands alone with the propylaea at her back
+
+
+
+
+
+lysistrata
+
+
+
+if they were trysting for a bacchanal
+
+a feast of pan or colias or genetyllis
+
+the tambourines would block the rowdy streets
+
+but now theres not a woman to be seen
+
+exceptah yesthis neighbour of mine yonder
+
+
+
+enter calonice
+
+
+
+good day calonice
+
+
+
+calonice
+
+
+
+good day lysistrata
+
+but what has vexed you so tell me child
+
+what are these black looks for it doesnt suit you
+
+to knit your eyebrows up glumly like that
+
+
+
+lysistrata
+
+
+
+calonice its more than i can bear
+
+i am hot all over with blushes for our sex
+
+men say were slippery rogues
+
+
+
+calonice
+
+
+
+and arent they right
+
+
+
+lysistrata
+
+
+
+yet summoned on the most tremendous business
+
+for deliberation still they snuggle in bed
+
+
+
+calonice
+
+
+
+my dear theyll come its hard for women you know
+
+to get away theres so much to do
+
+husbands to be patted and put in good tempers
+
+servants to be poked out children washed
+
+or soothed with lullays or fed with mouthfuls of pap
+
+
+
+lysistrata
+
+
+
+but i tell you heres a far more weighty object
+
+
+
+calonice
+
+
+
+what is it all about dear lysistrata
+
+that youve called the women hither in a troop
+
+what kind of an object is it
+
+
+
+lysistrata
+
+
+
+a tremendous thing
+
+
+
+calonice
+
+
+
+and long
+
+
+
+lysistrata
+
+
+
+indeed it may be very lengthy
+
+
+
+calonice
+
+
+
+then why arent they here
+
+
+
+lysistrata
+
+
+
+no mans connected with it
+
+if that was the case theyd soon come fluttering along
+
+no no it concerns an object ive felt over
+
+and turned this way and that for sleepless nights
+
+
+
+calonice
+
+
+
+it must be fine to stand such long attention
+
+
+
+lysistrata
+
+
+
+so fine it comes to thisgreece saved by woman
+
+
+
+calonice
+
+
+
+by woman wretched thing im sorry for it
+
+
+
+lysistrata
+
+
+
+our countrys fate is henceforth in our hands
+
+to destroy the peloponnesians root and branch
+
+
+
+calonice
+
+
+
+what could be nobler
+
+
+
+lysistrata
+
+
+
+wipe out the boeotians
+
+
+
+calonice
+
+
+
+not utterly have mercy on the eels
+
+footnote the boeotian eels were highly esteemed delicacies in athens
+
+
+
+lysistrata
+
+
+
+but with regard to athens note im careful
+
+not to say any of these nasty things
+
+still thought is free but if the women join us
+
+from peloponnesus and boeotia then
+
+hand in hand well rescue greece
+
+
+
+calonice
+
+
+
+how could we do
+
+such a big wise deed we women who dwell
+
+quietly adorning ourselves in a backroom
+
+with gowns of lucid gold and gawdy toilets
+
+of stately silk and dainty little slippers
+
+
+
+lysistrata
+
+
+
+these are the very armaments of the rescue
+
+these crocusgowns this outlay of the best myrrh
+
+slippers cosmetics dusting beauty and robes
+
+with rippling creases of light
+
+
+
+calonice
+
+
+
+yes but how
+
+
+
+lysistrata
+
+
+
+no man will lift a lance against another
+
+
+
+calonice
+
+
+
+ill run to have my tunic dyed crocus
+
+
+
+lysistrata
+
+
+
+or take a shield
+
+
+
+calonice
+
+
+
+ill get a stately gown
+
+
+
+lysistrata
+
+
+
+or unscabbard a sword
+
+
+
+calonice
+
+
+
+let me buy a pair of slipper
+
+
+
+lysistrata
+
+
+
+now tell me are the women right to lag
+
+
+
+calonice
+
+
+
+they should have turned birds they should have grown
+
+wings and flown
+
+
+
+lysistrata
+
+
+
+my friend youll see that they are true athenians
+
+always too late why theres not a woman
+
+from the shoreward demes arrived not one from salamis
+
+
+
+calonice
+
+
+
+i know for certain they awoke at dawn
+
+and got their husbands up if not their boat sails
+
+
+
+lysistrata
+
+
+
+and id have staked my life the acharnian dames
+
+would be here first yet they havent come either
+
+
+
+calonice
+
+
+
+well anyhow there is theagenes wife
+
+we can expectshe consulted hecate
+
+but look here are some at last and more behind them
+
+see  where are they from
+
+
+
+calonice
+
+
+
+from anagyra they come
+
+
+
+lysistrata
+
+
+
+yes they generally manage to come first
+
+
+
+enter myrrhine
+
+
+
+myrrhine
+
+
+
+are we late lysistrata  what is that
+
+nothing to say
+
+
+
+lysistrata
+
+
+
+ive not much to say for you
+
+myrrhine dawdling on so vast an affair
+
+
+
+myrrhine
+
+
+
+i couldnt find my girdle in the dark
+
+but if the affairs so wonderful tell us what is it
+
+
+
+lysistrata
+
+
+
+no let us stay a little longer till
+
+the peloponnesian girls and the girls of bocotia
+
+are here to listen
+
+
+
+myrrhine
+
+
+
+thats the best advice
+
+ah there comes lampito
+
+
+
+enter lampito
+
+
+
+lysistrata
+
+
+
+welcome lampito
+
+dear spartan girl with a delightful face
+
+washed with the rosy spring how fresh you look
+
+in the easy stride of your sleek slenderness
+
+why you could strangle a bull
+
+
+
+lampito
+
+
+
+i think i could
+
+its frae exercise and kicking high behint
+
+
+
+footnote the translator has put the speech of the spartan characters
+
+in scotch dialect which is related to english about as was the spartan
+
+dialect to the speech of athens the spartans in their character
+
+anticipated the shrewd canny uncouth scotch highlander of modern
+
+times
+
+
+
+lysistrata
+
+
+
+what lovely breasts to own
+
+
+
+lampito
+
+
+
+oo  your fingers
+
+assess them ye tickler wi such tender chucks
+
+i feel as if i were an altarvictim
+
+
+
+lysistrata
+
+
+
+who is this youngster
+
+
+
+lampito
+
+
+
+a boeotian lady
+
+
+
+lysistrata
+
+
+
+there never was much undergrowth in boeotia
+
+such a smooth place and this girl takes after it
+
+
+
+calonice
+
+
+
+yes i never saw a skin so primly kept
+
+
+
+lysistrata
+
+
+
+this girl
+
+
+
+lampito
+
+
+
+a sonsie openlooking jinker
+
+shes a corinthian
+
+
+
+lysistrata
+
+
+
+yes isnt she
+
+very open in some ways particularly
+
+
+
+lampito
+
+
+
+but whos garred this council o women to meet here
+
+
+
+lysistrata
+
+
+
+i have
+
+
+
+lampito
+
+
+
+propound then what you want o us
+
+
+
+myrrhine
+
+
+
+what is the amazing news you have to tell
+
+
+
+lysistrata
+
+
+
+ill tell you but first answer one small question
+
+
+
+myrrhine
+
+
+
+as you like
+
+
+
+lysistrata
+
+
+
+are you not sad your childrens fathers
+
+go endlessly off soldiering afar
+
+in this plodding war i am willing to wager
+
+theres not one here whose husband is at home
+
+
+
+calonice
+
+
+
+mines been in thrace keeping an eye on eucrates
+
+for five months past
+
+
+
+myrrhine
+
+
+
+and mine left me for pylos
+
+seven months ago at least
+
+
+
+lampito
+
+
+
+and as for mine
+
+no sooner has he slipped out frae the line
+
+he straps his shield and hes snickt off again
+
+
+
+lysistrata
+
+
+
+and not the slightest glitter of a lover
+
+and since the milesians betrayed us ive not seen
+
+the image of a single upright man
+
+to be a marble consolation to us
+
+now will you help me if i find a means
+
+to stamp the war out
+
+
+
+myrrhine
+
+
+
+by the two goddesses yes
+
+i will though ive to pawn this very dress
+
+and drink the bartermoney the same day
+
+
+
+calonice
+
+
+
+and i too though im split up like a turbot
+
+and half is hackt off as the price of peace
+
+
+
+lampito
+
+
+
+and i too why to get a peep at the shy thing
+
+id clamber up to the tiptop o taygetus
+
+
+
+lysistrata
+
+
+
+then ill expose my mighty mystery
+
+o women if we would compel the men
+
+to bow to peace we must refrain
+
+
+
+myrrhine
+
+
+
+from what
+
+o tell us
+
+
+
+lysistrata
+
+
+
+will you truly do it then
+
+
+
+myrrhine
+
+
+
+we will we will if we must die for it
+
+
+
+lysistrata
+
+
+
+we must refrain from every depth of love
+
+why do you turn your backs where are you going
+
+why do you bite your lips and shake your heads
+
+why are your faces blanched why do you weep
+
+will you or wont you or what do you mean
+
+
+
+myrrhine
+
+
+
+no i wont do it let the war proceed
+
+
+
+calonice
+
+
+
+no i wont do it let the war proceed
+
+
+
+lysistrata
+
+
+
+you too dear turbot you that said just now
+
+you didnt mind being split right up in the least
+
+
+
+calonice
+
+
+
+anything else o bid me walk in fire
+
+but do not rob us of that darling joy
+
+what else is like it dearest lysistrata
+
+
+
+lysistrata
+
+
+
+and you
+
+
+
+myrrhine
+
+
+
+o please give me the fire instead
+
+
+
+lysistrata
+
+
+
+lewd to the least drop in the tiniest vein
+
+our sex is fitly food for tragic poets
+
+our whole lifes but a pile of kisses and babies
+
+but hardy spartan if you join with me
+
+all may be righted yet o help me help me
+
+
+
+lampito
+
+
+
+its a sair sair thing to ask of us by the twa
+
+a lass to sleep her lane and never fill
+
+loves lack except wi makeshifts but let it be
+
+peace maun be thought of first
+
+
+
+lysistrata
+
+
+
+my friend my friend
+
+the only one amid this herd of weaklings
+
+
+
+calonice
+
+
+
+but ifwhich heaven forbidwe should refrain
+
+as you would have us how is peace induced
+
+
+
+lysistrata
+
+
+
+by the two goddesses now cant you see
+
+all we have to do is idly sit indoors
+
+with smooth roses powdered on our cheeks
+
+our bodies burning naked through the folds
+
+of shining amorgos silk and meet the men
+
+with our dear venusplats plucked trim and neat
+
+their stirring love will rise up furiously
+
+theyll beg our arms to open thats our time
+
+well disregard their knocking beat them off
+
+and they will soon be rabid for a peace
+
+im sure of it
+
+
+
+lampito
+
+
+
+          just as menelaus they say
+
+seeing the bosom of his naked helen
+
+flang down the sword
+
+
+
+calonice
+
+
+
+               but well be tearful fools
+
+if our husbands take us at our word and leave us
+
+
+
+lysistrata
+
+
+
+theres only left then in pherecrates phrase
+
+to flay a skinned dogflay more our flayed desires
+
+
+
+calonice
+
+
+
+bah proverbs will never warm a celibate
+
+but what avail will your scheme be if the men
+
+drag us for all our kicking on to the couch
+
+
+
+lysistrata
+
+
+
+cling to the doorposts
+
+
+
+calonice
+
+
+
+               but if they should force us
+
+
+
+lysistrata
+
+
+
+yield then but with a sluggish cold indifference
+
+there is no joy to them in sullen mating
+
+besides we have other ways to madden them
+
+they cannot stand up long and theyve no delight
+
+unless we fit their aim with merry succour
+
+
+
+calonice
+
+
+
+well if you must have it so well all agree
+
+
+
+lampito
+
+
+
+for us i ha no doubt we can persuade
+
+our men to strike a fair an decent peace
+
+but how will ye pitch out the battlefrenzy
+
+o the athenian populace
+
+
+
+lysistrata
+
+
+
+i promise you
+
+well wither up that curse
+
+
+
+lampito
+
+
+
+i dont believe it
+
+not while they own ane trireme oared an rigged
+
+or a those stacks an stacks an stacks o siller
+
+
+
+lysistrata
+
+
+
+ive thought the whole thing out till theres no flaw
+
+we shall surprise the acropolis today
+
+that is the duty set the older dames
+
+while we sit here talking they are to go
+
+and under pretence of sacrificing seize it
+
+
+
+lampito
+
+
+
+certie thats fine alls working for the best
+
+
+
+lysistrata
+
+
+
+now quickly lampito let us tie ourselves
+
+to this high purpose as tightly as the hemp of words
+
+can knot together
+
+
+
+lampito
+
+
+
+set out the terms in detail
+
+and well a swear to them
+
+
+
+lysistrata
+
+
+
+of course well then
+
+where is our scythianess why are you staring
+
+first lay the shield boss downward on the floor
+
+and bring the victims inwards
+
+
+
+cailonice
+
+
+
+but lysistrata
+
+what is this oath that were to swear
+
+
+
+lysistrata
+
+
+
+what oath
+
+in aeschylus they take a slaughtered sheep
+
+and swear upon a buckler why not we
+
+
+
+calonice
+
+
+
+o lysistrata peace sworn on a buckler
+
+
+
+lysistrata
+
+
+
+what oath would suit us then
+
+
+
+calonice
+
+
+
+something burden bearing
+
+would be our best insignia a white horse
+
+lets swear upon its entrails
+
+
+
+lysistrata
+
+
+
+a horse indeed
+
+
+
+calonice
+
+
+
+then what will symbolise us
+
+
+
+lysistrata
+
+
+
+this as i tell you
+
+first set a great dark bowl upon the ground
+
+and disembowel a skin of thasian wine
+
+then swear that well not add a drop of water
+
+
+
+lampito
+
+  ah what aith could clink pleasanter than that
+
+
+
+lysistrata
+
+  bring me a bowl then and a skin of wine
+
+
+
+calonice
+
+  my dears see what a splendid bowl it is
+
+  id not say no if asked to sip it off
+
+
+
+lysistrata
+
+  put down the bowl lay hands all on the victim
+
+  skiey queen who givest the last word in arguments
+
+  and thee o bowl dear comrade we beseech
+
+  accept our oblation and be propitious to us
+
+
+
+calonice
+
+  what healthy blood la how it gushes out
+
+
+
+lampito
+
+  an what a leesome fragrance through the air
+
+
+
+lysistrata
+
+  now dears if you will let me ill speak first
+
+
+
+calonice
+
+  only if you draw the lot by aphrodite
+
+
+
+lysistrata
+
+  so grasp the brim you lampito and all
+
+  you calonice repeat for the rest
+
+  each word i say then you must all take oath
+
+  and pledge your arms to the same stern conditions
+
+
+
+lysistrata
+
+  to husband or lover ill not open arms
+
+
+
+calonice
+
+
+
+to husband or lover ill not open arms
+
+
+
+lysistrata
+
+
+
+though love and denial may enlarge his charms
+
+
+
+calonice
+
+
+
+though love and denial may enlarge his charms
+
+o o my knees are failing me lysistrata
+
+
+
+lysistrata
+
+
+
+but still at home ignoring him ill stay
+
+
+
+calonice
+
+
+
+but still at home ignoring him ill stay
+
+
+
+lysistrata
+
+
+
+beautiful clad in saffron silks all day
+
+
+
+calonice
+
+
+
+beautiful clad in saffron silks all day
+
+
+
+lysistrata
+
+
+
+if then he seizes me by dint of force
+
+
+
+calonice
+
+
+
+if then he seizes me by dint of force
+
+
+
+lysistrata
+
+
+
+ill give him reason for a long remorse
+
+
+
+calonice
+
+
+
+ill give him reason for a long remorse
+
+
+
+lysistrata
+
+
+
+ill never lie and stare up at the ceiling
+
+
+
+calonice
+
+
+
+ill never lie and stare up at the ceiling
+
+
+
+lysistrata
+
+
+
+nor like a lion on all fours go kneeling
+
+
+
+calonice
+
+
+
+nor like a lion on all fours go kneeling
+
+
+
+lysistrata
+
+
+
+if i keep faith then bounteous cups be mine
+
+
+
+calonice
+
+
+
+if i keep faith then bounteous cups be mine
+
+
+
+lysistrata
+
+
+
+if not to nauseous water change this wine
+
+
+
+calonice
+
+  if not to nauseous water change this wine
+
+
+
+lysistrata
+
+
+
+do you all swear to this
+
+
+
+myrrhine
+
+
+
+we do we do
+
+
+
+lysistrata
+
+
+
+then i shall immolate the victim thus
+
+she drinks
+
+
+
+calonice
+
+
+
+here now share fair havent we made a pact
+
+lets all quaff down that friendship in our turn
+
+
+
+lampito
+
+
+
+hark what caterwauling hubbubs that
+
+
+
+lysistrata
+
+
+
+as i told you
+
+the women have appropriated the citadel
+
+so lampito dash off to your own land
+
+and raise the rebels there these will serve as hostages
+
+while we ourselves take our places in the ranks
+
+and drive the bolts right home
+
+
+
+calonice
+
+
+
+but wont the men
+
+march straight against us
+
+
+
+lysistrata
+
+
+
+and what if they do
+
+no threat shall creak our hinges wide no torch
+
+shall light a fear in us we will come out
+
+to peace alone
+
+
+
+calonice
+
+
+
+thats it by aphrodite
+
+as of old let us seem hard and obdurate
+
+
+
+lampito and some go off the others go up into the acropolis
+
+
+
+chorus of old men enter to attack the captured acropolis
+
+
+
+make room draces move ahead why your shoulders chafed i see
+
+with lugging uphill these lopped branches of the olivetree
+
+how upsidedown and wrongwayround a long life sees things grow
+
+ah strymodorus whod have thought affairs could tangle so
+
+
+
+the women whom at home we fed
+
+like witless fools with fostering bread
+
+have impiously come to this
+
+theyve stolen the acropolis
+
+with bolts and bars our orders flout
+
+and shut us out
+
+
+
+come philurgus bustle thither lay our faggots on the ground
+
+in neat stacks beleaguering the insurgents all around
+
+and the vile conspiratresses plotters of such mischief dire
+
+pile and burn them all together in one vast and righteous pyre
+
+fling with our own hands lycons wife to fry in the thickest fire
+
+by demeter theyll get no brag while ive a vein to beat
+
+cleomenes himself was hurtled out in sore defeat
+
+his stiffbacked spartan pride was bent
+
+out stripped of all his arms he went
+
+a pigmy cloak that would not stretch
+
+to hide his rump the draggled wretch
+
+six sprouting years of beard the spilth
+
+of six years filth
+
+
+
+that was a siege our men were ranged in lines of seventeen deep
+
+before the gates and never left their posts there even to sleep
+
+shall i not smite the rash presumption then of foes like these
+
+detested both of all the gods and of euripides
+
+else may the marathonplain not boast my trophied victories
+
+
+
+ah now theres but a little space
+
+to reach the place
+
+a deadly climb it is a tricky road
+
+with all this bumping load
+
+a packass soon would tire
+
+how these logs bruise my shoulders further still
+
+jog up the hill
+
+and puff the fire inside
+
+or just as we reach the top well find its died
+
+ough phew
+
+i choke with the smoke
+
+
+
+lord heracles how acridhot
+
+out of the pot
+
+this maddog smoke leaps worrying me
+
+and biting angrily
+
+tis lemnian fire that smokes
+
+or else it would not sting my eyelids thus
+
+haste all of us
+
+athene invokes our aid
+
+laches now or never the assault must be made
+
+ough phew
+
+i choke with the smoke 
+
+
+
+thanked be the gods the fire peeps up and crackles as it should
+
+now why not first slide off our backs these weary loads of wood
+
+and dip a vinebranch in the brazier till it glows then straight
+
+hurl it at the batteringram against the stubborn gate
+
+if they refuse to draw the bolts in immediate compliance
+
+well set fire to the wood and smoke will strangle their defiance
+
+
+
+phew what a spluttering drench of smoke come now from off my back
+
+is there no samosgeneral to help me to unpack
+
+ah there thats over for the last time now its galled my shoulder
+
+flare up thine embers brazier and dutifully smoulder
+
+to kindle a brand that i the first may strike the citadel
+
+aid me lady victory that a triumphtrophy may tell
+
+how we did anciently this insane audacity quell
+
+
+
+chorus of women
+
+
+
+whats that rising yonder that ruddy glare that smoky skurry
+
+o is it something in a blaze quick quick my comrades hurry
+
+nicodice helterskelter
+
+or poor calyces in flames
+
+and cratyllas stifled in the welter
+
+o these dreadful old men
+
+and their dark laws of hate
+
+there im all of a tremble lest i turn out to be too late
+
+i could scarcely get near to the spring though i rose before dawn
+
+what with tattling of tongues and rattling of pitchers in one jostling din
+
+with slaves pushing in
+
+
+
+still here at last the waters drawn
+
+and with it eagerly i run
+
+to help those of my friends who stand
+
+in danger of being burned alive
+
+for i am told a dribbling band
+
+of greybeards hobble to the field
+
+great faggots in each palsied hand
+
+as if a hot bath to prepare
+
+and threatening that out theyll drive
+
+these wicked women or soon leave them charring into ashes
+
+there
+
+o goddess suffer not i pray this harsh deed to be done
+
+but show us greece and athens with their warlike acts repealed
+
+for this alone in this thy hold
+
+thou goddess with the helm of gold
+
+we laid hands on thy sanctuary
+
+athene then our ally be
+
+and where they cast their fires of slaughter
+
+direct our water
+
+
+
+stratyllis caught
+
+
+
+let me go
+
+
+
+women
+
+
+
+you villainous old men whats this you do
+
+no honest man no pious man could do such things as you
+
+
+
+men
+
+
+
+ah ha heres something most original i have no doubt
+
+a swarm of women sentinels to man the walls without
+
+
+
+women
+
+
+
+so then we scare you do we do we seem a fearful host
+
+you only see the smallest fraction mustered at this post
+
+
+
+men
+
+
+
+ho phaedrias shall we put a stop to all these chattering tricks
+
+suppose that now upon their backs we splintered these our sticks
+
+
+
+women
+
+
+
+let us lay down the pitchers so our bodies will be free
+
+  in case these lumping fellows try to cause some injury
+
+
+
+men
+
+
+
+o hit them hard and hit again and hit until they run away
+
+and perhaps theyll learn like bupalus not to have too much to say
+
+
+
+women
+
+
+
+come on thendo it i wont budge but like a dog ill bite
+
+at every little scrap of meat that dangles in my sight
+
+
+
+men
+
+
+
+be quiet or ill bash you out of any years to come
+
+
+
+women
+
+
+
+now you just touch stratyllis with the topjoint of your thumb
+
+
+
+men
+
+
+
+what vengeance can you take if with my fists your face i beat
+
+
+
+women
+
+
+
+ill rip you with my teeth and strew your entrails at your feet
+
+
+
+men
+
+
+
+now i appreciate euripides strange subtlety
+
+woman is the most shameless beast of all the beasts that be
+
+
+
+women
+
+
+
+rhodippe come and lets pick up our waterjars once more
+
+
+
+men
+
+
+
+ah cursed drab what have you brought this water for
+
+
+
+women
+
+
+
+what is your fire for then you smelly corpse yourself to burn
+
+
+
+men
+
+
+
+to build a pyre and make your comrades ready for the urn
+
+
+
+women
+
+
+
+and ive the water to put out your fire immediately
+
+
+
+men
+
+
+
+what you put out my fire
+
+
+
+women
+
+
+
+yes sirrah as you soon will see
+
+
+
+men
+
+
+
+i dont know why i hesitate to roast you with this flame
+
+
+
+women
+
+
+
+if you have any soap youll go off cleaner than you came
+
+
+
+men
+
+
+
+cleaner you dirty slut
+
+
+
+women
+
+
+
+a nuptialbath in which to lie
+
+
+
+men
+
+
+
+did you hear that insolence
+
+
+
+women
+
+
+
+im a free woman i
+
+
+
+men
+
+
+
+ill make you hold your tongue
+
+
+
+women
+
+
+
+henceforth youll serve in no more juries
+
+
+
+men
+
+
+
+burn off her hair for her
+
+
+
+women
+
+
+
+now forward water quench their furies
+
+
+
+men
+
+
+
+o dear o dear
+
+
+
+women
+
+
+
+so  was it hot
+
+
+
+men
+
+
+
+hot  enough o hold
+
+
+
+women
+
+
+
+watered perhaps youll bloom againwhy not
+
+
+
+men
+
+
+
+brrr im wrinkled up from shivering with cold
+
+
+
+women
+
+
+
+next time youve fire youll warm yourself and leave us to our lot
+
+
+
+magistrate enters with attendant scythians
+
+
+
+magistrate
+
+
+
+have the luxurious rites of the women glittered
+
+their libertine show their drumming tapped out crowds
+
+the sabazian mysteries summoned their mob
+
+adonis been wept to death on the terraces
+
+as i could hear the last day in the assembly
+
+for demostratuslet bad luck befoul him
+
+was roaring we must sail for sicily
+
+while a woman throwing herself about in a dance
+
+lopsided with drink was shrilling out adonis
+
+woe for adonis then demostratus shouted
+
+we must levy hoplites at zacynthus
+
+and there the woman up to the ears in wine
+
+was screaming weep for adonis on the housetop
+
+the scoundrelly politician that lunatic ox
+
+bellowing bad advice through tipsy shrieks
+
+such are the follies wantoning in them
+
+
+
+men
+
+
+
+o if you knew their full effrontery
+
+all of the insults theyve done besides sousing us
+
+with water from their pots to our public disgrace
+
+for we stand here wringing our clothes like grownup infants
+
+
+
+magistrate
+
+
+
+by poseidon justly done for in part with us
+
+the blame must lie for dissolute behaviour
+
+and for the pampered appetites they learn
+
+thus grows the seedling lust to blossoming
+
+we go into a shop and say here goldsmith
+
+you remember the necklace that you wrought my wife
+
+well the other night in fervour of a dance
+
+her clasp broke open now im off for salamis
+
+if youve the leisure would you go tonight
+
+and stick a boltpin into her opened clasp
+
+another goes to a cobbler a soldierly fellow
+
+always standing up erect and says to him
+
+cobbler a sandalstrap of my wifes pinches her
+
+hurts her little toe in a place where shes sensitive
+
+come at noon and see if you can stretch out wider
+
+this thing that troubles her loosen its tightness
+
+and so you view the result observe my case
+
+i a magistrate come here to draw
+
+money to buy oarblades and what happens
+
+the women slam the door full in my face
+
+but standing stills no use bring me a crowbar
+
+and ill chastise this their impertinence
+
+what do you gape at wretch with dazzled eyes
+
+peering for a tavern i suppose
+
+come force the gates with crowbars prise them apart
+
+ill prise away myself too lysistrata appears
+
+
+
+lysistrata
+
+
+
+stop this banging
+
+im coming of my own accord why bars
+
+it is not bars we need but common sense
+
+
+
+magistrate
+
+
+
+indeed you slut where is the archer now
+
+arrest this woman tie her hands behind
+
+
+
+lysistrata
+
+
+
+if he brushes me with a finger by artemis
+
+the public menial hell be sorry for it
+
+
+
+magistrate
+
+
+
+are you afraid grab her about the middle
+
+two of you then lay hands on her and end it
+
+
+
+calonice
+
+
+
+by pandrosos i if your hand touches her
+
+ill spread you out and trample on your guts
+
+
+
+magistrate
+
+
+
+my guts where is the other archer gone
+
+bind that minx there who talks so prettily
+
+
+
+myrrhine
+
+
+
+by phosphor if your hand moves out her way
+
+youd better have a surgeon somewhere handy
+
+
+
+magistrate
+
+
+
+you too where is that archer take that woman
+
+ill put a stop to these surpriseparties
+
+
+
+stratyllis
+
+
+
+by the tauric artemis one inch nearer
+
+my fingers and its a bald man thatll be yelling
+
+
+
+magistrate
+
+
+
+tut tut whats here deserted by my archers
+
+but surely women never can defeat us
+
+close up your ranks my scythians forward at them
+
+
+
+lysistrata
+
+
+
+by the goddesses youll find that here await you
+
+four companies of most pugnacious women
+
+armed capapie from the topmost louring curl
+
+to the lowest angry dimple
+
+
+
+magistrate
+
+
+
+on scythians bind them
+
+
+
+lysistrata
+
+
+
+on gallant allies of our high design
+
+vendors of graineggspulseandvegetables
+
+ye garlictavernkeepers of bakeries
+
+strike batter knock hit slap and scratch our foes
+
+be finely imprudent say what you think of them
+
+enough retire and do not rob the dead
+
+
+
+magistrate
+
+
+
+how basely did my archerforce come off
+
+
+
+lysistrata
+
+
+
+ah ha you thought it was a herd of slaves
+
+you had to tackle and you didnt guess
+
+the thirst for glory ardent in our blood
+
+
+
+magistrate
+
+
+
+by apollo i know well the thirst that heats you
+
+especially when a wineskins close
+
+
+
+men
+
+
+
+you waste your breath dear magistrate i fear in answering back
+
+whats the good of argument with such a rampageous pack
+
+remember how they washed us down these very clothes i wore
+
+with water that looked nasty and that smelt so even more
+
+
+
+women
+
+
+
+what else to do since you advanced too dangerously nigh
+
+if you should do the same again ill punch you in the eye
+
+though im a stayathome and most a quiet life enjoy
+
+polite to all and every for im naturally coy
+
+still if you wake a wasps nest then of wasps you must beware
+
+
+
+men
+
+
+
+how may this ferocity be tamed it grows too great to bear
+
+let us question them and find if theyll perchance declare
+
+the reason why they strangely dare
+
+to seize on cranaos citadel
+
+this eyrie inaccessible
+
+this shrine above the precipice
+
+the acropolis
+
+probe them and find what they mean with this idle talk listen
+
+but watch they dont try to deceive
+
+youd be neglecting your duty most certainly if now this mystery
+
+unplumbed you leave
+
+
+
+magistrate
+
+
+
+women there tell what i ask you directly
+
+come without rambling i wish you to state
+
+whats your rebellious intention in barring up thus on our noses
+
+our own templegate
+
+
+
+lysistrata
+
+
+
+to take first the treasury out of your management and so stop the war
+
+through the absence of gold
+
+
+
+magistrate
+
+
+
+is gold then the cause of the war
+
+
+
+lysistrata
+
+
+
+yes gold caused it and miseries more too many to be told
+
+twas for money and money alone that pisander with all of the army of
+
+mobagitators
+
+raised up revolutions but as for the future it wont be worth while
+
+to set up to be traitors
+
+not an obol theyll get as their loot not an obol while we have the
+
+treasurechest in our command
+
+
+
+magistrate
+
+
+
+what then is that you propose
+
+
+
+lysistrata
+
+
+
+just thismerely to take the exchequer henceforth in hand
+
+
+
+magistrate
+
+
+
+the exchequer
+
+
+
+lysistrata
+
+
+
+yes why not of our capabilities you have had various clear evidences
+
+firstly remember we have always administered soundly the budget of all
+
+homeexpenses
+
+
+
+magistrate
+
+
+
+but this matters different
+
+
+
+lysistrata
+
+
+
+how is it different
+
+
+
+magistrate
+
+
+
+why it deals chiefly with wartime supplies
+
+
+
+lysistrata
+
+
+
+but we abolish war straight by our policy
+
+
+
+magistrate
+
+
+
+what will you do if emergencies arise
+
+
+
+lysistrata
+
+
+
+face them our own way
+
+
+
+magistrate
+
+
+
+what you will
+
+
+
+lysistrata
+
+
+
+yes we will
+
+
+
+magistrate
+
+
+
+then theres no help for it were all destroyed
+
+
+
+lysistrata
+
+
+
+no willynilly you must be safeguarded
+
+
+
+magistrate
+
+
+
+what madness is this
+
+
+
+lysistrata
+
+
+
+why it seems youre annoyed
+
+it must be done thats all
+
+
+
+magistrate
+
+
+
+such awful oppression never
+
+o never in the past yet i bore
+
+
+
+lysistrata
+
+
+
+you must be saved sirrahthats all there is to it
+
+
+
+magistrate
+
+
+
+if we dont want to be saved
+
+
+
+lysistrata
+
+
+
+all the more
+
+
+
+magistrate
+
+
+
+why do you women come prying and meddling in matters of state touching
+
+wartime and peace
+
+
+
+lysistrata
+
+
+
+that i will tell you
+
+
+
+magistrate
+
+
+
+o tell me or quickly ill
+
+
+
+lysistrata
+
+
+
+hearken awhile and from threatening cease
+
+
+
+magistrate
+
+
+
+i cannot i cannot its growing too insolent
+
+
+
+women
+
+
+
+come on youve far more than we have to dread
+
+
+
+magistrate
+
+
+
+stop from your croaking old carrioncrow there
+
+continue
+
+
+
+lysistrata
+
+
+
+be calm then and ill go ahead
+
+all the long years when the hopeless war dragged along we unassuming
+
+forgotten in quiet
+
+endured without question endured in our loneliness all your incessant
+
+childs antics and riot
+
+our lips we kept tied though aching with silence though well all the
+
+while in our silence we knew
+
+how wretchedly everything still was progressing by listening dumbly the
+
+day long to you
+
+for always at home you continued discussing the war and its politics
+
+loudly and we
+
+sometimes would ask you our hearts deep with sorrowing though we spoke
+
+lightly though happy to see
+
+whats to be inscribed on the side of the treatystone
+
+what dear was said in the assembly today
+
+mind your own business hed answer me growlingly
+
+hold your tongue woman or else go away
+
+and so i would hold it
+
+
+
+women
+
+
+
+id not be silent for any man living on earth no not i
+
+
+
+magistrate
+
+
+
+not for a staff
+
+
+
+lysistrata
+
+
+
+well so i did nothing but sit in the house feeling dreary and sigh
+
+while ever arrived some fresh tale of decisions more foolish by far and
+
+presaging disaster
+
+then i would say to him o my dear husband why still do they rush on
+
+destruction the faster
+
+at which he would look at me sideways exclaiming keep for your web
+
+and your shuttle your care
+
+or for some hours hence your cheeks will be sore and hot leave this
+
+alone war is mans sole affair
+
+
+
+magistrate
+
+
+
+by zeus but a man of fine sense he
+
+
+
+lysistrata
+
+
+
+how sensible
+
+you dotard because he at no time had lent
+
+his intractable ears to absorb from our counsel one temperate word of
+
+advice kindly meant
+
+but when at the last in the streets we heard shouted everywhere ringing
+
+the ominous cry
+
+is there no one to help us no saviour in athens and no there is
+
+no one come back in reply
+
+at once a convention of all wives through hellas here for a serious
+
+purpose was held
+
+to determine how husbands might yet back to wisdom despite their
+
+reluctance in time be compelled
+
+why then delay any longer its settled for the future youll take
+
+up our old occupation
+
+now in turn youre to hold tongue as we did and listen while we show
+
+the way to recover the nation
+
+
+
+magistrate
+
+
+
+you talk to us why youre mad ill not stand it
+
+
+
+lysistrata
+
+
+
+cease babbling you fool till i end hold your tongue
+
+
+
+magistrate
+
+
+
+if i should take orders from one who wears veils may my
+
+neck straightaway be deservedly wrung
+
+
+
+lysistrata
+
+
+
+o if that keeps pestering you
+
+ive a veil here for your hair
+
+ill fit you out in everything
+
+as is only fair
+
+
+
+calonice
+
+
+
+heres a spindle that will do
+
+
+
+myrrhine
+
+
+
+ill add a woolbasket too
+
+
+
+lysistrata
+
+
+
+girdled now sit humbly at home
+
+munching beans while you card wool and comb for war from now on
+
+is the womens affair
+
+
+
+women
+
+
+
+come then down pitchers all
+
+and on courageous of heart
+
+in our comradely venture
+
+each taking her due part
+
+
+
+i could dance dance dance and be fresher after
+
+i could dance away numberless suns
+
+to no weariness let my knees bend
+
+earth i could brave with laughter
+
+having such wonderful girls here to friend
+
+o the daring the gracious the beautiful ones
+
+their courage unswerving and witty
+
+will rescue our city
+
+
+
+o sprung from the seed of most valiantwombed grandmothers
+
+scions of savage and dangerous nettles
+
+prepare for the battle all gird up your angers our way
+
+the wind of sweet victory settles
+
+
+
+lysistrata
+
+
+
+o tender eros and lady of cyprus some flush of beauty i
+
+pray you devise
+
+to flash on our bosoms and o aphrodite rosily gleam on
+
+our valorous thighs
+
+joy will raise up its head through the legions warring and
+
+all of the farserried ranks of madlove
+
+bristle the earth to the pillared horizon pointing in vain to
+
+the heavens above
+
+i think that perhaps then theyll give us our title
+
+peacemakers
+
+
+
+magistrate
+
+
+
+          what do you mean please explain
+
+
+
+lysistrata
+
+
+
+  first well not see you now flourishing arms about into the
+
+    marketingplace clang again
+
+
+
+women
+
+  no by the paphian
+
+
+
+lysistrata
+
+
+
+still i can conjure them as past were the herbs stand or crockerys sold
+
+like corybants jingling poor sots fully armoured they noisily round
+
+on their promenade strolled
+
+
+
+magistrate
+
+
+
+and rightly thats discipline they
+
+
+
+lysistrata
+
+
+
+but whats sillier than to go on an errand of buying a fish
+
+carrying along an immense gorgonbuckler instead the usual platter
+
+or dish
+
+a phylarch i lately saw mounted on horseback dressed for the part
+
+with long ringlets and all
+
+stow in his helmet the omelet bought steaming from an old woman who
+
+kept a foodstall
+
+nearby a soldier a thracian was shaking wildly his spear like tereus
+
+in the play
+
+to frighten a figgirl while unseen the ruffian filched from her
+
+fruittrays the ripest away
+
+
+
+magistrate
+
+
+
+how may i ask will your rule reestablish order and justice in lands
+
+so tormented
+
+
+
+lysistrata
+
+
+
+nothing is easier
+
+
+
+magistrate
+
+
+
+out with it speedilywhat is this plan that you boast youve invented
+
+
+
+lysistrata
+
+
+
+if when yarn we are winding it chances to tangle then as perchance you
+
+may know through the skein
+
+this way and that still the spool we keep passing till it is finally clear
+
+all again
+
+so to untangle the war and its errors ambassadors out on all sides we will
+
+send
+
+this way and that here there and round aboutsoon you will find that the
+
+war has an end
+
+
+
+magistrate
+
+
+
+so with these trivial tricks of the household domestic analogies of
+
+threads skeins and spools
+
+you think that youll solve such a bitter complexity unwind such political
+
+problems you fools
+
+
+
+lysistrata
+
+
+
+well first as we wash dirty wool sos to cleanse it so with a pitiless
+
+zeal we will scrub
+
+through the whole city for all greasy fellows burrs too the parasites
+
+off we will rub
+
+that verminous plague of insensate placeseekers soon between thumb and
+
+forefinger well crack
+
+all who inside athens walls have their dwelling into one great common
+
+basket well pack
+
+disenfranchised or citizens allies or aliens pellmell the lot of them
+
+in we will squeeze
+
+till they discover humanitys meaning as for disjointed and far
+
+colonies
+
+them you must never from this time imagine as scattered about just like
+
+lost hanks of wool
+
+each portion well take and wind in to this centre inward to athens
+
+each loyalty pull
+
+till from the vast heap where alls piled together at last can be woven
+
+a strong cloak of state
+
+
+
+magistrate
+
+
+
+how terrible is it to stand here and watch them carding and winding at
+
+will with our fate
+
+witless in war as they are
+
+
+
+lysistrata
+
+
+
+what of us then who ever in vain for our children must weep
+
+borne but to perish afar and in vain
+
+
+
+magistrate
+
+
+
+not that o let that one memory sleep
+
+
+
+lysistrata
+
+
+
+then while we should be companioned still merrily happy as brides may
+
+the livelong night
+
+kissing youth by we are forced to lie single but leave for a moment
+
+our pitiful plight
+
+it hurts even more to behold the poor maidens helpless wrinkling in
+
+staler virginity
+
+
+
+magistrate
+
+
+
+does not a man age
+
+
+
+lysistrata
+
+
+
+not in the same way not as a woman grows withered grows he
+
+he when returned from the war though greyheaded yet
+
+if he wishes can choose out a wife
+
+but she has no solace save peering for omens wretched and
+
+lonely the rest of her life
+
+
+
+magistrate
+
+
+
+but the old man will often select
+
+
+
+lysistrata
+
+
+
+o why not finish and die
+
+a bier is easy to buy
+
+a honeycake ill knead you with joy
+
+this garland will see you are decked
+
+
+
+calonice
+
+
+
+ive a wreath for you too
+
+
+
+myrrhine
+
+
+
+i also will fillet you
+
+
+
+lysistrata
+
+
+
+what more is lacking step aboard the boat
+
+see charon shouts ahoy
+
+youre keeping him he wants to shove afloat
+
+
+
+magistrate
+
+
+
+outrageous insults thus my place to flout
+
+now to my fellowmagistrates ill go
+
+and what youve perpetrated on me show
+
+
+
+lysistrata
+
+
+
+why are you blaming us for laying you out
+
+assure yourself well not forget to make
+
+the third day offering early for your sake
+
+
+
+magistrate retires lysistrata returns within
+
+
+
+old men
+
+
+
+all men who call your loins your own awake at last arise
+
+and strip to stand in readiness for as it seems to me
+
+some more perilous offensive in their heads they now devise
+
+im sure a tyranny
+
+like that of hippias
+
+in this i detect
+
+they mean to put us under
+
+themselves i suspect
+
+and that laconians assembling
+
+at cleisthenes house have played
+
+a trickofwar and provoked them
+
+madly to raid
+
+the treasury in which term i include
+
+the pay for my food
+
+
+
+for is it not preposterous
+
+they should talk this way to us
+
+on a subject such as battle
+
+
+
+and women as they are about bronze bucklers dare prattle
+
+make alliance with the spartanspeople i for one
+
+like very hungry wolves would always most sincere shun
+
+some dirty game is up their sleeve
+
+i believe
+
+a tyranny no doubt but they wont catch me that know
+
+henceforth on my guard ill go
+
+a sword with myrtlebranches wreathed for ever in my hand
+
+and under arms in the public place ill take my watchful stand
+
+shoulder to shoulder with aristogeiton now my staff ill draw
+
+and start at once by knocking
+
+that shocking
+
+hag upon the jaw
+
+
+
+women
+
+
+
+your own mother will not know you when you get back to the town
+
+but first my friends and allies let us lay these garments down
+
+and all ye fellowcitizens hark to me while i tell
+
+what will aid athens well
+
+just as is right for i
+
+have been a sharer
+
+in all the lavish splendour
+
+of the proud city
+
+i bore the holy vessels
+
+at seven then
+
+i pounded barley
+
+at the age of ten
+
+and clad in yellow robes
+
+soon after this
+
+i was little bear to
+
+brauronian artemis
+
+then neckletted with figs
+
+grown tall and pretty
+
+i was a basketbearer
+
+and so its obvious i should
+
+give you advice that i think good
+
+the very best i can
+
+it should not prejudice my voice that im not born a man
+
+if i say something advantageous to the present situation
+
+for im taxed too and as a toll provide men for the nation
+
+while miserable greybeards you
+
+it is true
+
+contribute nothing of any importance whatever to our needs
+
+but the treasure raised against the medes
+
+youve squandered and do nothing in return save that you make
+
+our lives and persons hazardous by some imbecile mistakes
+
+what can you answer now be careful dont arouse my spite
+
+or with my slipper ill take you napping
+
+faces slapping
+
+left and right
+
+
+
+men
+
+
+
+what villainies they contrive
+
+come let vengeance fall
+
+you that below the waist are still alive
+
+off with your tunics at my call
+
+naked all
+
+for a man must strip to battle like a man
+
+no quaking brave steps taking careless whats ahead white shoed
+
+in the nude onward bold
+
+all ye who garrisoned leipsidrion of old
+
+let each one wag
+
+as youthfully as he can
+
+and if he has the cause at heart
+
+rise at least a span
+
+
+
+we must take a stand and keep to it
+
+for if we yield the smallest bit
+
+to their importunity
+
+then nowhere from their inroads will be left to us immunity
+
+but theyll be building ships and soon their navies will attack us
+
+as artemisia did and seek to fight us and to sack us
+
+and if they mount the knights theyll rob
+
+of a job
+
+for everyone knows how talented they all are in the saddle
+
+having long practised how to straddle
+
+no matter how theyre jogged there up and down theyre never thrown
+
+then think of myrons painting and each horsebacked amazon
+
+in combat handtohand with men come on these women fall
+
+and in pierced woodcollars lets stick
+
+quick
+
+the necks of one and all
+
+
+
+women
+
+
+
+dont cross me or ill loose
+
+the beast thats kennelled here
+
+and soon you will be howling for a truce
+
+howling out with fear
+
+but my dear
+
+strip also that women may battle unhindered
+
+but you youll be too sore to eat garlic more or one black bean
+
+i really mean so greats my spleen to kick you black and blue
+
+with these my dangerous legs
+
+ill hatch the lot of you
+
+if my rage you dash on
+
+the way the relentless beetle
+
+hatched the eagles eggs
+
+
+
+scornfully aside i set
+
+every silly oldman threat
+
+while lampitos with me
+
+or dear ismenia the noble theban girl then let decree
+
+be hotly piled upon decree in vain will be your labours
+
+you futile rogue abominated by your suffering neighbour
+
+to hecates feast i yesterday went
+
+off i sent
+
+to our neighbours in boeotia asking as a gift to me
+
+for them to pack immediately
+
+that darling dainty thing  a good fat eel 1 i meant of course
+
+
+
+footnote 1vide supra p 23
+
+
+
+but they refused because some idiotic old decrees in force
+
+o this strange passion for decrees nothing on earth can check
+
+till someone puts a foot out tripping you
+
+and slipping you
+
+break your neck
+
+
+
+lysistrata enters in dismay
+
+
+
+women
+
+
+
+dear mistress of our martial enterprise
+
+why do you come with sorrow in your eyes
+
+
+
+lysistrata
+
+
+
+o tis our naughty femininity
+
+so weak in one spot that hath saddened me
+
+
+
+women
+
+
+
+whats this please speak
+
+
+
+lysistrata
+
+
+
+poor women o so weak
+
+
+
+women
+
+
+
+what can it be surely your friends may know
+
+
+
+lysistrata
+
+
+
+yea i must speak it though it hurt me so
+
+
+
+women
+
+
+
+speak can we help dont stand there mute in need
+
+
+
+lysistrata
+
+
+
+ill blurt it out thenour womens armys mutinied
+
+
+
+women
+
+
+
+o zeus
+
+
+
+lysistrata
+
+
+
+what use is zeus to our anatomy
+
+here is the gaping calamity i meant
+
+i cannot shut their ravenous appetites
+
+a moment more now they are all deserting
+
+the first i caught was sidling through the postern
+
+close by the cave of pan the next hoisting herself
+
+with rope and pulley down a third on the point
+
+of slipping past while a fourth malcontent seated
+
+for instant flight to visit orsilochus
+
+on birdback i dragged off by the hair in time
+
+they are all snatching excuses to sneak home
+
+look there goes one hey whats the hurry
+
+
+
+1st woman
+
+
+
+i must get home ive some milesian wool
+
+packed wasting away and moths are pushing through it
+
+
+
+lysistrata
+
+
+
+fine moths indeed i know get back within
+
+
+
+1st woman
+
+
+
+by the goddesses ill return instantly
+
+i only want to stretch it on my bed
+
+
+
+lysistrata
+
+
+
+you shall stretch nothing and go nowhere either
+
+
+
+1st woman
+
+
+
+must i never use my wool then
+
+
+
+lysistrata
+
+
+
+if needs be
+
+
+
+2nd woman
+
+
+
+how unfortunate i am o my poor flax
+
+its left at home unstript
+
+
+
+lysistrata
+
+
+
+so heres another
+
+that wishes to go home and strip her flax
+
+inside again
+
+
+
+2nd woman
+
+
+
+no by the goddess of light
+
+ill be back as soon as i have flayed it properly
+
+
+
+lysistrata
+
+
+
+youll not flay anything for if you begin
+
+therell not be one here but has a patch to be flayed
+
+
+
+3rd woman
+
+
+
+o holy eilithyia stay this birth
+
+till i have left the precincts of the place
+
+
+
+lysistrata
+
+
+
+what nonsense is this
+
+
+
+3rd woman
+
+
+
+ill drop it any minute
+
+
+
+lysistrata
+
+
+
+yesterday you werent with child
+
+
+
+3rd woman
+
+
+
+but i am today
+
+o let me find a midwife lysistrata
+
+o quickly
+
+
+
+lysistrata
+
+
+
+now what story is this you tell
+
+what is this hard lump here
+
+
+
+3rd woman
+
+
+
+its a male child
+
+
+
+lysistrata
+
+
+
+by aphrodite it isnt your bellys hollow
+
+and it has the feel of metal well i soon can see
+
+you hussy its athenes sacred helm
+
+and you said you were with child
+
+
+
+3rd woman
+
+
+
+and so i am
+
+
+
+lysistrata
+
+
+
+then why the helm
+
+
+
+3rd woman
+
+
+
+so if the throes should take me
+
+still in these grounds i could use it like a dove
+
+as a layingnest in which to drop the child
+
+
+
+lysistrata
+
+
+
+more pretexts you cant hide your clear intent
+
+and anyway why not wait till the tenth day
+
+meditating a brazen name for your brass brat
+
+
+
+woman
+
+
+
+and i cant sleep a wink my nerve is gone
+
+since i saw that snakesentinel of the shrine
+
+
+
+woman
+
+
+
+and all those dreadful owls with their weird hooting
+
+though im wearied out i cant close an eye
+
+
+
+lysistrata
+
+
+
+you wicked women cease from juggling lies
+
+you want your men but what of them as well
+
+they toss as sleepless in the lonely night
+
+im sure of it hold out awhile hold out
+
+but persevere a teenyweeny longer
+
+an oracle has promised victory
+
+if we dont wrangle would you hear the words
+
+
+
+women
+
+
+
+yes yes what is it
+
+
+
+lysistrata
+
+
+
+silence then you chatterboxes
+
+here
+
+whenas the swallows flocking in one place from the hoopoes
+
+deny themselves loves gambols any more
+
+all woes shall then have ending and great zeus the thunderer
+
+shall put above what was below before
+
+
+
+women
+
+
+
+will the men then always be kept under us
+
+
+
+lysistrata
+
+but if the swallows squabble among themselves and fly away
+
+out of the temple refusing to agree
+
+then the most wanton birds in all the world
+
+they shall be named for ever thats his decree
+
+
+
+woman
+
+
+
+its obvious what it means
+
+
+
+lysistrata
+
+
+
+                     now by all the gods
+
+we must let no agony deter from duty
+
+back to your quarters for we are base indeed
+
+my friends if we betray the oracle
+
+
+
+she goes out
+
+
+
+
+
+old men
+
+
+
+id like to remind you of a fable they used to employ
+
+when i was a little boy
+
+how once through fear of the marriagebed a young man
+
+melanion by name to the wilderness ran
+
+and there on the hills he dwelt
+
+for hares he wove a net
+
+which with his dog he set
+
+most likely hes there yet
+
+for he never came back home so great was the fear he felt
+
+i loathe the sex as much as he
+
+and therefore i no less shall be
+
+as chaste as was melanion
+
+
+
+man
+
+
+
+grannam do you much mind men
+
+
+
+woman
+
+
+
+onions you wont need to cry
+
+
+
+man
+
+
+
+from my foot you shant escape
+
+
+
+woman
+
+
+
+what thick forests i espy
+
+
+
+men
+
+
+
+so much myronides fierce beard
+
+and thundering black back were feared
+
+that the foe fled when they were shown
+
+brave he as phormion
+
+
+
+women
+
+
+
+well ill relate a rival fable just to show to you
+
+a different point of view
+
+there was a roughhewn fellow timon with a face
+
+that glowered as through a thornbush in a wild bleak place
+
+he too decided on flight
+
+this very furies son
+
+all the worlds ways to shun
+
+and hide from everyone
+
+spitting out curses on all knavish men to left and right
+
+but though he reared this hate for men
+
+he loved the women even then
+
+and never thought them enemies
+
+
+
+woman
+
+
+
+o your jaw id like to break
+
+
+
+man
+
+
+
+that i fear do you suppose
+
+
+
+woman
+
+
+
+learn what kicks my legs can make
+
+
+
+man
+
+
+
+raise them up and youll expose
+
+
+
+woman
+
+
+
+nay youll see there i engage
+
+all is well kept despite my age
+
+and tended smooth enough to slip
+
+from any adversarys grip
+
+
+
+lysistrata appears
+
+
+
+lysistrata
+
+
+
+hollo there hasten hither to me
+
+skip fast along
+
+
+
+woman
+
+
+
+what is this why the noise
+
+
+
+lysistrata
+
+
+
+a man a man i spy a frenzied man
+
+he carries love upon him like a staff
+
+o lady of cyprus and cythera and paphos
+
+i beseech you keep our minds and hands to the oath
+
+
+
+woman
+
+
+
+where is he whoever he is
+
+
+
+lysistrata
+
+
+
+by the temple of chloe
+
+
+
+woman
+
+
+
+yes now i see him but who can he be
+
+
+
+lysistrata
+
+
+
+look at him does anyone recognise his face
+
+
+
+myrrhine
+
+
+
+i do he is my husband cinesias
+
+
+
+lysistrata
+
+
+
+you know how to work play with him lead him on
+
+seduce him to the cozeningpointkiss him kiss him
+
+then slip your mouth aside just as hes sure of it
+
+ungirdle every caress his mouth feels at
+
+save that the oath upon the bowl has locked
+
+
+
+myrrhine
+
+
+
+you can rely on me
+
+
+
+lysistrata
+
+
+
+ill stay here to help
+
+in working up his ardor to its height
+
+of vain magnificence the rest to their quarters
+
+
+
+enter cinesias
+
+
+
+who is this that stands within our lines
+
+
+
+cinesias
+
+
+
+i
+
+
+
+lysistrata
+
+
+
+a man
+
+
+
+cinesias
+
+
+
+too much a man
+
+
+
+lysistrata
+
+
+
+then be off at once
+
+
+
+cinesias
+
+
+
+who are you that thus eject me
+
+
+
+lysistrata
+
+
+
+guard for the day
+
+
+
+cinesias
+
+
+
+by all the gods then call myrrhine hither
+
+
+
+lysistrata
+
+
+
+so call myrrhine hither who are you
+
+
+
+cinesias
+
+
+
+i am her husband cinesias son of anthros
+
+
+
+lysistrata
+
+
+
+welcome dear friend that glorious name of yours
+
+is quite familiar in our ranks your wife
+
+continually has it in her mouth
+
+she cannot touch an apple or an egg
+
+but she must say this to cinesias
+
+
+
+cinesias
+
+
+
+o is that true
+
+
+
+lysistrata
+
+
+
+by aphrodite it is
+
+if the conversation strikes on men your wife
+
+cuts in with all are boobies by cinesias
+
+
+
+cinesias
+
+
+
+then call her here
+
+
+
+lysistrata
+
+
+
+and what am i to get
+
+
+
+cinesias
+
+
+
+this if you want it see what i have here
+
+but not to take away
+
+
+
+lysistrata
+
+
+
+then ill call her
+
+
+
+cinesias
+
+
+
+be quick be quick all grace is wiped from life
+
+since she went away o sad sad am i
+
+when there i enter on that loneliness
+
+and wine is unvintaged of the suns flavour
+
+and food is tasteless but ive put on weight
+
+
+
+myrrhine above
+
+
+
+i love him o so much but he wont have it
+
+dont call me down to him
+
+
+
+cinesias
+
+
+
+sweet little myrrhine
+
+what do you mean come here
+
+
+
+myrrhine
+
+
+
+o no i wont
+
+why are you calling me you dont want me
+
+
+
+cinesias
+
+
+
+not want you with this weekold strength of love
+
+
+
+myrrhine
+
+
+
+farewell
+
+
+
+cinesias
+
+
+
+dont go please dont go myrrhine
+
+at least youll hear our child call your mother lad
+
+
+
+child
+
+
+
+mummy  mummy  mummy
+
+
+
+cinesias
+
+
+
+there now dont you feel pity for the child
+
+hes not been fed or washed now for six days
+
+
+
+myrrhine
+
+
+
+i certainly pity him with so heartless a father
+
+
+
+cinesias
+
+
+
+come down my sweetest come for the childs sake
+
+
+
+myrrhine
+
+
+
+a trying life it is to be a mother
+
+i suppose id better go             she comes down
+
+
+
+cinesias
+
+
+
+how much younger she looks
+
+how fresher and how prettier myrrhine
+
+lift up your lovely face your disdainful face
+
+and your ankle  let your scorn step out its worst
+
+it only rubs me to more ardor here
+
+
+
+myrrhine playing with the child
+
+
+
+youre as innocent as hes iniquitous
+
+let me kiss you honeypetting mothers darling
+
+
+
+cinesias
+
+
+
+how wrong to follow other womens counsel
+
+and let loose all these throbbing voids in yourself
+
+as well as in me dont you go throbthrob
+
+
+
+myrrhine
+
+
+
+take away your hands
+
+
+
+cinesias
+
+
+
+everything in the house
+
+is being ruined
+
+
+
+myrrhine
+
+
+
+i dont care at all
+
+
+
+cinesias
+
+
+
+the roosters are picking all your web to rags
+
+do you mind that
+
+
+
+myrrhine
+
+
+
+not i
+
+
+
+cinesias
+
+
+
+what time weve wasted
+
+we might have drenched with paphian laughter flung
+
+on aphrodites mysteries o come here
+
+
+
+myrrhine
+
+
+
+not till a treaty finishes the war
+
+
+
+cinesias
+
+
+
+if you must have it then well get it done
+
+
+
+myrrhine
+
+
+
+do it and ill come home till then i am bound
+
+
+
+cinesias
+
+
+
+well cant your oath perhaps be got around
+
+
+
+myrrhine
+
+
+
+no  no  still ill not say that i dont love you
+
+
+
+cinesias
+
+
+
+you love me then dear girl let me also love you
+
+
+
+myrrhine
+
+
+
+you must be joking the boys looking on
+
+
+
+cinesias
+
+
+
+here manes take the child home there hes gone
+
+theres nothing in the way now come to the point
+
+
+
+myrrhine
+
+
+
+here in the open in plain sight
+
+
+
+cinesias
+
+
+
+in pans cave
+
+a splendid place
+
+
+
+myrrhine
+
+
+
+where shall i dress my hair again
+
+before returning to the citadel
+
+
+
+cinesias
+
+
+
+you can easily primp yourself in the clepsydra
+
+
+
+myrrhine
+
+
+
+but how can i break my oath
+
+
+
+cinesias
+
+
+
+leave that to me
+
+ill take all risk
+
+
+
+myrrhine
+
+
+
+well ill make you comfortable
+
+
+
+cinesias
+
+
+
+dont worry id as soon lie on the grass
+
+
+
+myrrhine
+
+
+
+no by apollo in spite of all your faults
+
+i wont have you lying on the nasty earth
+
+from here myrrhine keeps on going off to fetch things
+
+
+
+cinesias
+
+
+
+ah how she loves me
+
+
+
+myrrhine
+
+
+
+rest there on the bench
+
+while i arrange my clothes o what a nuisance
+
+i must find some cushions first
+
+
+
+cinesias
+
+
+
+why some cushions
+
+please dont get them
+
+
+
+myrrhine
+
+
+
+what the plain hard wood
+
+never by artemis that would be too vulgar
+
+
+
+cinesias
+
+
+
+open your arms
+
+
+
+myrrhine
+
+
+
+no wait a second
+
+
+
+cinesias
+
+
+
+o
+
+then hurry back again
+
+
+
+myrrhine
+
+
+
+here the cushions are
+
+lie down while io dear but what a shame
+
+you need more pillows
+
+
+
+cinesias
+
+
+
+i dont want them dear
+
+
+
+myrrhine
+
+
+
+but i do
+
+
+
+cinesias
+
+
+
+thwarted affection mine
+
+they treat you just like heracles at a feast
+
+with cheats of dainties o disappointing arms
+
+
+
+myrrhine
+
+
+
+raise up your head
+
+
+
+cinesias
+
+
+
+there thats everything at last
+
+
+
+myrrhine
+
+
+
+yes all
+
+
+
+cinesias
+
+
+
+then run to my arms you golden girl
+
+
+
+myrrhine
+
+
+
+im loosening my girdle now but youve not forgotten
+
+youre not deceiving me about the treaty
+
+
+
+cinesias
+
+
+
+no by my life im not
+
+
+
+myrrhine
+
+
+
+why youve no blanket
+
+
+
+cinesias
+
+
+
+its not the silly blankets warmth but yours i want
+
+
+
+myrrhine
+
+
+
+never mind youll soon have both ill come straight back
+
+
+
+cinesias
+
+
+
+the woman will choke me with her coverlets
+
+
+
+myrrhine
+
+
+
+get up a moment
+
+
+
+cinesias
+
+
+
+im up high enough
+
+
+
+myrrhine
+
+
+
+would you like me to perfume you
+
+
+
+cinesias
+
+
+
+by apollo no
+
+
+
+myrrhine
+
+
+
+by aphrodite ill do it anyway
+
+
+
+cinesias
+
+
+
+lord zeus may she soon use up all the myrrh
+
+
+
+myrrhine
+
+
+
+stretch out your hand take it and rub it in
+
+
+
+cinesias
+
+
+
+hmm its not as fragrant as might be that is
+
+not before its smeared it doesnt smell of kisses
+
+
+
+myrrhine
+
+
+
+how silly i am ive brought you rhodian scents
+
+
+
+cinesias
+
+
+
+its good enough leave it love
+
+
+
+myrrhine
+
+
+
+you must be jesting
+
+
+
+cinesias
+
+
+
+plague rack the man who first compounded scent
+
+
+
+myrrhine
+
+
+
+here take this flask
+
+
+
+cinesias
+
+
+
+ive a far better one
+
+dont tease me come here and get nothing more
+
+
+
+myrrhine
+
+
+
+im coming im just drawing off my shoes
+
+youre sure you will vote for peace
+
+
+
+cinesias
+
+
+
+ill think about it
+
+she runs off
+
+im dead the womans worn me all away
+
+shes gone and left me with an anguished pulse
+
+
+
+men
+
+
+
+baulked in your amorous delight
+
+how melancholy is your plight
+
+with sympathy your case i view
+
+for i am sure its hard on you
+
+what human being could sustain
+
+this unforeseen domestic strain
+
+and not a single trace
+
+of willing women in the place
+
+
+
+cinesias
+
+
+
+o zeus what throbbing suffering
+
+
+
+men
+
+
+
+she did it all the harlot she
+
+with her atrocious harlotry
+
+
+
+women
+
+
+
+nay rather call her darlingsweet
+
+
+
+men
+
+
+
+what sweet shes a rude wicked thing
+
+
+
+cinesias
+
+
+
+a wicked thing as i repeat
+
+o zeus o zeus
+
+canst thou not suddenly let loose
+
+some twirling hurricane to tear
+
+her flapping up along the air
+
+and drop her when shes whirled around
+
+here to the ground
+
+neatly impaled upon the stake
+
+thats ready upright for her sake
+
+he goes out
+
+
+
+enter spartan herald
+
+
+
+the magistrate comes forward
+
+
+
+herald
+
+
+
+what here gabs the senate an the prytanes
+
+ive fetcht despatches for them
+
+
+
+magistrate
+
+
+
+are you a man
+
+or a monstrosity
+
+
+
+herald
+
+
+
+my scrimpbrained lad
+
+im a herald as ye see who hae come frae sparta
+
+anent a peace
+
+
+
+magistrate
+
+
+
+then why do you hide that lance
+
+that sticks out under your arms
+
+
+
+herald
+
+
+
+ive brought no lance
+
+
+
+magistrate
+
+
+
+then why do you turn aside and hold your cloak
+
+so far out from your body is your groin swollen
+
+with stress of travelling
+
+
+
+herald
+
+
+
+by castor ill swear
+
+the man is wud
+
+
+
+magistrate
+
+
+
+indeed your cloak is wide
+
+my rascal fellow
+
+
+
+herald
+
+
+
+but i tell ye no
+
+enow o fleering
+
+
+
+magistrate
+
+
+
+well what is it then
+
+
+
+herald
+
+
+
+its my despatch cane
+
+
+
+magistrate
+
+
+
+of coursea spartan cane
+
+but speak right out i know all this too well
+
+are new privations springing up in sparta
+
+
+
+herald
+
+
+
+och hard as could be in lofty lusty columns
+
+our allies stand united we maun get pellene
+
+
+
+magistrate
+
+
+
+whence has this evil come is it from pan
+
+
+
+herald
+
+
+
+no lampito first ran asklent then the others
+
+sprinted after her example and blocked the hizzies
+
+their wames unskaithed against our every fleech
+
+
+
+magistrate
+
+
+
+what did you do
+
+
+
+herald
+
+
+
+we are broken and bent double
+
+limp like men carrying lanthorns in great winds
+
+about the city they winna let us even
+
+wi lightest neif skim their primsie pretties
+
+till weve concluded peaceterms wi a hellas
+
+
+
+magistrate
+
+
+
+so the conspiracy is universal
+
+this proves it then return to sparta bid them
+
+send envoys with full powers to treat of peace
+
+and i will urge the senate here to choose
+
+plenipotentiary ambassadors
+
+as argument adducing this connection
+
+
+
+herald
+
+
+
+im off your wisdom none could contravert
+
+they retire
+
+
+
+men
+
+
+
+there is no beast no rush of fire like woman so untamed
+
+she calmly goes her way where even panthers would be shamed
+
+
+
+women
+
+
+
+and yet you are fool enough it seems to dare to war with me
+
+when for your faithful ally you might win me easily
+
+
+
+men
+
+
+
+never could the hate i feel for womankind grow less
+
+
+
+women
+
+
+
+then have your will but ill take pity on your nakedness
+
+for i can see just how ridiculous you look and so
+
+will help you with your tunic if close up i now may go
+
+
+
+men
+
+
+
+well that by zeus is no scoundreldeed i frankly will admit
+
+i only took them off myself in a scoundrel ragingfit
+
+
+
+women
+
+
+
+now you look sensible and that youre men no one could doubt
+
+if you were but good friends again id take the insect out
+
+that hurts your eye
+
+
+
+men
+
+
+
+is that whats wrong that nasty bitie thing
+
+please squeeze it out and show me what it is that makes this sting
+
+its been paining me a long while now
+
+
+
+women
+
+
+
+well ill agree to that
+
+although youre most unmannerly o what a giant gnat
+
+here look it comes from marshy tricorysus i can tell
+
+
+
+men
+
+
+
+o thank you it was digging out a veritable well
+
+now that its gone i cant hold back my tears see how they fall
+
+
+
+women
+
+
+
+ill wipe them off bad as you are and kiss you after all
+
+
+
+men
+
+
+
+i wont be kissed
+
+
+
+women
+
+
+
+o yes you will your wishes do not matter
+
+
+
+men
+
+
+
+o botheration take you all how you cajole and flatter
+
+a hell it is to live with you to live without a hell
+
+how truly was that said but come these enmities lets quell
+
+you stop from giving orders and ill stop from doing wrong
+
+so lets join ranks and seal our bargain with a choric song
+
+
+
+chorus
+
+
+
+athenians its not our intention
+
+to sow political dissension
+
+by giving any scandal mention
+
+but on the contrary to promote good feeling in the state
+
+by word and deed weve had enough calamities of late
+
+so let a man or woman but divulge
+
+they need a trifle say
+
+two minas three or four
+
+ive purses here that bulge
+
+theres only one condition made
+
+indulge my whim in this i pray
+
+when peace is signed once more
+
+on no account am i to be repaid
+
+
+
+and im making preparation
+
+for a gay select collation
+
+with some youths of reputation
+
+ive managed to produce some soup and theyre slaughtering for me
+
+a suckingpig its flesh should taste as tender as could be
+
+i shall expect you at my house today
+
+to the baths make an early visit
+
+and bring your children along
+
+dont dawdle on the way
+
+ask no one enter as if the place
+
+was all your ownyours henceforth is it
+
+if nothing chances wrong
+
+the door will then be shut bang in your face
+
+
+
+the spartan ambassadors approach
+
+
+
+chorus
+
+
+
+here come the spartan envoys with long worried beards
+
+hail spartans how do you fare
+
+did anything new arise
+
+
+
+spartans
+
+
+
+no need for a clutter o words do ye see our condition
+
+
+
+chorus
+
+
+
+the situation swells to greater tension
+
+something will explode soon
+
+
+
+spartans
+
+
+
+its awfu truly
+
+but come let us wi the best speed we may
+
+scribble a peace
+
+
+
+chorus
+
+
+
+i notice that our men
+
+like wrestlers poised for contest hold their clothes
+
+out from their bellies an athletes malady
+
+since exercise alone can bring relief
+
+
+
+athenians
+
+
+
+can anyone tell us where lysistrata is
+
+there is no need to describe our mens condition
+
+it shows up plainly enough
+
+
+
+chorus
+
+
+
+its the same disease
+
+do you feel a jerking throbbing in the morning
+
+
+
+athenians
+
+
+
+by zeus yes in these straits im racked all through
+
+unless peace is soon declared we shall be driven
+
+in the void of women to try cleisthenes
+
+
+
+chorus
+
+
+
+be wise and cover those things with your tunics
+
+who knows what kind of person may perceive you
+
+
+
+athenians
+
+
+
+by zeus youre right
+
+
+
+spartans
+
+
+
+by the twa goddesses
+
+indeed ye are lets put our tunics on
+
+
+
+athenians
+
+
+
+hail o my fellowsufferers hail spartans
+
+
+
+spartans
+
+
+
+o hinnie darling what a waefu thing
+
+if they had seen us wi our lunging waddies
+
+
+
+athenians
+
+
+
+tell us then spartans what has brought you here
+
+
+
+spartans
+
+
+
+we come to treat o peace
+
+
+
+athenians
+
+
+
+well spoken there
+
+and we the same let us callout lysistrata
+
+since she alone can settle the peaceterms
+
+
+
+spartans
+
+
+
+callout lysistratus too if ye dont mind
+
+
+
+chorus
+
+
+
+no indeed she hears your voices and she comes
+
+
+
+enter lysistrata
+
+
+
+hail wonder of all women now you must be in turn
+
+hard shifting clear deceitful noble crafty sweet and stern
+
+the foremost men of hellas smitten by your fascination
+
+have brought their tangled quarrels here for your sole arbitration
+
+
+
+lysistrata
+
+
+
+an easy task if the loves raging homesickness
+
+doesnt start trying out how well each other
+
+will serve instead of us but ill know at once
+
+if they do o wheres that girl reconciliation
+
+bring first before me the spartan delegates
+
+and see you lift no rude or violent hands
+
+none of the churlish ways our husbands used
+
+but lead them courteously as women should
+
+and if they grudge fingers guide them by other methods
+
+and introduce them with ready tact the athenians
+
+draw by whatever offers you a grip
+
+now spartans stay here facing me here you
+
+athenians both hearken to my words
+
+i am a woman but im not a fool
+
+and what of natural intelligence i own
+
+has been filled out with the remembered precepts
+
+my father and the cityelders taught me
+
+first i reproach you both sides equally
+
+that when at pylae and olympia
+
+at pytho and the many other shrines
+
+that i could name you sprinkle from one cup
+
+the altars common to all hellenes yet
+
+you wrack hellenic cities bloody hellas
+
+with deaths of her own sons while yonder clangs
+
+the gathering menace of barbarians
+
+
+
+athenians
+
+
+
+we cannot hold it in much longer now
+
+
+
+lysistrata
+
+
+
+now unto you o spartans do i speak
+
+do you forget how your own countryman
+
+pericleidas once came hither suppliant
+
+before our altars pale in his purple robes
+
+praying for an army when in messenia
+
+danger growled and the seagod made earth quaver
+
+then with four thousand hoplites cimon marched
+
+and saved all sparta yet base ingrates now
+
+you are ravaging the soil of your preservers
+
+
+
+athenians
+
+
+
+by zeus they do great wrong lysistrata
+
+
+
+spartans
+
+
+
+great wrong indeed o what a luscious wench
+
+
+
+lysistrata
+
+
+
+and now i turn to the athenians
+
+have you forgotten too how once the spartans
+
+in days when you wore slavish tunics came
+
+and with their spears broke a thessalian host
+
+and all the partisans of hippias
+
+they alone stood by your shoulder on that day
+
+they freed you so that for the slaves short skirt
+
+you should wear the trailing cloak of liberty
+
+
+
+spartans
+
+
+
+ive never seen a nobler woman anywhere
+
+
+
+athenians
+
+
+
+nor i one with such prettily jointing hips
+
+
+
+lysistrata
+
+
+
+now brethren twined with mutual benefactions
+
+can you still war can you suffer such disgrace
+
+why not be friends what is there to prevent you
+
+
+
+spartans
+
+
+
+were agreed gin that we get this tempting mole
+
+
+
+lysistrata
+
+
+
+which one
+
+
+
+spartans
+
+
+
+that ane weve wanted to get into
+
+o for sae lang pylos of course
+
+
+
+athenians
+
+
+
+by poseidon
+
+never
+
+
+
+lysistrata
+
+
+
+give it up
+
+
+
+athenians
+
+
+
+then what will we do
+
+we need that ticklish place united to us
+
+
+
+lysistrata
+
+
+
+ask for some other lurkinghole in return
+
+
+
+athenians
+
+
+
+then ah well choose this snug thing here echinus
+
+shall we call the nestling spot and this backside haven
+
+these desirable twin promontories the maliac
+
+and then of course these megarean legs
+
+
+
+spartans
+
+
+
+not that o surely not that never that
+
+
+
+lysistrata
+
+
+
+agree now what are two legs more or less
+
+
+
+athenians
+
+
+
+i want to strip at once and plough my land
+
+
+
+spartans
+
+
+
+and mine i want to fertilize at once
+
+
+
+lysistrata
+
+
+
+and so you can when peace is once declared
+
+if you mean it get your allies heads together
+
+and come to some decision
+
+
+
+athenians
+
+
+
+what allies
+
+theres no distinction in our politics
+
+weve risen as one man to this conclusion
+
+every ally is jumpingmad to drive it home
+
+
+
+spartans
+
+
+
+and ours the same for sure
+
+
+
+athenians
+
+
+
+the carystians first
+
+ill bet on that
+
+
+
+lysistrata
+
+
+
+i agree with all of you
+
+now off and cleanse yourselves for the acropolis
+
+for we invite you all in to a supper
+
+from our commissariat baskets there at table
+
+you will pledge good behaviour and uprightness
+
+then each mans wife is his to hustle home
+
+
+
+athenians
+
+
+
+come as quickly as possible
+
+
+
+spartans
+
+
+
+as quick as ye like
+
+lead on
+
+
+
+athenians
+
+
+
+o zeus quick quick lead quickly on
+
+they hurry off
+
+
+
+chorus
+
+
+
+broidered stuffs on high im heaping
+
+fashionable cloaks and sweeping
+
+trains not even gold gawds keeping
+
+take them all i pray you take them all i do not care
+
+and deck your childrenyour daughter if the basket shes to bear
+
+come everyone of you come in and take
+
+of this rich hoard a share
+
+noughts tied so skilfully
+
+but you its seal can break
+
+and plunder all you spy inside
+
+ive laid out all that i can spare
+
+and therefore you will see
+
+nothing unless than i youre sharpereyed
+
+if lacking corn a man should be
+
+while his slaves clamour hungrily
+
+and his excessive progeny
+
+then ive a handfull of grain at home which is always to be had
+
+and to which in fact a morethanlifesize loaf id gladly add
+
+then let the poor bring with them bag or sack
+
+and take this store of food
+
+manes my man ill tell
+
+to help them all to pack
+
+their wallets full but o take care
+
+i had forgotten dont intrude
+
+or terrified youll yell
+
+my dog is hungry too and bitesbeware
+
+
+
+some loungers from the market with torches approach
+
+the banqueting hall the porter bars their entrance
+
+
+
+1st marketlounger
+
+
+
+open the door
+
+
+
+porter
+
+
+
+here move along
+
+
+
+1st marketlounger
+
+
+
+whats this
+
+youre sitting down shall i singe you with my torch
+
+thats vulgar o i couldnt do it  yet
+
+if it would gratify the audience
+
+ill mortify myself
+
+
+
+2nd marketlounger
+
+
+
+and i will too
+
+well both be crude and vulgar yes we will
+
+
+
+porter
+
+
+
+be off at once now or youll be wailing
+
+dirges for your hair get off at once
+
+and see you dont disturb the spartan envoys
+
+just coming out from the splendid feast theyve had
+
+
+
+the banqueters begin to come out
+
+
+
+1st athenian
+
+
+
+ive never known such a pleasant banquet before
+
+and what delightful fellows the spartans are
+
+when we are warm with wine how wise we grow
+
+
+
+2nd athenian
+
+
+
+thats only fair since sober were such fools
+
+this is the advice id give the athenians
+
+see our ambassadors are always drunk
+
+for when we visit sparta sober then
+
+were on the alert for trickery all the while
+
+so that we miss half of the things they say
+
+and misinterpret things that were never said
+
+and then report the muddle back to athens
+
+but now were charmed with each other they might cap
+
+with the telamoncatch instead of the cleitagora
+
+and wed applaud and praise them just the same
+
+were not too scrupulous in weighing words
+
+
+
+porter
+
+
+
+why here the rascals come again to plague me
+
+wont you move on you sorry loafers there
+
+
+
+marketlounger
+
+
+
+yes by zeus theyre already coming out
+
+
+
+spartans
+
+
+
+now hinnie dearest please tak up your pipe
+
+that i may try a spring an sing my best
+
+in honour o the athenians an oursels
+
+
+
+athenians
+
+
+
+aye take your pipe by all the gods theres nothing
+
+could glad my heart more than to watch you dance
+
+
+
+spartans
+
+
+
+mnemosyne
+
+let thy fire storm these younkers
+
+o tongue wi stormy ecstasy
+
+my muse that knows
+
+our deeds and theirs how when at sea
+
+their navies swooped upon
+
+the medes at artemision
+
+gods for their courage did they strike
+
+wrenching a triumph frae their foes
+
+while at thermopylae
+
+leonidas army stood wildboars they were like
+
+wildboars that wi fierce threat
+
+their terrible tusks whet
+
+the sweat ran streaming down each twisted face
+
+faen blossoming i strange petals o death
+
+panted frae mortal breath
+
+the sweat drenched a their bodies i that place
+
+for the hurlyburly o persians glittered more
+
+than the sands on the shore
+
+
+
+come hunting girl an hear my prayer
+
+you whose arrows whizz in woodlands come an bless
+
+this peace we swear
+
+let us be fenced wi age long amity
+
+o let this bond stick ever firm through thee
+
+in friendly happiness
+
+henceforth no guilefu perjury be seen
+
+o hither hither o
+
+thou wildwood queen
+
+
+
+lysistrata
+
+
+
+earth is delighted now peace is the voice of earth
+
+spartans sort out your wives athenians yours
+
+let each catch hands with his wife and dance his joy
+
+dance out his thanks be grateful in music
+
+and promise reformation with his heels
+
+
+
+athenians
+
+
+
+o dancers forward lead out the graces
+
+call artemis out
+
+then her brother the dancer of skies
+
+that gracious apollo
+
+invoke with a shout
+
+dionysus out of whose eyes
+
+breaks fire on the maenads that follow
+
+and zeus with his flares of quick lightning and call
+
+happy hera queen of all
+
+and all the daimons summon hither to be
+
+witnesses of our revelry
+
+and of the noble peace we have made
+
+aphrodite our aid
+
+io paieon io cry
+
+for victory leap
+
+attained by me leap
+
+euoi euoi euai euai
+
+
+
+spartans
+
+
+
+piper gie us the music for a new sang
+
+
+
+spartans
+
+
+
+leaving again lovely lofty taygetus
+
+hither o spartan muse hither to greet us
+
+and wi our choric voice to raise
+
+to amyclean apollo praise
+
+and tyndareus gallant sons whose days
+
+alang eurotas banks merrily pass
+
+an athene o the house o brass
+
+
+
+now the dance begin
+
+dance making swirl your fringe o woolly skin
+
+while we join voices
+
+to hymn dear sparta that rejoices
+
+i a beautifu sang
+
+an loves to see
+
+dancers tangled beautifully
+
+for the girls i tumbled ranks
+
+alang eurotas banks
+
+like wanton fillies thrang
+
+frolicking there
+
+an like bacchantes shaking the wild air
+
+to comb a giddy laughter through the hair
+
+bacchantes that clench thyrsi as they sweep
+
+to the ecstatic leap
+
+
+
+an helen child o leda come
+
+thou holy nimble gracefu queen
+
+lead thou the dance gather thy joyous tresses up i bands
+
+an play like a fawn to madden them clap thy hands
+
+and sing praise to the warrior goddess templed i our lands
+
+her o the house o brass
+
+
+
+
+
+
+
+
+
+
+
+end of the project gutenberg ebook of lysistrata by aristophanes
+
+
+
+ end of this project gutenberg ebook lysistrata 
+
+
+
+ this file should be named 7700txt or 7700zip 
+
+this and all associated files of various formats will be found in
+
+        httpwwwgutenbergorg7707700
+
+
+
+produced by ted garvin david widger and the distributed
+
+proofreaders team
+
+
+
+
+
+updated editions will replace the previous onethe old editions
+
+will be renamed
+
+
+
+creating the works from public domain print editions means that no
+
+one owns a united states copyright in these works so the foundation
+
+and you can copy and distribute it in the united states without
+
+permission and without paying copyright royalties  special rules
+
+set forth in the general terms of use part of this license apply to
+
+copying and distributing project gutenbergtm electronic works to
+
+protect the project gutenbergtm concept and trademark  project
+
+gutenberg is a registered trademark and may not be used if you
+
+charge for the ebooks unless you receive specific permission  if you
+
+do not charge anything for copies of this ebook complying with the
+
+rules is very easy  you may use this ebook for nearly any purpose
+
+such as creation of derivative works reports performances and
+
+research  they may be modified and printed and given awayyou may do
+
+practically anything with public domain ebooks  redistribution is
+
+subject to the trademark license especially commercial
+
+redistribution
+
+
+
+
+
+
+
+ start full license 
+
+
+
+the full project gutenberg license
+
+please read this before you distribute or use this work
+
+
+
+to protect the project gutenbergtm mission of promoting the free
+
+distribution of electronic works by using or distributing this work
+
+or any other work associated in any way with the phrase project
+
+gutenberg you agree to comply with all the terms of the full project
+
+gutenbergtm license available with this file or online at
+
+httpgutenbergorglicense
+
+
+
+
+
+section 1  general terms of use and redistributing project gutenbergtm
+
+electronic works
+
+
+
+1a  by reading or using any part of this project gutenbergtm
+
+electronic work you indicate that you have read understand agree to
+
+and accept all the terms of this license and intellectual property
+
+trademarkcopyright agreement  if you do not agree to abide by all
+
+the terms of this agreement you must cease using and return or destroy
+
+all copies of project gutenbergtm electronic works in your possession
+
+if you paid a fee for obtaining a copy of or access to a project
+
+gutenbergtm electronic work and you do not agree to be bound by the
+
+terms of this agreement you may obtain a refund from the person or
+
+entity to whom you paid the fee as set forth in paragraph 1e8
+
+
+
+1b  project gutenberg is a registered trademark  it may only be
+
+used on or associated in any way with an electronic work by people who
+
+agree to be bound by the terms of this agreement  there are a few
+
+things that you can do with most project gutenbergtm electronic works
+
+even without complying with the full terms of this agreement  see
+
+paragraph 1c below  there are a lot of things you can do with project
+
+gutenbergtm electronic works if you follow the terms of this agreement
+
+and help preserve free future access to project gutenbergtm electronic
+
+works  see paragraph 1e below
+
+
+
+1c  the project gutenberg literary archive foundation the foundation
+
+or pglaf owns a compilation copyright in the collection of project
+
+gutenbergtm electronic works  nearly all the individual works in the
+
+collection are in the public domain in the united states  if an
+
+individual work is in the public domain in the united states and you are
+
+located in the united states we do not claim a right to prevent you from
+
+copying distributing performing displaying or creating derivative
+
+works based on the work as long as all references to project gutenberg
+
+are removed  of course we hope that you will support the project
+
+gutenbergtm mission of promoting free access to electronic works by
+
+freely sharing project gutenbergtm works in compliance with the terms of
+
+this agreement for keeping the project gutenbergtm name associated with
+
+the work  you can easily comply with the terms of this agreement by
+
+keeping this work in the same format with its attached full project
+
+gutenbergtm license when you share it without charge with others
+
+
+
+1d  the copyright laws of the place where you are located also govern
+
+what you can do with this work  copyright laws in most countries are in
+
+a constant state of change  if you are outside the united states check
+
+the laws of your country in addition to the terms of this agreement
+
+before downloading copying displaying performing distributing or
+
+creating derivative works based on this work or any other project
+
+gutenbergtm work  the foundation makes no representations concerning
+
+the copyright status of any work in any country outside the united
+
+states
+
+
+
+1e  unless you have removed all references to project gutenberg
+
+
+
+1e1  the following sentence with active links to or other immediate
+
+access to the full project gutenbergtm license must appear prominently
+
+whenever any copy of a project gutenbergtm work any work on which the
+
+phrase project gutenberg appears or with which the phrase project
+
+gutenberg is associated is accessed displayed performed viewed
+
+copied or distributed
+
+
+
+this ebook is for the use of anyone anywhere at no cost and with
+
+almost no restrictions whatsoever  you may copy it give it away or
+
+reuse it under the terms of the project gutenberg license included
+
+with this ebook or online at wwwgutenbergorg
+
+
+
+1e2  if an individual project gutenbergtm electronic work is derived
+
+from the public domain does not contain a notice indicating that it is
+
+posted with permission of the copyright holder the work can be copied
+
+and distributed to anyone in the united states without paying any fees
+
+or charges  if you are redistributing or providing access to a work
+
+with the phrase project gutenberg associated with or appearing on the
+
+work you must comply either with the requirements of paragraphs 1e1
+
+through 1e7 or obtain permission for the use of the work and the
+
+project gutenbergtm trademark as set forth in paragraphs 1e8 or
+
+1e9
+
+
+
+1e3  if an individual project gutenbergtm electronic work is posted
+
+with the permission of the copyright holder your use and distribution
+
+must comply with both paragraphs 1e1 through 1e7 and any additional
+
+terms imposed by the copyright holder  additional terms will be linked
+
+to the project gutenbergtm license for all works posted with the
+
+permission of the copyright holder found at the beginning of this work
+
+
+
+1e4  do not unlink or detach or remove the full project gutenbergtm
+
+license terms from this work or any files containing a part of this
+
+work or any other work associated with project gutenbergtm
+
+
+
+1e5  do not copy display perform distribute or redistribute this
+
+electronic work or any part of this electronic work without
+
+prominently displaying the sentence set forth in paragraph 1e1 with
+
+active links or immediate access to the full terms of the project
+
+gutenbergtm license
+
+
+
+1e6  you may convert to and distribute this work in any binary
+
+compressed marked up nonproprietary or proprietary form including any
+
+word processing or hypertext form  however if you provide access to or
+
+distribute copies of a project gutenbergtm work in a format other than
+
+plain vanilla ascii or other format used in the official version
+
+posted on the official project gutenbergtm web site wwwgutenbergorg
+
+you must at no additional cost fee or expense to the user provide a
+
+copy a means of exporting a copy or a means of obtaining a copy upon
+
+request of the work in its original plain vanilla ascii or other
+
+form  any alternate format must include the full project gutenbergtm
+
+license as specified in paragraph 1e1
+
+
+
+1e7  do not charge a fee for access to viewing displaying
+
+performing copying or distributing any project gutenbergtm works
+
+unless you comply with paragraph 1e8 or 1e9
+
+
+
+1e8  you may charge a reasonable fee for copies of or providing
+
+access to or distributing project gutenbergtm electronic works provided
+
+that
+
+
+
+ you pay a royalty fee of 20 of the gross profits you derive from
+
+     the use of project gutenbergtm works calculated using the method
+
+     you already use to calculate your applicable taxes  the fee is
+
+     owed to the owner of the project gutenbergtm trademark but he
+
+     has agreed to donate royalties under this paragraph to the
+
+     project gutenberg literary archive foundation  royalty payments
+
+     must be paid within 60 days following each date on which you
+
+     prepare or are legally required to prepare your periodic tax
+
+     returns  royalty payments should be clearly marked as such and
+
+     sent to the project gutenberg literary archive foundation at the
+
+     address specified in section 4 information about donations to
+
+     the project gutenberg literary archive foundation
+
+
+
+ you provide a full refund of any money paid by a user who notifies
+
+     you in writing or by email within 30 days of receipt that she
+
+     does not agree to the terms of the full project gutenbergtm
+
+     license  you must require such a user to return or
+
+     destroy all copies of the works possessed in a physical medium
+
+     and discontinue all use of and all access to other copies of
+
+     project gutenbergtm works
+
+
+
+ you provide in accordance with paragraph 1f3 a full refund of any
+
+     money paid for a work or a replacement copy if a defect in the
+
+     electronic work is discovered and reported to you within 90 days
+
+     of receipt of the work
+
+
+
+ you comply with all other terms of this agreement for free
+
+     distribution of project gutenbergtm works
+
+
+
+1e9  if you wish to charge a fee or distribute a project gutenbergtm
+
+electronic work or group of works on different terms than are set
+
+forth in this agreement you must obtain permission in writing from
+
+both the project gutenberg literary archive foundation and michael
+
+hart the owner of the project gutenbergtm trademark  contact the
+
+foundation as set forth in section 3 below
+
+
+
+1f
+
+
+
+1f1  project gutenberg volunteers and employees expend considerable
+
+effort to identify do copyright research on transcribe and proofread
+
+public domain works in creating the project gutenbergtm
+
+collection  despite these efforts project gutenbergtm electronic
+
+works and the medium on which they may be stored may contain
+
+defects such as but not limited to incomplete inaccurate or
+
+corrupt data transcription errors a copyright or other intellectual
+
+property infringement a defective or damaged disk or other medium a
+
+computer virus or computer codes that damage or cannot be read by
+
+your equipment
+
+
+
+1f2  limited warranty disclaimer of damages  except for the right
+
+of replacement or refund described in paragraph 1f3 the project
+
+gutenberg literary archive foundation the owner of the project
+
+gutenbergtm trademark and any other party distributing a project
+
+gutenbergtm electronic work under this agreement disclaim all
+
+liability to you for damages costs and expenses including legal
+
+fees  you agree that you have no remedies for negligence strict
+
+liability breach of warranty or breach of contract except those
+
+provided in paragraph f3  you agree that the foundation the
+
+trademark owner and any distributor under this agreement will not be
+
+liable to you for actual direct indirect consequential punitive or
+
+incidental damages even if you give notice of the possibility of such
+
+damage
+
+
+
+1f3  limited right of replacement or refund  if you discover a
+
+defect in this electronic work within 90 days of receiving it you can
+
+receive a refund of the money if any you paid for it by sending a
+
+written explanation to the person you received the work from  if you
+
+received the work on a physical medium you must return the medium with
+
+your written explanation  the person or entity that provided you with
+
+the defective work may elect to provide a replacement copy in lieu of a
+
+refund  if you received the work electronically the person or entity
+
+providing it to you may choose to give you a second opportunity to
+
+receive the work electronically in lieu of a refund  if the second copy
+
+is also defective you may demand a refund in writing without further
+
+opportunities to fix the problem
+
+
+
+1f4  except for the limited right of replacement or refund set forth
+
+in paragraph 1f3 this work is provided to you asis with no other
+
+warranties of any kind express or implied including but not limited to
+
+warranties of merchantibility or fitness for any purpose
+
+
+
+1f5  some states do not allow disclaimers of certain implied
+
+warranties or the exclusion or limitation of certain types of damages
+
+if any disclaimer or limitation set forth in this agreement violates the
+
+law of the state applicable to this agreement the agreement shall be
+
+interpreted to make the maximum disclaimer or limitation permitted by
+
+the applicable state law  the invalidity or unenforceability of any
+
+provision of this agreement shall not void the remaining provisions
+
+
+
+1f6  indemnity  you agree to indemnify and hold the foundation the
+
+trademark owner any agent or employee of the foundation anyone
+
+providing copies of project gutenbergtm electronic works in accordance
+
+with this agreement and any volunteers associated with the production
+
+promotion and distribution of project gutenbergtm electronic works
+
+harmless from all liability costs and expenses including legal fees
+
+that arise directly or indirectly from any of the following which you do
+
+or cause to occur a distribution of this or any project gutenbergtm
+
+work b alteration modification or additions or deletions to any
+
+project gutenbergtm work and c any defect you cause
+
+
+
+
+
+section  2  information about the mission of project gutenbergtm
+
+
+
+project gutenbergtm is synonymous with the free distribution of
+
+electronic works in formats readable by the widest variety of computers
+
+including obsolete old middleaged and new computers  it exists
+
+because of the efforts of hundreds of volunteers and donations from
+
+people in all walks of life
+
+
+
+volunteers and financial support to provide volunteers with the
+
+assistance they need is critical to reaching project gutenbergtms
+
+goals and ensuring that the project gutenbergtm collection will
+
+remain freely available for generations to come  in 2001 the project
+
+gutenberg literary archive foundation was created to provide a secure
+
+and permanent future for project gutenbergtm and future generations
+
+to learn more about the project gutenberg literary archive foundation
+
+and how your efforts and donations can help see sections 3 and 4
+
+and the foundation web page at httpwwwpglaforg
+
+
+
+
+
+section 3  information about the project gutenberg literary archive
+
+foundation
+
+
+
+the project gutenberg literary archive foundation is a non profit
+
+501c3 educational corporation organized under the laws of the
+
+state of mississippi and granted tax exempt status by the internal
+
+revenue service  the foundations ein or federal tax identification
+
+number is 646221541  its 501c3 letter is posted at
+
+httppglaforgfundraising  contributions to the project gutenberg
+
+literary archive foundation are tax deductible to the full extent
+
+permitted by us federal laws and your states laws
+
+
+
+the foundations principal office is located at 4557 melan dr s
+
+fairbanks ak 99712 but its volunteers and employees are scattered
+
+throughout numerous locations  its business office is located at
+
+809 north 1500 west salt lake city ut 84116 801 5961887 email
+
+businesspglaforg  email contact links and up to date contact
+
+information can be found at the foundations web site and official
+
+page at httppglaforg
+
+
+
+for additional contact information
+
+     dr gregory b newby
+
+     chief executive and director
+
+     gbnewbypglaforg
+
+
+
+
+
+section 4  information about donations to the project gutenberg
+
+literary archive foundation
+
+
+
+project gutenbergtm depends upon and cannot survive without wide
+
+spread public support and donations to carry out its mission of
+
+increasing the number of public domain and licensed works that can be
+
+freely distributed in machine readable form accessible by the widest
+
+array of equipment including outdated equipment  many small donations
+
+1 to 5000 are particularly important to maintaining tax exempt
+
+status with the irs
+
+
+
+the foundation is committed to complying with the laws regulating
+
+charities and charitable donations in all 50 states of the united
+
+states  compliance requirements are not uniform and it takes a
+
+considerable effort much paperwork and many fees to meet and keep up
+
+with these requirements  we do not solicit donations in locations
+
+where we have not received written confirmation of compliance  to
+
+send donations or determine the status of compliance for any
+
+particular state visit httppglaforg
+
+
+
+while we cannot and do not solicit contributions from states where we
+
+have not met the solicitation requirements we know of no prohibition
+
+against accepting unsolicited donations from donors in such states who
+
+approach us with offers to donate
+
+
+
+international donations are gratefully accepted but we cannot make
+
+any statements concerning tax treatment of donations received from
+
+outside the united states  us laws alone swamp our small staff
+
+
+
+please check the project gutenberg web pages for current donation
+
+methods and addresses  donations are accepted in a number of other
+
+ways including checks online payments and credit card donations
+
+to donate please visit httppglaforgdonate
+
+
+
+
+
+section 5  general information about project gutenbergtm electronic
+
+works
+
+
+
+professor michael s hart is the originator of the project gutenbergtm
+
+concept of a library of electronic works that could be freely shared
+
+with anyone  for thirty years he produced and distributed project
+
+gutenbergtm ebooks with only a loose network of volunteer support
+
+
+
+
+
+project gutenbergtm ebooks are often created from several printed
+
+editions all of which are confirmed as public domain in the us
+
+unless a copyright notice is included  thus we do not necessarily
+
+keep ebooks in compliance with any particular paper edition
+
+
+
+
+
+most people start at our web site which has the main pg search facility
+
+
+
+     httpwwwgutenbergorg
+
+
+
+this web site includes information about project gutenbergtm
+
+including how to make donations to the project gutenberg literary
+
+archive foundation how to help produce our new ebooks and how to
+
+subscribe to our email newsletter to hear about new ebooks
+
