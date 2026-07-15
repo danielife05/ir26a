@@ -2,11 +2,22 @@ import os
 import io
 import json
 import urllib.request
-from http.server import BaseHTTPRequestHandler
+from pathlib import Path
 
 import numpy as np
+from fastapi import FastAPI
+from fastapi.responses import HTMLResponse, JSONResponse
+from pydantic import BaseModel
 from openai import OpenAI
 from fastembed import TextEmbedding
+
+# El unico directorio con permiso de escritura dentro de una funcion
+# serverless de Vercel es /tmp. Le decimos explicitamente a fastembed que
+# use esa carpeta para descargar y cachear el modelo ONNX (por defecto
+# intenta escribir en ~/.cache, que en Vercel es de solo lectura y hace
+# que la funcion "crashee" en el primer arranque en frio).
+CACHE_DIR = "/tmp/fastembed_cache"
+os.makedirs(CACHE_DIR, exist_ok=True)
 
 # El corpus (4000 documentos) y sus embeddings pesan varios MB, demasiado
 # para empaquetarlos dentro del deployment de la funcion serverless. En vez
@@ -26,13 +37,15 @@ def _descargar(nombre):
 CORPUS = json.loads(_descargar("corpus.json").decode("utf-8"))
 EMBEDDINGS = np.load(io.BytesIO(_descargar("embeddings.npy")))
 
-EMBED_MODEL = TextEmbedding(model_name="BAAI/bge-small-en-v1.5")
+EMBED_MODEL = TextEmbedding(model_name="BAAI/bge-small-en-v1.5", cache_dir=CACHE_DIR)
 
 client = OpenAI(
     base_url="https://api.groq.com/openai/v1",
     api_key=os.environ["GROQ_API_KEY"],
 )
 MODELO_LLM = "llama-3.3-70b-versatile"
+
+INDEX_HTML = (Path(__file__).parent / "index.html").read_text(encoding="utf-8")
 
 
 def recuperar(pregunta, k=15):
@@ -100,46 +113,38 @@ def generar_respuesta(pregunta, evidencia):
     return resp.choices[0].message.content
 
 
-class handler(BaseHTTPRequestHandler):
-    def do_POST(self):
-        try:
-            largo = int(self.headers.get("Content-Length", 0))
-            cuerpo = json.loads(self.rfile.read(largo) or b"{}")
-            pregunta = (cuerpo.get("pregunta") or "").strip()
-            if not pregunta:
-                self._responder(400, {"error": "Falta el campo 'pregunta'."})
-                return
+app = FastAPI()
 
-            candidatos = recuperar(pregunta, k=15)
-            evidencia = rerankear(pregunta, candidatos, top_n=5)
-            respuesta = generar_respuesta(pregunta, evidencia)
 
-            self._responder(200, {
-                "respuesta": respuesta,
-                "evidencia": [
-                    {
-                        "doc_id": c["doc_id"],
-                        "titulo": c["titulo"],
-                        "abstract": c["abstract"][:500],
-                        "categorias": c.get("categorias", ""),
-                        "similitud": round(c["similitud"], 4),
-                    }
-                    for c in evidencia
-                ],
-            })
-        except Exception as e:
-            self._responder(500, {"error": str(e)})
+@app.get("/", response_class=HTMLResponse)
+def index():
+    return INDEX_HTML
 
-    def _responder(self, codigo, cuerpo):
-        self.send_response(codigo)
-        self.send_header("Content-Type", "application/json")
-        self.send_header("Access-Control-Allow-Origin", "*")
-        self.end_headers()
-        self.wfile.write(json.dumps(cuerpo).encode("utf-8"))
 
-    def do_OPTIONS(self):
-        self.send_response(204)
-        self.send_header("Access-Control-Allow-Origin", "*")
-        self.send_header("Access-Control-Allow-Methods", "POST, OPTIONS")
-        self.send_header("Access-Control-Allow-Headers", "Content-Type")
-        self.end_headers()
+class PreguntaEntrada(BaseModel):
+    pregunta: str
+
+
+@app.post("/api/chat")
+def chat(cuerpo: PreguntaEntrada):
+    pregunta = (cuerpo.pregunta or "").strip()
+    if not pregunta:
+        return JSONResponse(status_code=400, content={"error": "Falta el campo 'pregunta'."})
+
+    candidatos = recuperar(pregunta, k=15)
+    evidencia = rerankear(pregunta, candidatos, top_n=5)
+    respuesta = generar_respuesta(pregunta, evidencia)
+
+    return {
+        "respuesta": respuesta,
+        "evidencia": [
+            {
+                "doc_id": c["doc_id"],
+                "titulo": c["titulo"],
+                "abstract": c["abstract"][:500],
+                "categorias": c.get("categorias", ""),
+                "similitud": round(c["similitud"], 4),
+            }
+            for c in evidencia
+        ],
+    }
