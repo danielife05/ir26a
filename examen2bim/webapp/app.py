@@ -1,7 +1,16 @@
 import os
-import io
+
+# El unico directorio con permiso de escritura dentro de una funcion
+# serverless de Vercel es /tmp. huggingface_hub (usado internamente por
+# fastembed) revisa HF_HOME para varias rutas de cache/locks, sin importar
+# lo que se le pase como cache_dir a TextEmbedding, asi que lo fijamos
+# ANTES de importar fastembed. Ademas forzamos "modo offline": el modelo
+# ya viene empaquetado con el deployment (carpeta model_cache/), asi que
+# no hace falta ni conviene que intente red en cada arranque en frio.
+os.environ["HF_HOME"] = "/tmp/hf_home"
+os.environ["HF_HUB_OFFLINE"] = "1"
+
 import json
-import urllib.request
 from pathlib import Path
 
 import numpy as np
@@ -11,33 +20,21 @@ from pydantic import BaseModel
 from openai import OpenAI
 from fastembed import TextEmbedding
 
-# El unico directorio con permiso de escritura dentro de una funcion
-# serverless de Vercel es /tmp. Le decimos explicitamente a fastembed que
-# use esa carpeta para descargar y cachear el modelo ONNX (por defecto
-# intenta escribir en ~/.cache, que en Vercel es de solo lectura y hace
-# que la funcion "crashee" en el primer arranque en frio).
-CACHE_DIR = "/tmp/fastembed_cache"
-os.makedirs(CACHE_DIR, exist_ok=True)
+BASE_DIR = Path(__file__).parent
 
-# El corpus (4000 documentos) y sus embeddings pesan varios MB, demasiado
-# para empaquetarlos dentro del deployment de la funcion serverless. En vez
-# de eso los descargamos una sola vez (al "arrancar en frio" la funcion)
-# desde el repositorio de GitHub donde vive el resto del examen, y los
-# guardamos en variables globales para que las siguientes invocaciones
-# (mientras la funcion siga "caliente") no vuelvan a descargarlos.
-RAW_BASE = "https://raw.githubusercontent.com/danielife05/ir26a/main/examen2bim/webapp/api/data"
+# El corpus y sus embeddings viajan empaquetados con el deployment (son
+# parte del repositorio de git), asi que se leen directo del disco: no se
+# descargan por red en cada arranque en frio.
+with open(BASE_DIR / "api" / "data" / "corpus.json", encoding="utf-8") as f:
+    CORPUS = json.load(f)
 
+EMBEDDINGS = np.load(BASE_DIR / "api" / "data" / "embeddings.npy")
 
-def _descargar(nombre):
-    url = f"{RAW_BASE}/{nombre}"
-    with urllib.request.urlopen(url, timeout=30) as resp:
-        return resp.read()
-
-
-CORPUS = json.loads(_descargar("corpus.json").decode("utf-8"))
-EMBEDDINGS = np.load(io.BytesIO(_descargar("embeddings.npy")))
-
-EMBED_MODEL = TextEmbedding(model_name="BAAI/bge-small-en-v1.5", cache_dir=CACHE_DIR)
+# El modelo de embeddings (ONNX cuantizado, ~65 MB) tambien viaja
+# empaquetado en model_cache/, con la misma estructura de cache que usa
+# huggingface_hub. Al estar completo localmente, la carga es instantanea
+# y no depende de la red ni de escribir en disco.
+EMBED_MODEL = TextEmbedding(model_name="BAAI/bge-small-en-v1.5", cache_dir=str(BASE_DIR / "model_cache"))
 
 client = OpenAI(
     base_url="https://api.groq.com/openai/v1",
@@ -45,7 +42,7 @@ client = OpenAI(
 )
 MODELO_LLM = "llama-3.3-70b-versatile"
 
-INDEX_HTML = (Path(__file__).parent / "index.html").read_text(encoding="utf-8")
+INDEX_HTML = (BASE_DIR / "index.html").read_text(encoding="utf-8")
 
 
 def recuperar(pregunta, k=15):
